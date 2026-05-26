@@ -113,7 +113,7 @@
                         "is_playlist": false,
                         "link_names": [
                             "FAST SERVERS HD",
-                            "PLAYZ TV SERVER - HD",
+                            "IVANZ TV SERVER - HD",
                             "T Sports S2 - HD"
                         ]
                     }
@@ -2055,7 +2055,7 @@
                         "link_names": [
                             "Link 1",
                             "Link 2",
-                            "PlayZ Tv Live - HD",
+                            "IVANZ TV Live - HD",
                             "Link SF"
                         ]
                     }
@@ -2731,7 +2731,7 @@
             "name": "Hive Sports",
             "logo": "https://i.postimg.cc/526yq4cF/Picsart-26-01-01-23-37-24-504.jpg",
             "type": "m3u",
-            "api": "https://playlists-by-playztv.pages.dev/Hive-Sports.m3u"
+            "api": "https://playlists-by-IVANZtv.pages.dev/Hive-Sports.m3u"
         }
     },
     {
@@ -2749,7 +2749,7 @@
             "name": "World Sports",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7iSlqAmYv4wa-7P9aRqiLVniqbUQUtVNmgsf4BxJJqpRKNJVhlVHvFKI&s=10",
             "type": "m3u",
-            "api": "https://playlists-by-playztv.pages.dev/wsp.m3u"
+            "api": "https://playlists-by-IVANZtv.pages.dev/wsp.m3u"
         }
     },
     {
@@ -2906,7 +2906,7 @@
         "cat": {
             "visible": true,
             "name": "CricHD 2",
-            "logo": "https://assets-playztv.pages.dev/sports-category/crichd.jpg",
+            "logo": "https://assets-IVANZtv.pages.dev/sports-category/crichd.jpg",
             "type": "m3u",
             "api": "https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u"
         }

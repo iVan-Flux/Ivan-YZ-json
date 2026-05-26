@@ -3,43 +3,11 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:36:32 AM 27-05-2026",
-    " Live : 01 ": "",
+    "Last update time": "03:48:18 AM 27-05-2026",
+    " Live : 00 ": "",
     "Upcoming : 71": "",
-    "Finish : 21 ": "",
+    "Finish : 22 ": "",
     "events": [
-        {
-            "match_id": "",
-            "category": "Cricket",
-            "eventName": "T20 Blast",
-            "event_name": "T20 Blast",
-            "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark",
-            "teamAName": "Hampshire",
-            "teamBName": "Essex",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/187821/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/187829/image",
-            "start Time": "26/05/2026 22:00:00",
-            "end Time": "27/05/2026 02:00:00",
-            "visible": true,
-            "isHot": false,
-            "Status": "Live",
-            "links": [
-                {
-                    "name": "WILLOW - AQ [Ad -free]",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g3dvd8x7xb/out/v1/559a588462d24bd3991933ed9020eeff/cenc.mpd",
-                    "scheme": 0,
-                    "api": "427d8dbb68624855983f55e2133d3067:d9039ca1fc0a16e13ab9469c12e33453",
-                    "tokenApi": ""
-                },
-                {
-                    "name": "SKY SPORT NZ - AQ",
-                    "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779876395~acl=%2F*~id=06a6ed72-5ae0-43a8-8362-5cab0c434026~data=hdntl,aXA9NTcuMTUxLjEyMS4xOTMmZXhwPTE3Nzk3OTAwMjUmZWlkPTk2MjYzNyZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1vZkNEeFJ8Yjk2MWQxY2QtZGNjZS00YTlhLTg3NGYtZDViYzMxZjNmZmM1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=51aa3b2bd28bd8405403b15f847fd0222ae1302b5173723be6ab42c91872509e/dash/live/2093720/219029-321032/manifest-d.mpd",
-                    "scheme": 0,
-                    "api": "278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7",
-                    "tokenApi": ""
-                }
-            ]
-        },
         {
             "match_id": "",
             "category": "Football",
@@ -1683,6 +1651,38 @@
                     "link": "http://193.47.62.44/hls/DADADAQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
                     "scheme": 0,
                     "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "match_id": "",
+            "category": "Cricket",
+            "eventName": "T20 Blast",
+            "event_name": "T20 Blast",
+            "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark",
+            "teamAName": "Hampshire",
+            "teamBName": "Essex",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/187821/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/187829/image",
+            "start Time": "26/05/2026 22:00:00",
+            "end Time": "27/05/2026 02:00:00",
+            "visible": true,
+            "isHot": false,
+            "Status": "Finished",
+            "links": [
+                {
+                    "name": "WILLOW - AQ [Ad -free]",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g3dvd8x7xb/out/v1/559a588462d24bd3991933ed9020eeff/cenc.mpd",
+                    "scheme": 0,
+                    "api": "427d8dbb68624855983f55e2133d3067:d9039ca1fc0a16e13ab9469c12e33453",
+                    "tokenApi": ""
+                },
+                {
+                    "name": "SKY SPORT NZ - AQ",
+                    "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779876395~acl=%2F*~id=06a6ed72-5ae0-43a8-8362-5cab0c434026~data=hdntl,aXA9NTcuMTUxLjEyMS4xOTMmZXhwPTE3Nzk3OTAwMjUmZWlkPTk2MjYzNyZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1vZkNEeFJ8Yjk2MWQxY2QtZGNjZS00YTlhLTg3NGYtZDViYzMxZjNmZmM1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=51aa3b2bd28bd8405403b15f847fd0222ae1302b5173723be6ab42c91872509e/dash/live/2093720/219029-321032/manifest-d.mpd",
+                    "scheme": 0,
+                    "api": "278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7",
                     "tokenApi": ""
                 }
             ]

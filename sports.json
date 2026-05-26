@@ -1,0 +1,2972 @@
+[
+    {
+        "cat": {
+            "visible": true,
+            "name": "Sports ",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiosxbB11ge6DXLQNDaBNt_BXfExnloNDGc5GxjKt6G2JM6r9JoIuDUoMwTb28bGW7yja-k5RMafS4vvwtR5GW3SZ7HvOddxidpd66IYRLEWxcewj4IHALig9b5SYHfKNAFbs61btGahiEpHlDK0sGHiEzybYQBSnk7z5-WTpJtjaPytytfrnMCAnoYVE/s1600/1000407701.jpg",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "PTV Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpME2S30OXOnmJ-sdPSrhlfT0gnjOSP1spZQW4iJCJ7TLNe0AQNebv044&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjUFRWIFNwb3J0czE3NjcyOTY0NjIwMDk.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "PTV - AQ",
+                            "PZ TV  - HD",
+                            "PTV SPORTS - HD",
+                            "Link 2",
+                            "link 3",
+                            "SD",
+                            "PTV Sports SD ",
+                            "PTV Sports - FHD",
+                            "HD Stream "
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "A Sports",
+                        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh61qAM07BQioheL4FWkgQEhhtdfILVTD-Bw-i50gsuXYkcpd7TkfUNIACYhUnRlOuQ-9UODn0PsSW3k9Zoopuu-EPp4DASgq5JLA0YLRBULauSCKX9GDXOf0KmULZOSsH3FVO4xHVaHpYTCQODRvNz1UKJtmgiCxOKxVU1K-sekyhpJeRMT3wXB48PUIc/s16000/1000408129.jpg",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQSBTcG9ydHMxNzY3Mjk2NDc3NzI1.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "PZ TV  - HD",
+                            "Link 1",
+                            "A SPORTS - SD",
+                            "Link 3",
+                            "HD",
+                            "HD Stream url "
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Willow",
+                        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbFhO0M4908lPjDqRlNW7-nrpBKZEmt7AW7Y0_yAeaEGnEgdRuit8SWYyeqIolyUAiy44ruBz5WZhne-ZaOcOazSKizriVZSsOBzpapboWxoTA44kt-DZR_a-GkUO85oi9Dnx3LNXSKW5yvyf3TEQlEFnGdC-uqdALcMFE2V__FxatOQ6JTEma5IMOxUo/s1600/1000408133.jpg",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjV2lsbG93MTc2NzI5NjQ5NDIyNg.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "WILLOW CRICKET",
+                            "WILLOW HD",
+                            "WILLOW - FHD",
+                            "WILLOW - SD",
+                            "INDIA IP",
+                            "SD",
+                            "Willow Extra ",
+                            "PZ TV - HD",
+                            "Willow - SD 2",
+                            "HD STREAM ",
+                            "HD STREAM2",
+                            "HD stream "
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Willow Sports",
+                        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghLwBOkkId41s90uZRdZH4zgv1-eu-L1ABTjDO3lUhgBaN_imTySDfm3POSsVDFQ42pWHhNqEki2-v6xvhj9lC33qZkdw3U6V9-3I2IpoQ_OmYRVKGhgIeLvgsjxx5fOKGM-xFa2t_r1le4yjUxp9UH4mhWA9hJ8O49BYLARl6OBImdFm8c0sDBt4sg1k/s1600/1000408136.jpg",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjV2lsbG93IFNwb3J0czE3NjcyOTY1NjE5Mjc.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "FHD",
+                            "SD",
+                            "WILLOW FHD",
+                            "AQ - USA IP",
+                            "HD "
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Fancode",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3gn0wT8O2Us67OLa4gGiyHAPpAJsnhGuDaKoqPPvww&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQXN0cm8gQ3JpY2tldDE3NjcyOTY1OTE0Mjc.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "FANCODE FHD",
+                            "FANCODE SD",
+                            "FANCODE 1 - AQ",
+                            "Fancode S1 - AQ",
+                            "Fancode S2 - AQ",
+                            "Fancode S3 - AQ",
+                            "Fancode S4 - AQ",
+                            "FANCODE - SD",
+                            "FANCODE FHD",
+                            "New FC ",
+                            "FC HD"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "T Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVCBTcG9ydHMxNzY3Mjk2NjQ0MTkw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "FAST SERVERS HD",
+                            "PLAYZ TV SERVER - HD",
+                            "T Sports S2 - HD"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Rta Sports",
+                        "logo": "https://yt3.googleusercontent.com/__SV8qSW52pXpQLmnc2LmdkgEEzRyuFCeIyrQGwfnFoVZDJkJ2FAGJF2FIqPo2hRAi-xTB-fqw=s900-c-k-c0x00ffffff-no-rj",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjUnRhIFNwb3J0czE3NjcyOTY3MjUwNTU.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "Link 2",
+                            "Link 3",
+                            "Link 4"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Sky Sports Cricket",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3T1tf3dkagTK_N_4uvQEoJGdWMAmCqnUYlL5tPZzuhw&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjU2t5IFNwb3J0cyBDcmlja2V0MTc2NzI5Njc0Nzc1MA.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "AQ",
+                            "Link 2",
+                            "Link 2",
+                            "SD",
+                            "low "
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "FIFA+",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4_zmZ6rV-kE34ohg0x6knzA8x8E_VuKsYWqSH9sSwOg&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjRklGQSsxNzY3Mjk2Nzg1NzIy.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "FIFA+ French",
+                            "FIFA+ German",
+                            "FIFA+ Hispanic America",
+                            "FIFA+ Italy",
+                            "FIFA+ Portuguese ",
+                            "FIFA+ Spain ",
+                            "FIFA+ United States",
+                            "FIFA+ Women",
+                            "FIFA+ HD"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Geo Super",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9VxCYZYZuAwpc0-xh2RQCLOUmcnIlGwvLgZmzsm6a3g&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjR2VvIFN1cGVyMTc2NzI5NjgxMzA1Nw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "Link 2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Ten Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqROTprqy56aBl6lZ37UcVnYwXEUyuNiya6lYZmW5rSg&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVGVuIFNwb3J0czE3NjcyOTY4NzcyMzg.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "Link 2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Ten Cricket",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHPuFzfR4Z8Zx4aK-Fi6Sz7q8dR6ybOKKfbeZDAorRmA&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVGVuIENyaWNrZXQxNzY3Mjk2ODk1NjA2.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Astro Cricket",
+                        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9oNKJS_EX1oiXEUvC_gAs8lr7Aq2yE1vo9tHDDeopxYcrZAejnhzXWMrZveOkjxLRt8t3M5PNYQ3OjL6aGLs4S76fMBnNYh54tm6MQ2rW2wKolizCJc3bfy6CPYV-_a3gLbtfcP6VzKdI4-0HZLlE1NkFbvYumEbTmGuMq30Y7u35tq4t_UfSsqFmLUk/s1600/1000408140.jpg",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjRmFuY29kZTE3NjczMzQ2MjYzNjY.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "Link 2",
+                            "AQ - SG IP",
+                            "AQ - SG IP ONLY",
+                            "Plus",
+                            "Premier"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "DD Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQad82RySdLMlbOCZCQ_Im_1gL38fOzsm4fw9rUFcxN1A&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjREQgU3BvcnRzMTc2NzM0NDE1OTA2Ng.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "NFL",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVGqOxsyZpNjf5sbc0CN1G2HBzAfGctlSYJXkAsLZUA&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTkZMMTc2NzM0NDQ2MjkwNA.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "NFL Network",
+                            "NFL RedZone",
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "MLB",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZA9r9tlhlMiig_GKywoUcEiqfCcVN4QLiNCyzlXjR5A&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTUxCMTc2NzM0NDQ3NDExOA.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "MLB Network",
+                            "Link 2",
+                            "MLB Network"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Premier League",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD8s5TKgPn0CxatBMaOdlc0r8vLZZ4TfYgbptqDSkBkw&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjUHJlbWllciBMZWFndWUxNzY3MzQ0NDk4Mjgz.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "NBA",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7K-0aow_u9uZB-V4cJ13TyX7R36LfPyLyBAohNDmqOA&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTkJBMTc2NzM0NDUxMjY0NQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1 Geo Bl",
+                            "NBA TV Canada",
+                            "AQ"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "UFC",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSWFUOUy0LCyksX4O3rlZQUCFlElDNkzWthLaZmGgbvg&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVUZDIFR2MTc2NzM0NDU1Njk2Ng.txt",
+                        "link_names": []
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Real Madrid",
+                        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwYXLedLHDaudBvm7sYchYkpYAPtzdNA2roUT-ipQd8TbugW2gXUdkJz51w7sia9nVv5aqLXJmIDFXEgDmWhZoe1dNNJ3Kw8U6fxO56BRrEiyKTNAwwlm1jMUFBSFUgxr2HM8NoPXHA5byi709g7f6Lg0IM8gaEXj-UFe6KKKCkT4KNk_dK8oa6S-doaA/s1600/1000408273.jpg",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjUmVhbCBNYWRyaWQgVGIxNzY3MzQ0NTkwODQ1.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Real Madrid TV",
+                            "Link 2",
+                            "HD Stream "
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Bundesliga",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2ROdx0kL_YWVFDt1WXecRbnidlAweYpdisOfTIay4g&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQnVuZGVzbGlnYTE3NjczNDQ2OTQ4NjY.txt",
+                        "link_names": []
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "La Liga Tv",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWUpfTvNxcjWNNz8MQFFbgI29wIDHlEmAtX4dBOwecQ&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTGEgTGlnYSBUdjE3NjczNDQ3MzQwOTc.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "Link 2",
+                            "Link 3",
+                            "Sky Sports Laliga",
+                            "Laliga 2",
+                            "Laliga TV FHD",
+                            "LaLiga TV Aus",
+                            "Laliga Hypermotion ES"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Barca",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIs4B2Xdx7idoKRlYtDWO8k4jcc6NZkrFJ7A&s",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQmFyY2EgVHYxNzY3MzQ0ODIyODE0.txt",
+                        "link_names": []
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "NHL",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3SuapszR-oBIaMWEvslcmupvr8H5Zc6Aj5dXN7E1Dw&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTkhMIFR2MTc2NzM0NDg3Mjk2NQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "NHL Center Ice 12",
+                            "Link 2",
+                            "link 3",
+                            "NHL Centre Ice 1",
+                            "NHL Network "
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "WWE",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQyabVUvU0G01JW2jkAH9kvGAGyMXM749IC4oVkJ4mg&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjV1dFMTc2NzM0NDkyMzMyOQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "WWE - AQ",
+                            "WWE - HD",
+                            "Hd",
+                            "Swerve Combat",
+                            "MLIVE",
+                            "One Fight"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Olympic",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7dBZvfvRsDX8q-_YIdBGGgnGaT_BBtXZ5nuqWtHX1pg&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjT2x5bXBpYzE3NjczNDUxNDE5MzM.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Redbull ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZNIvKyv5_3F7I9xXd0j3G2D6CfqYg5iJKoyazV_4UFA&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjUmVkYnVsbCAxNzY3MzQ1NTU1ODc5.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Testing Stream",
+                        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLzzs-Wgy6FL4Xzs9-LdHTKRqVV4cHo9W0wCfYpB8cmq_mVMoIZHj6EAQnRI14nfQXbwZgfuggogL0qHkJ4OSdqr4vzGXCjVABgbd0j-olGkCZBPhiP87GA7Fz3-cFs1hxKXLGCi2QtPA61hp6Q68DvciwF7ERiLHfBdSHlQgNwoGPpn3LVPK1-wFPixA/s1600/1000408278.jpg",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVGVzdGluZyBTdHJlYW0xNzY3MzYyODM4OTQ2.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "CH",
+                            "ifesn",
+                            "Emben",
+                            "lls",
+                            "nmrl",
+                            "RT SP",
+                            "bilii",
+                            "dodsr",
+                            "vinivi",
+                            "aavef",
+                            "oixe",
+                            "dhurandhar the revenge",
+                            "gff",
+                            "dd em",
+                            "dd dd",
+                            "Focx SP nm",
+                            "FO SP Em",
+                            "fox 3 d",
+                            "fox 5",
+                            "fo 6",
+                            "fox 7 LS",
+                            "Dx 8",
+                            "XG",
+                            "xxl",
+                            "x3",
+                            "ENd Sp",
+                            "so",
+                            "dd n",
+                            "FANCODE - FHD",
+                            "fc 2",
+                            "ab",
+                            "fk",
+                            "test",
+                            "twt e."
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "ESPN",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfrViYXQAm3cKFYgiYp-up4ToClRMblF52Zz9i60tJ8Q&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjRVNQTjE3NjczNjMyMTkwODY.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "ESPN U",
+                            "ESPNews",
+                            "ESPN DEPORTES HD",
+                            "ESPN MX",
+                            "ESPN ARG",
+                            "TRT HD"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "TSN",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxdJo8EHNhTO2u8s5_ETdckAXzVkWtQJTSYOe_gbUnRA&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVFNOMTc2NzM2MzI2MTc0OQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "TSN The Ocho",
+                            "TSN 1 FHD"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Canal Sport ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1slVBBR4yB6UAIrAylC6sqQeO4G8WHgTcLlkJY4misQ&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQ2FuYWwgU3BvcnQgMTc2NzM2MzM3NDE0NQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "Cana l +"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Arena Sport",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Szaj0r1w9ZF8MxHOVxnb3D0edNgCHZ9MV2hrOeAdNzeML97hQ6-PjcM&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQXJlbmEgU3BvcnQxNzY3MzYzNTkwOTQz.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Arena Sport 1",
+                            "Arena Sport 2",
+                            "Arena Sport 3",
+                            "Arena Sport 4"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Euro Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKe3N57rVixqCtDQJHkS8uTFVHYOVl0E_WP58NMZltg&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjRXVybyBTcG9ydHMxNzY3MzYzNjcyMjc3.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "EURO 1 - HD",
+                            "EURO 2 - HD",
+                            "EURO ES 1 - AQ",
+                            "EURO ES 2 - AQ",
+                            "EURO AQ1",
+                            "Euro 1 - Hd ",
+                            "Euro 2 - Hd ",
+                            "Euro 1 - FHD W",
+                            "Euro 2 - FHD W"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Nova Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5xyaPtM47QT6Ti76jVK9_o2_72YGxrC3QFNUXIocHng&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTm92YSBTcG9ydHMxNzY3MzYzNjkyMTI1.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Nova Sport AQ1",
+                            "Nova Sport AQ2",
+                            "NOVA 2",
+                            "NOVA 3"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Sportv",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltVnHcIu9cwJ-3vCYSqjy0j4PrS6gB1OgGPmfxwQbEg&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjU3BvcnR2MTc2NzM2Mzc3MTM1OQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "SporTV BR",
+                            "SporTV - AQ1",
+                            "SporTV - AQ2",
+                            "SporTV2 - AQ3",
+                            "SpoTV - HD",
+                            "Sports tv",
+                            "SporTV 1 🇧🇷",
+                            "SporTV 2 🇧🇷",
+                            "SporTV 3 🇧🇷",
+                            "Tipik"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "CBS Sports",
+                        "logo": "https://yt3.googleusercontent.com/jnGO8vkeg1R9IAaIHIej_SS9tzYXtyk54KwbHovEq2No3HfvV6mw2CYVIoFg2ThbFTnkUiSIBw=s900-c-k-c0x00ffffff-no-rj",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQ0JTIFNwb3J0czE3NjczNjM4NTgxMDU.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "CBS Golazo AQ",
+                            "Link 1",
+                            "CBS Sports Golazo Network",
+                            "CBS Sports HQ",
+                            "USA",
+                            "AQ"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Fubo Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGP9M64adVy-H4vB-r4UfSg9fCnKP9dDORg&s",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjRnVibyBTcG9ydHMxNzY3MzYzOTEwMjgy.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "Fubo 1",
+                            "Fubo 2",
+                            "Fubo 3"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Fox Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXn9wz0tljw0x-Y2gdpediSwq5mP0Uou2wYGrPt3KN9g&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjRm94IFNwb3J0czE3NjczNjM5NDg0MjQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "Fox Sports 2",
+                            "Fox Sports 3 Latin America",
+                            "Fox Sports en Espanol"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Dubai Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6YTI2Z2aXPKRlj-0MD9Vz5b03qMITV2kbcSLTEDXJWA&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjRHViYWkgU3BvcnRzMTc2NzM2NDA1Njg5MQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Dubai Sports 1",
+                            "Dubai Sports 2",
+                            "Dubai Racing",
+                            "Dubai Racing 2",
+                            "Dubai Racing 3",
+                            "Dubai Sports 1",
+                            "Dubai Sports 2",
+                            "Dubai Sports 3",
+                            "OMAN SPORTS",
+                            "BAHRAIN SPORTS 2",
+                            "BAHRAIN SPORTS 1",
+                            "BAHRAIN SPORTS 1",
+                            "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Spo Tv",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2V5vEE_wDbcFtt5Ea6-K0hw_2kKvHRsXVC2ZYBv1how&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjU3BvIFR2MTc2NzM2NDEwNTcwNQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "SPOTV 1 - AQ",
+                            "SPOTV 2 - AQ"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "BBC Sport",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBB1uBkhMBwviG_8YkDpCjuUec1-on9oCwDYfhTexd4w&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQkJDIFNwb3J0MTc2NzM2NDMzMzkxMA.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Viaplay",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzJNIPltCLI06yOZEXMxAXUcnKxd2zoFWTblX_hNrTTA&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVmlhcGxheTE3NjczNjQ0NjgyOTM.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "30A Golf Kingdom",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRHNFeY7vMdZegD9eEDqe_dOqTyf24O_NpKgOmdc11Og&s",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjMzBBIEdvbGYgS2luZ2RvbTE3NjczNjQ2MTQyNTU.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "A Spor",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwCyCOA6O5vZc2a9pd7xyB_MXKqUldlYAEvSU0W9BVQ&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQSBTcG9yMTc2NzM2NDcyMTU1MA.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "ACCDN",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlxsG2Nh2h1Xm5X4HmTXPl50kyJFKhImAkk1V8MtJwvA&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQUNDRE4xNzY3MzY0ODg3ODM3.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "Link 2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "ACI Sport TV",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzYIIKnlD0i_-sRKH6Yl0I3NXqbHZD07MVu8PEVCov-Q&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQUNJIFNwb3J0IFRWMTc2NzM2NDk2MjIxOA.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "ADO TV",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8CUnOAqyJo3Z6c3Fc9t9DtRSmVYSyTkbUywCVzvCUw&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQURPIFRWMTc2NzM2NTEwNDAxNw.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Africa 24 Sport",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5whuMe3w5dn520RmUTDy9DDrEAO94GBpEO7q_v4yWtg&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQWZyaWNhIDI0IFNwb3J0MTc2NzM2NTIyNDc4OA.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Alkass Three",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmwiLnl0jKjB_v9gA3WIaplKznYz6oFuJB7OJWy4ypzg&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQWxrYXNzIFRocmVlMTc2NzM2NTM4MDgxNQ.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Bahrain Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqmOQWToD0IN-E3PzAcU62DznxcSSIH38a992Io6jDTju8zq0MQsoJlM&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQmFocmFpbiBTcG9ydHMgMTE3NjczNjg5MzI0MzU.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "BeIN Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ClTsbKp_ExRbBYdlcd3czQvE5aOhCPjnz-laVNeqGQ&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQmVJTiBTcG9ydHMxNzY3MzY5MTQwMjQ2.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "beIN Sports USA",
+                            "BeIN SPORTS XTRA",
+                            "BeIN SPORTS XTRA en Espanol"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "BEK TV Sports West",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEO_2xboeLgTj5QxiAFpBDNNy-QV5R9P5ChZVfYzjpm-hoAbi0fE-KZ8Su&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQkVLIFRWIFNwb3J0cyBXZXN0MTc2NzM2OTMwNTg4NQ.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Bellator MMA",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMvSvDhZ1rspXyNAjC4CqNfyiGI1eQdo2EYFmgT1nrbQ&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQmVsbGF0b3IgTU1BMTc2NzM2OTM5NzE0OA.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Canal do Inter",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVin6RMgROHAD8bX9jpfaecAx8Qyt6uvL7uwoYDsE29A&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQ2FuYWwgZG8gSW50ZXIxNzY3MzcwOTYxOTg0.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "ColimdoT TV",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd-0aJGqb-wigqaas5ZBPMP7XCOTp-WZuJnv91UZiIA&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQ29saW1kb1QgVFYxNzY3MzcxMzYxMTc4.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "ČT Sport",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhKvLvce646KU8ufBTKIraaAWu45FNQKyZzPS1ySO6Q&s",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjxIxUIFNwb3J0MTc2NzM3MTQ0OTAzMw.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "DAZN",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGX1BpOoZmPWp6wkSNeaJUnQlbgCUkqBGFqxFtU64j9A&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjREFaTjE3NjczNzE1MzI3MjM.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "DAZN COMBAT",
+                            "DAZN FAST",
+                            "RTP 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": " Others",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03tIBnkg5JfY5o4ZkpOZx4KSXlIxD-okflA&s",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjIE90aGVyczE3NjczNzMyMTQ0OTE.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "HTSpor TV ",
+                            "HTV Sports",
+                            "ITV Deportes",
+                            "Jordan Sport ",
+                            "Jordan Sport 2",
+                            "KCMN-LD6",
+                            "Kozoom TV",
+                            "KTV Sport",
+                            "KTV Sport Plus",
+                            "L'Equipe",
+                            "LRT Plius",
+                            "MMA-TV",
+                            "Motorsport",
+                            "MSG",
+                            "Nautical Channel",
+                            "Pro Sport",
+                            "Rai Sport",
+                            "Realitatea Sportiva",
+                            "Sports tv",
+                            "SportsGrid",
+                            "Strongman",
+                            "Strongman Champions League",
+                            "TR Sport",
+                            "Trace Sport",
+                            "Sports 2",
+                            "QazSport",
+                            "SPORTS 2",
+                            "SPORTS 3",
+                            "Spot 4",
+                            "Sport 5",
+                            "Sport 6"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Solh Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr6h73Oxp35h-VShg6bZv6sLZk7AUth2A8BxZJ6Ep14A&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjU29saCBTcG9ydHMxNzY3Mzc0MDM1MjE2.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "Link 2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Futbol",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRipxGU8lfq9Pqo54rtCEuPg3Wld6QUUehNGrfAQcorTw&s",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjRnV0Ym9sMTc2NzM3NDc1ODU5Mw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "KTV Sport Plus",
+                            "M-Net Sport ",
+                            "link 4"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Golf Channel",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShgkhL3oV9fiQNvoWI7CbB9FtLCKlUFl_LXK5mmwfw0w&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjR29sZiBDaGFubmVsMTc2NzM3NDkxMTU5Mg.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "Golf Network"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Horse TV",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRguTgQrusswtRi84kTB21FK3n-BzKMeDtuXD1gTk007Q&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjSG9yc2UgVFYxNzY3NDA4NTM5NTUy.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Cricket",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShj5QOQLbanF4_UzMAGSm-_QrSIEboUyDG98nOcYar5g&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQ3JpY2tldDE3Njc0MDk1MzEwMDM.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Oman Sports TV ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ejy6MLIl9ouHs2e7pa-Am5gJmUOSlJPanGCGdamXIw&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjT21hbiBTcG9ydHMgVFYgMTc2NzQxMDU1MjEyNA.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Persiana",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTISkd6SGrXSlYmXXR1IfaanQMjx07858LxObP9z1WPYA&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjUGVyc2lhbmExNzY3NDEwNzc4MDk5.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Persiana Fight",
+                            "2",
+                            "2 Sd",
+                            "3",
+                            "4"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Fox Cricket",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdT-xUc6XdvH_sr8E045TcOG8WMFfMhju9zPqzF6btQ&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjRm94IENyaWNrZXQxNzY3NTA4MzYyNjM1.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "FHD",
+                            "Link 1",
+                            "Link 2",
+                            "Link 3",
+                            "FHD",
+                            "AQ",
+                            "FHD MATCH TIME"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Ad Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSApVH4gksdUpgOeGjdmC3iWYKgb4pAO6CfyQ&usqp=CAU",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQWQgU3BvcnRzMTc2NzU1MjY0NzYwOQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Premium 1 - AQ",
+                            "Premium 2 - AQ"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Premier Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2N3muMyMzp3uu939QXWUO6cCn_tFRHVE8C7xqEn3Oryc-GW6ZQ9P1OyV8&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjUHJlbWllciBTcG9ydHMxNzY3NTUzMzg1NTE0.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "PREMIER SPORTS 1 - AQ",
+                            "PREMIER SPORTS 2 - AQ",
+                            "PREMIER RUGBY - AQ"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Tennis",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfah2yJLgESmJjBXvh-C3hHpTBr8re_w5pYg&usqp=CAU",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVGVubmlzMTc2NzU1NDA0NzE4Mw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "TENNIS CHANNEL",
+                            "T2 LIVE TENNIS",
+                            "TENNIS PLUS",
+                            "PREMIER TENNIS"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "USA Network ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8CGaNMZllqJ_iTx0PEpY2DCuXWVboKsetUQ&usqp=CAU",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVVNBIE5ldHdvcmsgMTc2NzU1NDM4MDc1Ng.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "USA NETWORK EAST"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "NBC Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD7-UcWBcy7a0dG_fq2y1Q3dlCMSF11qU5xDjV2bDPtg&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTkJDIFNwb3J0czE3Njc1NTQ1NzQwNzg.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "NBC UNIVERSO ESTE",
+                            "NBC UNIVERSO OESTE",
+                            "NBC SPORTS NOW",
+                            "NBC NEWS NOW",
+                            "CNBC",
+                            "NBC UNIVERSO"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Go3 Sport",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShOOEY8P7cBNGSBiK7sVWUB-sXvhfa7mPSLg&usqp=CAU",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjR28zIFNwb3J0MTc2NzU5NDYyMzk4MA.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "GO3 SPORT 1 - AQ",
+                            "GO3 SPORT 2 - AQ",
+                            "GO3 OPEN - AQ"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Peacocktv",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuVSDXCR-SIPFlGUUmt8figmhQB2WvQIk8601RcgUUYvSnZ28DuftzUoJQ&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjUGVhY29ja3R2MTc2NzU5NDg1MTg2Ng.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Peacock 1",
+                            "Peacock 2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Sportsbaltic",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6k-ZKKCiKUY8pqzL-SdyBnb8xNu_EBIZolQe6tFWwwODm0u8U9B2sEo8&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjU3BvcnRzYmFsdGljMTc2NzU5NTI0MDc1Nw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Server 1",
+                            "Server 2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "BEK",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-nWZdCFZiGlqzYU0djTCC7c59LBjZexdAy_-eihB7MGdezf0Pw33dKyM5&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQkVLMTc2NzU5NTU0MzQwNw.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "RALLY TV",
+                        "logo": "https://play-lh.googleusercontent.com/yGC9brvzJBdkj8D2iyr1FmtE2FOM4myhn83rWR1DsJR4jXBwpQSHa7OkS9Q1_XVqQGl-",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjUkFMTFkgVFYxNzY3NTk1NTkxNjcy.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "LeQUIPE LIVE",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkGd_8rAKSB19Wq8D8QsItUb5QA3eQ3uHpqNCzYCSvlXrgh5s-JqSGHm8&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTGVRVUlQRSBMSVZFMTc2NzU5NTY4MjA2Nw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "LIVE 1",
+                            "LIVE 2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "UNBEATEN",
+                        "logo": "https://i.ibb.co/n3sjJ1d/unbeaten.png",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVU5CRUFURU4xNzY3NTk1Nzg5NDgx.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "PAC 12 INSIDER",
+                        "logo": "https://image.xumo.com/v1/channels/channel/99991143/500x400.webp?type=color_onBlack",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjUEFDIDEyIElOU0lERVIxNzY3NTk1ODY0NzAz.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "DRAFTKINGS NETWORK",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRsPApu5ls96HbcmC1sT7PuifAKvDSiXmTEd7Qz3sDGnioe1rZLKQ6XqNM&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjRFJBRlRLSU5HUyBORVRXT1JLMTc2NzU5NTkxMjY3Mg.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "STRONGMAN CHAMPIONS LEAGUE",
+                        "logo": "https://image.xumo.com/v1/channels/channel/99951180/500x400.webp?type=color_onBlack",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjU1RST05HTUFOIENIQU1QSU9OUyBMRUFHVUUxNzY3NTk1OTk3MTAy.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "COMBATE GLOBAL",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RE6SoPasVYTVfOGbKsrFlP9mmyj_IMvkjBBflQpa4tDg2S9UwvJ8wGsf&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQ09NQkFURSBHTE9CQUwxNzY3NTk2MDQ3MjUw.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "HARD KNOCKS",
+                        "logo": "https://i.ibb.co/MGq0gyX/hard-knocks.webp",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjSEFSRCBLTk9DS1MxNzY3NTk2MDc1MDg0.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "FIGHT NETWORK",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXaU7G424R7UYqH547MVlAyU-EVETBWwPDZa3bLheyHVZRA2H_VdSM_LQ&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjRklHSFQgTkVUV09SSzE3Njc1OTYxNDg0ODM.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "FIGHT NETWORK",
+                            "2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "PROFESSIONAL FIGHTERS LEAGUE",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLaJYMcoNn1-dV0SMtcHxEJdmtFl6aKK1bK3go-byGRQxt3FLR3qteu6c&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjUFJPRkVTU0lPTkFMIEZJR0hURVJTIExFQUdVRTE3Njc1OTYyMjY0NTM.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Tudn",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2D5wfRZOhKgkyVL1xVJHRlDarNcwqbP34wsg6qNmVrF4z_U_71ApixmM&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVHVkbjE3Njc1OTYyNTExMzM.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Server 1",
+                            "Server 2",
+                            "Server 3",
+                            "Link 4"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Dpworldtour",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1KImuhdqvkfFNFW7cMhb1XCgy-FqwVbkGyxpFNwZbxHHG6PV77PqJB1bK&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjRHB3b3JsZHRvdXIxNzY3NTk2NDU2Mzcx.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "DP Tour",
+                            "PGA Tour"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Rugbypasstv",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWPt78Uyi5Xus4xmf_Tx3Wz6JWlSTHeTSxlP6ntVt9Ow&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjUnVnYnlwYXNzdHYxNzY3NTk2NTYyNjI4.txt",
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Sky Sport",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_UyQba6scJmGIc0r6Wcd-AnKg5JxdDeeeEH4CRlqL7A&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjU2t5IFNwb3J0czE3Njc4NTM3MTQ3MjQ.txt",
+                        "link_names": [
+                            "SKY SPORTS NEWS",
+                            "SKY SPORT MAIN EVENT",
+                            "SKY SPORT CRICKET",
+                            "SKY SPORT ACTION",
+                            "SKY SPORT PREMIER LEAGUE",
+                            "SKY SPORTS MIX HD",
+                            "Sky SPORTS F1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Super Sport",
+                        "logo": "https://i.postimg.cc/d3wWhMMZ/Picsart-26-01-18-20-31-47-597.jpg",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjU3VwZXIgU3BvcnQxNzY4NzQ2NTU1OTY3.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Super Sport 1 HD",
+                            "Super Sport 2 HD",
+                            "Super Sport 3 HD",
+                            "Super Sport 4 HD"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Lemar Tv",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeO7fvuh0MCaJ95gspAgRW4zUVqkXZxcrNtmcNKnws7Q&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTGVtYXIgVHYxNzY4ODM2Mzg0MzY2.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "CricLife2",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPdozfCK0VWsB4rBeKU9l_HA9UvJtARO-B52qUAJEufQ&s",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQ3JpY0xpZmUyMTc2ODg5ODg0MzI1MA.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "CricLife 1",
+                            "CricLife 2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Persiana Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfa1LJy0816tRWD7ITg3sWkdlkoEIYdiddN4b9v3ZDtg&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjUGVyc2lhbmEgU3BvcnRzMTc2OTA2MjcwOTczOA.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Prima Sp",
+                            "Persian 1",
+                            "Persian 2",
+                            "Persian 3",
+                            "Persian 4"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "CricBuZZ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMvq94WjL66OAH1MdvghxkPGQSRUdA3V-hsKnYCv9lUQ&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQ3JpY0J1WloxNzY5MDc0MjgzNTAz.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "CricBuZZ 1 - IN",
+                            "CricBuZZ 2 - IN",
+                            "CricLife Women - IN"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Nagorik TV",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm17xFCw3GRsXYLsA5j_pn_SQXVt7zD6XQay7sKU594w&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTmFnb3JpayBUVjE3NjkyMzA1MDgzODc.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "HD",
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Max Sport 1",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU-Ixuaf8s6trXEcz1LNz0BQYebvBhbckS4dXaLljhIw&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTWF4IFNwb3J0IDExNzY5NTc2MzQyOTcw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Max sport 1",
+                            "Max sport 2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "HUB Sports",
+                        "logo": "https://pbs.twimg.com/profile_images/815187224408911872/azh84UW9_400x400.jpg",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjSFVCIFNwb3J0czE3Njk5MzgzMjA4ODI.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Thmanyah",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs08QwjFQe8WIhCnGsyhxM-YKqVy8ToUSawMbEVi-62A&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVGhtYW55YWgxNzcwNTM0NzI0NDc2.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Thmanyah 1 HD",
+                            "Thmanyah 2 HD",
+                            "Thmanyah 3 HD"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "AF Tolo Sport",
+                        "logo": "https://i.postimg.cc/zXCrn0M1/Picsart-26-02-08-17-56-18-839.jpg",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQUYgVG9sbyBTcG9ydDE3NzA1NTE4OTgxNjU.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "AQ"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "ARIANA",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZv4CTnyWXXBY-dORvl0q5h4v7S44QGCjEvQ-xg1yuw&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQVJJQU5BMTc3MDk2NDAyODE3Mw.txt",
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Sportdigital FHD",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQMhn4MeA51c7hqZYFb-06DPx9Upn9NbkiatJyyRTsw&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjU3BvcnRkaWdpdGFsIEZIRDE3NzE1MjE2NDU0Nzg.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Sportdigital FHD",
+                            "Sportdigital Free"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "PSN Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkzas4QZXhx4a74gwsH2YbqWK_Qv5-FwLqT-tX_k2L_Q&s",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjUFNOIFNwb3J0czE3NzI3MzUzMzU2NzY.txt",
+                        "link_names": [
+                            "PSN Sports 3",
+                            "PSN Sports 2",
+                            "PSN Sports 4"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "ME WATCH",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaG_G9k-qmR6ZQsORwV3wDChjxfSS6nj_dQTLq6EYHEw&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTUUgV0FUQ0gxNzc0OTY1NTM4MzE4.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Me Watch",
+                            "M Live 1",
+                            "M live 2",
+                            "M live 3",
+                            "M live 4",
+                            "M LIVE SPL 01 ",
+                            "M LIVE SPL 02"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "TAP SPORT",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4g9NzrI6iIJ6LEhNGmdrezmUKSzXz1b1Zg4IsyRcId_apvDblsS97scM&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVEFQIFNQT1JUMTc3NTc2MjY3OTczNg.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Telemundo TV",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1920px-Telemundo_logo_2018.svg.png",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVGVsZW11bmRvIFRWMTc3NTc2MzA3MzkxNg.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "TELEMUNDO FHD",
+                            "Telemundo - AQ",
+                            "SD",
+                            "FHD"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "NBA TV",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpX7NdB6NbpNylGV1CcBKhkeLDGFEpq9szuY0GGSv0Q&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTkJBIFRWMTc3NTc2MzI5OTE1MA.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "NFL NETWORK",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMS1yRICaWN2_2utzHKURNO4szMxlZ413Ceg_uIDD5Sw&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTkZMIE5FVFdPUksxNzc1NzYzNDcwNDI5.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "NOW SPORTS PL",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Er8H73BRLHmpcL3b_IpTtmpAIBITOyWIekgkue4t_w&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTk9XIFNQT1JUUyBQTDE3NzU4ODY5MTM0Mzc.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "NOW SPORTS PL",
+                            "NOW SPORTS PL 2",
+                            "NOW SPORTS PL 3"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Telewebion",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_MySNuhhdhN7-_M2TreCBYP0MDWB4nt6d4rQ-nh27jw&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVGVsZXdlYmlvbjE3NzY3OTQwOTY4ODc.txt",
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "EPT Sports ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTnBu4H4CMDJ004T0GbX3rLO_DCIvuzU37oSv5EXF45A&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjRVBUIFNwb3J0cyAxNzc2OTg1Mzg3NDIz.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "EPT Sports 1",
+                            "EPT Sports 2",
+                            "EPT Sports 3",
+                            "EPT Sports 4"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "TV4 SPORTS",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrAxaktD9Y1od1Rm6AHtVyprjayZtcxluw0uFLg_WgdA&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVFY0IFNQT1JUUzE3NzY5ODc4OTM1NDk.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "TV4 Football - AQ",
+                            "TV4 Kanalen - AQ",
+                            "TV4 Tennis",
+                            "TV4 Hockey",
+                            "TV4 Live 1",
+                            "TV4 Live 2",
+                            "TV4 Live 3",
+                            "TV4 Live 4"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Sport 1 CZ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmci4zeFnWZJZmewBr0CROtiviOKG5VHGSYRIJ78ZWyzHLLUNKKZgBgGd&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjU3BvcnQgMSBDWjE3NzcwMjEwMzA1Mzg.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Sport 1 CZ",
+                            "Sport 2 CZ"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "COSMOTE",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2K_3jyV-gUVWA7QdBPegjpG96Trj2n27XD8TeKWDXA&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQ09TTU9URTE3Nzc5NDk3NDAyMjM.txt",
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "TVRI SPORT",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhAGhVTsaXzxvt6bdxVprLlB-b6SHcTgSedmjTj-EU7Q&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVFZSSSBTUE9SVDE3NzkzNDY0NDczNjg.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "ARENA SPORTS CG",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOmMKxpO9S21RATWQrTGsvvYv6kLExRvIScZgKrtUPaA&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQVJFTkEgU1BPUlRTIENHMTc3OTM0NjU3NjI4Mw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Arena Sports CG 1",
+                            "Arena Sports CG 2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "BeIN Sports TR",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjgfRAo-2lp7uC_oTI0-WXPWUyy-l0oMlcn-B-slUiEg&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQmVJTiBTcG9ydHMgVFJUMTc3OTM0NzU2NTUwMw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "BeIN Sports TR 1",
+                            "BeIN Sports TR 2",
+                            "BeIN Sports TR 3",
+                            "BeIN Sports TR 4",
+                            "BeIN Sports TR 5",
+                            "BeIN Sports TR MAX",
+                            "BeIN Sports X"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "F1 Italy",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjaGb3uq6LYOhCI5x_Eynj5jv0PwUoaOnGVeUDmn7DgQ&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjRjEgSXRhbHkxNzc5MzQ3OTg4MDEz.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "MOTO SPORTS ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkvg9Fl4SX9hQqDds269SAzWlNS1lrCQrreg&s",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTU9UTyBTUE9SVFMgMTc3OTM0ODMzNzI5Mw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "MotorSport 1",
+                            "F1 Italy"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Setanta Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCvH__oMJWBlecBw2m7-jLHGkgXmQI2rYrf94s-ONw7g&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjU2V0YW50YSBTcG9ydHMxNzc5MzQ5NjU4NzI2.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Setanta 1",
+                            "Setanta 2",
+                            "Setanta 1 FHD",
+                            "Setanta Sports 2 FHD"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Sporsmart 1",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ChcCoDVLZGfHu4wm0NUm_HgxVyMAs6Ic_iFZPZ5OtA&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjU3BvcnNtYXJ0IDExNzc5MzQ5ODY1OTM5.txt",
+                        "link_names": [
+                            "Sporsmart 1",
+                            "Sporsmart 2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Racing TV",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAHrya2bp_4Agtx4LiMmFWJouVsMNfNn8RsEO9xFJAyA&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjUmFjaW5nIFRWMTc3OTM1MDIwNjM5MA.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "TVE La",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLSDHxvq56tEXfP0ZEpPMzbvPI0rF9Px4og-aQoT71Q&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVFZFIExhMTc3OTM1MDM0NzM5Mg.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "TVE La 1",
+                            "TVE La W"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "TV5 Monde",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm6i0lMpiDswFZjiNkU5bmNr54Aanz8_xGxA&s",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVFY1IE1vbmRlMTc3OTM1MDc0ODAzMA.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "TVR Sport",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKpQL-1Epixt-bYRWArpoXrVqjmuOSJWAZFyMeBNgHag&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjVFZSIFNwb3J0MTc3OTM1MDg0MDYxOA.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "ZIGGO SPORTS",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LquhH6FIvrj98PoC1dtJx0TI-IWjluTF-P-8FOSuhw&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjWklHR08gU1BPUlRTMTc3OTM1MTE2NzM0Mw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Ziggo Sport 1 Variety",
+                            "Ziggo Sport 2 Football",
+                            "Ziggo Sport 3 F1",
+                            "Ziggo Sport 5 Football",
+                            "Ziggo Sport 6 Golf"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "MNB Sport",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBxyUtWKWSd1-f1PPvhvvir1JSyStV7U90tOrX91eyjw&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjTU5CIFNwb3J0MTc3OTM1MTQ4NDI0OQ.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Sport  🇩🇪",
+                        "logo": "v",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjU3BvcnQgIPCfh6nwn4eqMTc3OTM1Mjc0ODA4MA.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Sport Italia Plus",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZotUGMgwAEzAxc3-oli3x7ERdMB_VJ4TqgiviGf7-3w&s=10",
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjU3BvcnQgSXRhbGlhIFBsdXMxNzc5MzUzNTQwOTky.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "CT Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw2p4J1WnIflvaXrJ8o6IAMqld_4jgq9CTPutDRFtzEA&s=10",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQ1QgU3BvcnRzMTc3OTM1Mzg3MTM2MA.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "CT Sports 1",
+                            "CT Sports 2",
+                            "Nova Sport 1",
+                            "Nova Sport 2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Arena Sport Slovakia",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFjTOAs_OMkcuAp9kfXnWmMFp-mvdxFbK--w&s",
+                        "visible": true,
+                        "links": "pro/VTNCdmNuUnpJREUzTmpjd01EY3dNamMxTmpjQXJlbmEgU3BvcnQgU2xvdmFraWExNzc5MzU0MjU1NTAw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Arena Sport 1 🇸🇰",
+                            "Arena Sport 2",
+                            "EuroSport 1",
+                            "EuroSport 2",
+                            "Joj Sport",
+                            "RT Sport"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "TNT",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzglkUnIfqZat-gyEGm0Cp-oYIfT96mFAOriKrnGprnA&s=10",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "TNT Sports 1",
+                        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMNnTtofH9A47JOzUEFtMIlmaDgrOc_j1ncW7NPflX9Gl3pYAS1MeAafo2JfPeKzKFQbFo8rHUQzD12B-i4zGD-cp_o1T62O9SL3rUL0-2evvtkPIA4trXwN0vJGZgoKkNN3lWG9JPWmP8DfHcN2H4uzVTNvgT8jG_iQCiXgvM-PTwiT_-4jxA1eMrRG0/s1600/1000408513.jpg",
+                        "visible": true,
+                        "links": "pro/VkU1VU1UYzJOekF3TnpBM01ERXpNd1ROVCBTcG9ydHMgMTE3NjcyOTQxNDIyMDI.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "AQ",
+                            "FHD",
+                            "HD",
+                            "UHD"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "TNT SPORTS 2",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAbNMnzBQghqG8mL_4COG1hjWdgmxGBwYsvi-trLpCHjgXuc1QNAPADk4&s=10",
+                        "visible": true,
+                        "links": "pro/VkU1VU1UYzJOekF3TnpBM01ERXpNd1ROVCBTUE9SVFMgMjE3NjcyOTQyMjg2MzI.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "TNT SPORTS S2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "TNT SPORTS 3",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pRMe2THC0yp8AA_smrrmzI-1-geeDpVoW1mftwhqCf0ZxdUPfS_yICbV&s=10",
+                        "visible": true,
+                        "links": "pro/VkU1VU1UYzJOekF3TnpBM01ERXpNd1ROVCBTUE9SVFMgMzE3NjcyOTQ1Nzc2OTQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "Link 2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "TNT SPORTS 4",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfkxk4InJFm6Pqs7J3hQBa-ymq4_r3SB6Gj0Y8H0SpFgVqpAKb_ilHHn1&s=10",
+                        "visible": true,
+                        "links": "pro/VkU1VU1UYzJOekF3TnpBM01ERXpNd1ROVCBTUE9SVFMgMzE3NjcyOTQ2MTc0NjQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "Link 2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "TNT SPORTS Brasil",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq7ZNCk0ZczMfrKGTXbBdgzt3l4oSQy_CtmggwCmQS4pgaFZY4ozS2pnfd&s=10",
+                        "visible": true,
+                        "links": "pro/VkU1VU1UYzJOekF3TnpBM01ERXpNd1ROVCBTUE9SVFMgQnJhc2lsMTc2NzI5NDY3Njc0Mg.txt",
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "TNT Sports FHD",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfDNMIT_h8bKWdGcixDL9TcP0dEcuI2CzjlyHJB0jFyQ&s=10",
+                        "visible": true,
+                        "links": "pro/VkU1VU1UYzJOekF3TnpBM01ERXpNd1ROVCBTcG9ydHMgRkhEMTc3NTI3Njg1MzAxNg.txt",
+                        "link_names": [
+                            "TNT 1",
+                            "TNT 2",
+                            "TNT 3",
+                            "TNT 4"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "TNT PREMIUM ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfDNMIT_h8bKWdGcixDL9TcP0dEcuI2CzjlyHJB0jFyQ&s=10",
+                        "visible": true,
+                        "links": "pro/VkU1VU1UYzJOekF3TnpBM01ERXpNd1ROVCBQUkVNSVVNIDE3NzY5ODYwNzE0NTg.txt",
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "SSC",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejlYSF8z0mMEOlyiaEJfFOo7vrXHpkiX3PWF3bZufEg&s=10",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "SSC",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejlYSF8z0mMEOlyiaEJfFOo7vrXHpkiX3PWF3bZufEg&s=10",
+                        "visible": true,
+                        "links": "pro/U1NDU1NDMTc2NzAwNzEwNzM2Ng.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Bein Sports",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV6QuW3DDcL7x7OYyxOugZQFcyu0re53EZJNAm9_xyXqtpeihqMFC3SWhZBcGcLrP_wAIVH_o-sDYF5_O4d1v9_2erxJcg24F8QWTGQaPcombGebvAJUve8VoO0GjCTJpiR3x23K_cllCm1P1GMspT-TZXa5GeozWzXE3un0wGsfYFLvJGtJH7NUo1LHE/s16000/1000406201.jpg",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "BEIN SPORTS ENG 1 - AQ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uW6Y4wh7ggc96zQ-wt4w5fwoxbhTk73mmQfZf990A&s=10",
+                        "visible": true,
+                        "links": "pro/UW1WcGJpQlRjRzl5ZEhNeE56WTNNakE1TXpjd09EZzJCRUlOIFNQT1JUUyBFTkcgMSAtIEFRMTc2NzI5NTEwOTA5Ng.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "BEIN SPORTS ENG 2 - AQ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uW6Y4wh7ggc96zQ-wt4w5fwoxbhTk73mmQfZf990A&s=10",
+                        "visible": true,
+                        "links": "pro/UW1WcGJpQlRjRzl5ZEhNeE56WTNNakE1TXpjd09EZzJCRUlOIFNQT1JUUyBFTkcgMiAtIEFRMTc2NzI5NTE2ODUyMQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "S2"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "BEIN SPORTS ENG 3 - AQ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uW6Y4wh7ggc96zQ-wt4w5fwoxbhTk73mmQfZf990A&s=10",
+                        "visible": true,
+                        "links": "pro/UW1WcGJpQlRjRzl5ZEhNeE56WTNNakE1TXpjd09EZzJCRUlOIFNQT1JUUyBFTkcgMyAtIEFRMTc2NzI5NTI1NzAyNg.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "BEIN SPORTS EXTRA",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uW6Y4wh7ggc96zQ-wt4w5fwoxbhTk73mmQfZf990A&s=10",
+                        "visible": true,
+                        "links": "pro/UW1WcGJpQlRjRzl5ZEhNeE56WTNNakE1TXpjd09EZzJCRUlOIFNQT1JUUyBFWFRSQSAxMTc2NzI5NTMxMDQ1NA.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "beIN SPORTS XTRA Español",
+                            "BeIN extra"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "beIN Sports 1",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uW6Y4wh7ggc96zQ-wt4w5fwoxbhTk73mmQfZf990A&s=10",
+                        "visible": true,
+                        "links": "pro/UW1WcGJpQlRjRzl5ZEhNeE56WTNNakE1TXpjd09EZzJiZUlOIFNwb3J0cyAxMTc2NzI5NTM0MjczNw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "SD1",
+                            "SD2",
+                            "SD3",
+                            "SD4",
+                            "SD5",
+                            "SD6",
+                            "SD7",
+                            "SD8",
+                            "SD9"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "beIN Sports 2",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uW6Y4wh7ggc96zQ-wt4w5fwoxbhTk73mmQfZf990A&s=10",
+                        "links": "pro/UW1WcGJpQlRjRzl5ZEhNeE56WTNNakE1TXpjd09EZzJiZUlOIFNwb3J0cyAyMTc2NzI5NTM4NTc3MQ.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "beIN Sports SD",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uW6Y4wh7ggc96zQ-wt4w5fwoxbhTk73mmQfZf990A&s=10",
+                        "visible": true,
+                        "links": "pro/UW1WcGJpQlRjRzl5ZEhNeE56WTNNakE1TXpjd09EZzJiZUlOIFNwb3J0cyBTRDE3NzcyNjQ2NzkzMjA.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "beIN Sports SD - FR",
+                            "beIN Sports 2 SD - FR"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "BeIN Arabic",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ39tVKW5DpI_uZ4Kyx4xprina-EGDl3iCU2kVAZ3s5yg&s=10",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "BeIN Sports Arabic",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ39tVKW5DpI_uZ4Kyx4xprina-EGDl3iCU2kVAZ3s5yg&s=10",
+                        "visible": true,
+                        "links": "pro/QmVJTiBBcmFiaWMxMTc3NjA1ODI4MjY2NA.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "BeIN Arabic 1 - AQ",
+                            "BeIN Arabic 2 - AQ",
+                            "BeIN Arabic 3 - AQ",
+                            "BeIN Arabic 4 - AQ",
+                            "BeIN Arabic 5 - AQ",
+                            "BeIN Arabic 6 - AQ",
+                            "BeIN Arabic 7 - AQ",
+                            "BeIN Arabic 8 - AQ",
+                            "BeIN Arabic 9 - AQ",
+                            "BeIN Arabic 10 - AQ"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Star Sports",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDpNHg-kzJKULf1FxSlYuDiUMDbNi3FWBZoNr_nUNGTg_oO05GTAgvfO0JKeW6TFe2FCQ8HESN1Nlaa7Z-BxrwhxZE20nFFV2Y-pRt6EuRpXlj27puTtQ-dGr9Xnhd1EM-YaNLYPNMyYRZ3z_lZmt9xMuYBn4xJa2Kd8oKcQVb51r89CR0ndeZRfnAK6g/s1600/1000408147.jpg",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "Star Sports 1",
+                        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0wD4A7wvKyfXtAhVx1tTM8xpsiCtXng2UQaLFYnnUngOPD1e8flLOqeVYlqHw2Sk4TdOLEEzL5ynAuIEWdhkFl4-aYtbmPj6KpicxqKxkjUX5jO5WUNjzFIlOe3ZHGrKO8OJ8ajfxMqJ3MlGLqqH0sy6W7i-3MOGG50VZRN3CnFC007jZEKCpdfMCUeI/s1600/1000408521.jpg",
+                        "visible": true,
+                        "links": "pro/U3RhciBTcG9ydHNTdGFyIFNwb3J0cyAxMTc2NzUwNzQzNTAzNA.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "HD",
+                            "PZ TV  - HD",
+                            "Link 1",
+                            "Link 2",
+                            "Link 3",
+                            "S4"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Star Sports 1 Hindi",
+                        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg99r4yhKGdTx_rqjhaP06JLrDBTtUR68XkLs_VUY1siRlol9LDp5NrvL4f3AlK0m_2koJycNIHwq_j76U9Eo_8ZnSFAb40wh0CK1m8D6nz_5fg5fd_VZWp0Tuzf_6ygYR3ei6c1xAdG9QrUtI17d1Oj7Qu6FZXe3J9GsUAcce-pBM-S0p9XZYPDBiZcj8/s1600/1000408523.jpg",
+                        "visible": true,
+                        "links": "pro/VTNSaGNpQlRjRzl5ZEhNeE56WTNOVEEzTkRNMU1ETTBTdGFyIFNwb3J0cyAxIEhpbmRpMTc2NzUwNzU2MjA0Mw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "Link 2",
+                            "PlayZ Tv Live - HD",
+                            "Link SF"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Star Sports 2",
+                        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmOWvbBBcJYLed_eg7hpEnn8n031-PNYehWNwRn9XIAF7IzptP1PWSO75r3SPvHJ4by0mUoxtou_5C9624shPurOjJIiLIOhnGp9AepPCtNKU7VsF3s0eY-WH01zIqdB1SodtlW1GQPjVoj-LjPTOkQecgdm2eTCI6j6VEuUOHeDOhPQwiyyYP-wr6kWA/s1600/1000408525.jpg",
+                        "visible": true,
+                        "links": "pro/VTNSaGNpQlRjRzl5ZEhNeE56WTNOVEEzTkRNMU1ETTBTdGFyIFNwb3J0cyAyMTc2NzUwNzU5ODg1Mg.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "PZ TV  - HD",
+                            "Tamil"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Star Sports 3",
+                        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs0XkSKTZlmuyChnOfOX6bC0OSmzT4exnvJLyTF47TJvK3cuQFOwoL0kAoD0GvAEBbFWQPgARvoRkzu987k6xv-NSotw8eTuZXtOCkX7yNNgAaQDIxvtteOsXP418QPKR3S90yopshjPMgoAoBzkLIe8lB_Xl3pn9PbkA7mhqFFJ8xF0ybeEHYnfBi8ds/s1600/1000408531.jpg",
+                        "visible": true,
+                        "links": "pro/VTNSaGNpQlRjRzl5ZEhNeE56WTNOVEEzTkRNMU1ETTBTdGFyIFNwb3J0cyAzMTc2NzUwNzYyNTQ3MA.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "STAR SPORTS SELECT1 HD",
+                        "logo": "STAR SPORTS SELECT1 HD",
+                        "links": "pro/VTNSaGNpQlRjRzl5ZEhNeE56WTNOVEEzTkRNMU1ETTBTVEFSIFNQT1JUUyBTRUxFQ1QxIEhEMTc3NDUxNTM2MTA4MA.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "STAR SPORTS SELECT2 HD",
+                        "logo": "STAR SPORTS SELECT2 HD",
+                        "links": "pro/VTNSaGNpQlRjRzl5ZEhNeE56WTNOVEEzTkRNMU1ETTBTVEFSIFNQT1JUUyBTRUxFQ1QyIEhEMTc3NDUxNTM4MzM5Nw.txt",
+                        "is_playlist": false
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Sony Sports",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL2fQFVJkzyTcSH3lJAEPgprMcV-O3IrcGqG_s5_YVcoXsdkeUPDXywtg8MKICMwKiPSOWuLwubUIBaJOlx91r_9bAmMihMHd5syqL7fb0PUCkUk4BUHXJAUoQfwFMS_iO1TylaSfoVWuPYWdazGFFQ7n-0nnKflz-wBiyccRK7dhdNwDraZfWTt1rnRY/s1600/1000408534.jpg",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "SONY SPORTS",
+                        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL2fQFVJkzyTcSH3lJAEPgprMcV-O3IrcGqG_s5_YVcoXsdkeUPDXywtg8MKICMwKiPSOWuLwubUIBaJOlx91r_9bAmMihMHd5syqL7fb0PUCkUk4BUHXJAUoQfwFMS_iO1TylaSfoVWuPYWdazGFFQ7n-0nnKflz-wBiyccRK7dhdNwDraZfWTt1rnRY/s1600/1000408534.jpg",
+                        "visible": true,
+                        "links": "pro/U29ueSBTcG9ydHNTT05ZIFNQT1JUUyAxIEZIRDE3Njc1MDg3MjE3MjQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "SONY SPORTS 1 FHD",
+                            "SONY SPORTS 2 FHD",
+                            "SONY SPORTS 3 FHD",
+                            "Sony Sports 3 - HD",
+                            "Sony Sports 3",
+                            "SONY SPORTS 5 FHD",
+                            "Sony Sports 5 FHD",
+                            "S3",
+                            "S1",
+                            "Sony SPORTS 2 HD",
+                            "Sony Sports 3 Hindi",
+                            "Sony Sports 5",
+                            "Sony Sports 2",
+                            "Sony Sports 3",
+                            "SONY SPORTS 2 HD",
+                            "SONY SPORTS 5 HD"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Sky Sports",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_UyQba6scJmGIc0r6Wcd-AnKg5JxdDeeeEH4CRlqL7A&s=10",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "Sky sports Premier League",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTBUuJNcH3xBDQl4KRGzpsf_ygQYdQAkT2SG0ztOaQg&s=10",
+                        "visible": true,
+                        "links": "pro/VTJ0NUlGTndiM0owY3pFM05qY3lNRGswTkRjMk5Ua1NreSBzcG9ydHMgUHJlbWllciBMZWFndWUxNzY3NTExNjAwMDAx.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "FHD",
+                            "Hd",
+                            "SKY SPORTS DE"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Sky Sport Bundesliga 1 HD",
+                        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy7kmEy5fBJ8yBLQVCDxyZX58_K1mNF-gePN5MHm94ukx2N8bp76rswgz7CoStWBkIO1z6vQ74Fzwb0wXjOh_mdfwhk-zugjPdGSHaqnjqz2h6cbLCNybLQXQQWVpalq6_i3hDOujTDbX8AobuPn-2HtVcNsxpz5ZcN4fvhyphenhyphenq9knZWIyxQs89dZLFwHwY/s1600/1000408541.jpg",
+                        "links": "pro/VTJ0NUlGTndiM0owY3pFM05qY3lNRGswTkRjMk5Ua1NreSBTcG9ydCBCdW5kZXNsaWdhIDEgSEQxNzY3NTExNzkyMjM2.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Sky Sports Top Event",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01A44mNPQdlLxaSIqu5AUg1wVKuT9S652mZYYd0TUrA&s=10",
+                        "links": "pro/VTJ0NUlGTndiM0owY3pFM05qY3lNRGswTkRjMk5Ua1NreSBTcG9ydHMgVG9wIEV2ZW50MTc2NzUxMTg4NjM2OQ.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Sky Sports MiX",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdHlm_ors1uJjQr01PrCbZhDlUKXALGlnKgR8eWd49LQ&s=10",
+                        "visible": true,
+                        "links": "pro/VTJ0NUlGTndiM0owY3pFM05qY3lNRGswTkRjMk5Ua1NreSBTcG9ydHMgTWlYMTc2NzUxMTk0Njc2OA.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "FHD",
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Sky Sports F1 DE",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ8kLU3EsMAU9SaP56YN7e7UV9SAROSo8vtb6Sy8l9BA&s=10",
+                        "links": "pro/VTJ0NUlGTndiM0owY3pFM05qY3lNRGswTkRjMk5Ua1NreSBTcG9ydHMgRjEgREUxNzY3NTEyMDUyNTYz.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Sky Sport Tennis",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6R7DABnb7VDNdDcc51qwSXiFLRZgALy2ofQ&s",
+                        "visible": true,
+                        "links": "pro/VTJ0NUlGTndiM0owY3pFM05qY3lNRGswTkRjMk5Ua1NreSBTcG9ydCBUZW5uaXMxNzY3NTEyMTM2MDYw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "SKY SPORTS TENNIS FHD",
+                            "HD"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Sky Sports Golf",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWVZUgg2zOAAnk9ojogPrBE6UGxZQBN9lLK7XrXYwSkg&s=10",
+                        "links": "pro/VTJ0NUlGTndiM0owY3pFM05qY3lNRGswTkRjMk5Ua1NreSBTcG9ydHMgR29sZjE3Njc1MTIxOTIwNTg.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Sky News",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy7km0OZcYI-hv2mMQBUkzhtZRd3Nkwzv8RRY_StckwQ&s=10",
+                        "links": "pro/VTJ0NUlGTndiM0owY3pFM05qY3lNRGswTkRjMk5Ua1NreSBOZXdzMTc2NzUxMjI0NjM0Mw.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "SKY SPORTS CRICKET",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3T1tf3dkagTK_N_4uvQEoJGdWMAmCqnUYlL5tPZzuhw&s=10",
+                        "visible": true,
+                        "links": "pro/VTJ0NUlGTndiM0owY3pFM05qY3lNRGswTkRjMk5Ua1NLWSBTUE9SVFMgQ1JJQ0tFVDE3NzU3NjMzODYwNjI.txt",
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Sky Sports Laliga",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn5Yei3IZI5_NNmHQv6HiPAqM87BYjCEbWYDJ96NYP&s=10",
+                        "visible": true,
+                        "links": "pro/VTJ0NUlGTndiM0owY3pFM05qY3lNRGswTkRjMk5Ua1NreSBTcG9ydHMgTGFMaWdhIC0gQVExNzc3MDU0ODgwMjEw.txt",
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Fox Sports",
+            "logo": "https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "Fox Sports",
+                        "logo": "https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc",
+                        "visible": true,
+                        "links": "pro/Rm94IFNwb3J0c2YxNzY3MjA5NTU5ODQz.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "FOX DESPORT",
+                            "FOX SPORTS 1",
+                            "FOX SPORTS 2",
+                            "FOX SPORTS 3",
+                            "FOX PREMIUM",
+                            "FOX SPORTS (SUBTLE)",
+                            "FOX 2 USA"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Sport Tv ",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgWiDV4ishjF1P-NlJzao-8LJDklfxjAjMglc3q9WgVg&s=10",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "Sport tv 1",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgWiDV4ishjF1P-NlJzao-8LJDklfxjAjMglc3q9WgVg&s=10",
+                        "visible": true,
+                        "links": "pro/U3BvcnQgVHYgYzE3NjcyMDk2NjEwMjQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Sport tv 2",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgWiDV4ishjF1P-NlJzao-8LJDklfxjAjMglc3q9WgVg&s=10",
+                        "links": "pro/VTNCdmNuUWdWSFlnTVRjMk56SXdPVFkyTVRBeU9BU3BvcnQgdHYgMjE3NzUyODE0Njc5ODg.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Sport tv 3",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgWiDV4ishjF1P-NlJzao-8LJDklfxjAjMglc3q9WgVg&s=10",
+                        "links": "pro/VTNCdmNuUWdWSFlnTVRjMk56SXdPVFkyTVRBeU9BU3BvcnQgdHYgMzE3NzUyODE1MDE3NDk.txt",
+                        "is_playlist": false
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "ESPN",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfrViYXQAm3cKFYgiYp-up4ToClRMblF52Zz9i60tJ8Q&s=10",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "ESPN SPORTS - AQ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfrViYXQAm3cKFYgiYp-up4ToClRMblF52Zz9i60tJ8Q&s=10",
+                        "links": "pro/RVNQTkVTUE4gU1BPUlRTIC0gQVExNzY3NTA5NDc4NTg0.txt"
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "ESPN US 2",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfrViYXQAm3cKFYgiYp-up4ToClRMblF52Zz9i60tJ8Q&s=10",
+                        "links": "pro/UlZOUVRqRTNOamMxTURrME56ZzFPRFVFU1BOIFVTIDIxNzY3NTA5NjQ0MTE4.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "ESPN NL",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfrViYXQAm3cKFYgiYp-up4ToClRMblF52Zz9i60tJ8Q&s=10",
+                        "links": "pro/UlZOUVRqRTNOamMxTURrME56ZzFPRFVFU1BOIE5MMTc2NzUwOTY3NDYzMg.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "ESPN U",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfrViYXQAm3cKFYgiYp-up4ToClRMblF52Zz9i60tJ8Q&s=10",
+                        "links": "pro/UlZOUVRqRTNOamMxTURrME56ZzFPRFVFU1BOIFUxNzY3NTA5NzAxNTgx.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "ESPN HD",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfrViYXQAm3cKFYgiYp-up4ToClRMblF52Zz9i60tJ8Q&s=10",
+                        "visible": true,
+                        "links": "pro/UlZOUVRqRTNOamMxTURrME56ZzFPRFVFU1BOIEhEMTc3NDUxNjkwMDk0MA.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "ESPN 1",
+                            "ESPN 2"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "TSN Sports",
+            "logo": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "TSN AQ1",
+                        "logo": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+                        "visible": true,
+                        "links": "pro/VFNOIFNwb3J0c3IxNzY3MjA5NzgwMDU4.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "TSN AQ2",
+                        "logo": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+                        "visible": true,
+                        "links": "pro/VkZOT0lGTndiM0owY3pFM05qY3lNRGszT0RBd05qSVRTTiBBUTIxNzY3NTEwMTcxNzE2.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "TSN AQ3",
+                        "logo": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+                        "visible": true,
+                        "links": "pro/VkZOT0lGTndiM0owY3pFM05qY3lNRGszT0RBd05qSVRTTiBBUTMxNzY3NTEwMjA5NTYx.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "TSN AQ4",
+                        "logo": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+                        "visible": true,
+                        "links": "pro/VkZOT0lGTndiM0owY3pFM05qY3lNRGszT0RBd05qSVRTTiBBUTQxNzY3NTEwMjUwMDA1.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "TSN AQ5",
+                        "logo": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+                        "visible": true,
+                        "links": "pro/VkZOT0lGTndiM0owY3pFM05qY3lNRGszT0RBd05qSVRTTiBBUTUxNzY3NTEwMjkwMzEz.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "TSN - HD",
+                        "logo": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+                        "visible": true,
+                        "links": "pro/VkZOT0lGTndiM0owY3pFM05qY3lNRGszT0RBd05qSVRTTiAtIEhEMTc2NzUxMDM2NjE3MQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "TSN 1 - HD",
+                            "TSN 2 - HD",
+                            "TSN 3 - HD",
+                            "TSN 4 - HD",
+                            "TSN 5 - HD"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Premier Sports",
+            "logo": "https://i.postimg.cc/wMyrskDV/Picsart-26-01-01-10-34-07-074.jpg",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "PREMIER SPORTS 1 - AQ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQwFbBmtZVrJcEYfSKIevQ1Yf9WwwnKXeO3Fd4VIoyQ&s",
+                        "visible": true,
+                        "links": "pro/UHJlbWllciBTcG9ydHNmMTc2NzIxMDA0OTY4OQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "PREMIER SPORTS 1 - AQ"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "PREMIER SPORTS 2 - AQ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQwFbBmtZVrJcEYfSKIevQ1Yf9WwwnKXeO3Fd4VIoyQ&s",
+                        "visible": true,
+                        "links": "pro/VUhKbGJXbGxjaUJUY0c5eWRITXhOelkzTWpFd01EUTVOamszUFJFTUlFUiBTUE9SVFMgMiAtIEFRMTc2NzU5NzA5NzAyMw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "PREMIER RUGBY - AQ",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQwFbBmtZVrJcEYfSKIevQ1Yf9WwwnKXeO3Fd4VIoyQ&s",
+                        "visible": true,
+                        "links": "pro/VUhKbGJXbGxjaUJUY0c5eWRITXhOelkzTWpFd01EUTVOamszUFJFTUlFUiBTUE9SVFMgMyAtIEFRMTc2NzU5NzExMzA3Mw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "PREMIER SPORTS FHD",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjYKIUHjgmkCG8o_4bxkaNZiktJks9BSi2q7MS0qrwDg&s=10",
+                        "visible": true,
+                        "links": "pro/VUhKbGJXbGxjaUJUY0c5eWRITXhOelkzTWpFd01EUTVOamszUFJFTUlFUiBTUE9SVFMgRkhEMTc3NzM3NjE4MDg5NA.txt",
+                        "link_names": [
+                            "PREMIER SPORTS",
+                            "PREMIER SPORTS 2"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Ziggo Sports",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsjyW7s5EQSTJfCJ7usD9KM18FG-XZxpEDP58DLre54A&s=10",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "Ziggo Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsjyW7s5EQSTJfCJ7usD9KM18FG-XZxpEDP58DLre54A&s=10",
+                        "visible": true,
+                        "links": "pro/WmlnZ28gU3BvcnRzdDE3NjcyMTAyOTg0NzM.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1",
+                            "ZIGGO SPORTS - AQ",
+                            "ZIGGO SPORT 2 - AQ",
+                            "ZIGGO SPORT 3 - AQ",
+                            "ZIGGO SPORT 5 - AQ",
+                            "ZIGGO SPORT 6 - AQ"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "DAZN",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOyTEF4TZJPnfg5X2ANfDkddU6A9a0tBtRyb57ezyuf0WkO34GE3oCA43nqFrsQHDyGOlC8f9bkbR2e2hY0UGvBZREda7_lccC3oBxE7sXJyvizo4y6JoiVlRERBrDngHx7C8owQ1qWW6_nF7k5D6w_jERIYBcFzrGWT2XDo0tnIqOmqjw2r03W0y7K9Y/s16000/1000406062.jpg",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "DAZN WOMAN - AQ",
+                        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOyTEF4TZJPnfg5X2ANfDkddU6A9a0tBtRyb57ezyuf0WkO34GE3oCA43nqFrsQHDyGOlC8f9bkbR2e2hY0UGvBZREda7_lccC3oBxE7sXJyvizo4y6JoiVlRERBrDngHx7C8owQ1qWW6_nF7k5D6w_jERIYBcFzrGWT2XDo0tnIqOmqjw2r03W0y7K9Y/s16000/1000406062.jpg",
+                        "visible": true,
+                        "links": "pro/UkVGYVRqRTNOamN5TkRFNU5UVXpOalFEQVpOIFdPTUFOIC0gQVExNzY3Mjk0ODkwMjA2.txt",
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "DAZN FAST",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgKBEEKKK-RcJ218BTzTOmlCZEspryLz9Sg&s",
+                        "links": "pro/UkVGYVRqRTNOamN5TkRFNU5UVXpOalFEQVpOIEZBU1QxNzcwMTgxMjI0Njc1.txt",
+                        "is_playlist": false
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Fubo Sports",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYef4Dq2cqKoQQaMyKD0O3iTrL6c9yMVWTOCHLHmpHIQ&s=10",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "FUBO SPORTS 1",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYef4Dq2cqKoQQaMyKD0O3iTrL6c9yMVWTOCHLHmpHIQ&s=10",
+                        "visible": true,
+                        "links": "pro/RnVibyBTcG9ydHMxMTc2NzI0MjI5ODc4MQ.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Fubo 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "FUBO SPORTS 2",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYef4Dq2cqKoQQaMyKD0O3iTrL6c9yMVWTOCHLHmpHIQ&s=10",
+                        "links": "pro/Um5WaWJ5QlRjRzl5ZEhNeE56WTNNalF5TWprNE56Z3lGVUJPIFNQT1JUUyAyMTc3NTI4MTgyOTE4NQ.txt",
+                        "is_playlist": false
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Euro Sports",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3elDRuOZvx42jVTkNnoihMjC6_ezR84Umf6mpA68I6A&s=10",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "Euro",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3elDRuOZvx42jVTkNnoihMjC6_ezR84Umf6mpA68I6A&s=10",
+                        "visible": true,
+                        "links": "pro/RXVybyBTcG9ydHNnMTc2NzI0MjQxNzM0NQ.txt",
+                        "link_names": [
+                            "EURO 1 - HD",
+                            "EURO 2 - HD"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "FS1",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR40Y1wAWmivnGCaujZV8xWRJEUklLFU3fSlg&usqp=CAU",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "FS1",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR40Y1wAWmivnGCaujZV8xWRJEUklLFU3fSlg&usqp=CAU",
+                        "visible": true,
+                        "links": "pro/UmxNeE1UYzJOelV4TWpnek5EUTROZ0ZTMSAtIEFRMTc2NzUxMjkxMTAxOA.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "FS1 - AQ",
+                            "FS2 - AQ",
+                            "FS1 - HD",
+                            "FS2 - HD"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Sky sport Nz",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsYcX5PSo7ERVdQFCHxofLRAP5d87hL4veaipuSh0IR4Ekgl-_dNTbgw7&s=10",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "Sky sport Nz",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsYcX5PSo7ERVdQFCHxofLRAP5d87hL4veaipuSh0IR4Ekgl-_dNTbgw7&s=10",
+                        "visible": true,
+                        "links": "pro/U2t5IHNwb3J0IE56aDE3NjcyNDI2Mjg5MDk.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Sky sport  1",
+                            "Sky sports 2 nz",
+                            "Sky sport  3 nz",
+                            "Sky sport 4",
+                            "Sky sport 5",
+                            "Sky sport 6",
+                            "Sky sport 7",
+                            "Sky Sport 8",
+                            "Sky sport 9"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Arab Sports",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGLM2mrnhx1I95arydjJF8J2Qlo37w5OtRULNab63EjQ&s=10",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "Dubai Sports",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoQ_5BZsOtLWBBGoyU1Ec2ZERMo8zLroBKdA&usqp=CAU",
+                        "visible": true,
+                        "links": "pro/QXJhYiBTcG9ydHNoMTc2NzI0MjgzOTc1Mw.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "DUBAI SPORTS 1",
+                            "DUBAI SPORTS 2",
+                            "DUBAI SPORTS 3",
+                            "BAHRAIN SPORTS 1",
+                            "BAHRAIN SPORTS 2",
+                            "OMAN SPORTS",
+                            "Dubai ",
+                            "AbU FHD"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Hive Sports",
+            "logo": "https://i.postimg.cc/526yq4cF/Picsart-26-01-01-23-37-24-504.jpg",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/Hive-Sports.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "General Sports",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWOOz5Se8A8xud75Bfd4pMQPkx_Dvf6jCuFxdPwUKFwAsgXSkM6r_TiFh1NGOr0RdFnYR23mVWFLfeuBN8F_UoxpobIxq_3fW2xS3-9MxPFpt-wNATg9OwUUKmKS_oyuuPb8OUC3GT8y41GnQjTi37DOYUNcYQexjGCpwlMZ3kKgqR3gvMLX2pnvb8REA/s1600/1000408298.jpg",
+            "type": "m3u",
+            "api": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "World Sports",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7iSlqAmYv4wa-7P9aRqiLVniqbUQUtVNmgsf4BxJJqpRKNJVhlVHvFKI&s=10",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/wsp.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "FC IND",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpmc6r0tS_bJ1MhJmNTKv1nvU2YKLzzIXsw&s",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com\\\\/nkmisc88-jpg\\\\/nktv\\\\/5232d53b3cbc576531b266a559a81a0e76452581\\\\/playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "FC BD",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpmc6r0tS_bJ1MhJmNTKv1nvU2YKLzzIXsw&s",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "SonyLiv",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWoPHfgOHaZYT222AjgtqJB2cVypMRfUdyj3TxY9oPdw&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "T Sports",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/combine_playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "Sandbrix",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZuHiriaI2CkIfLnpuP8HOvMb4V7esX8ToHP15hEmh25ozsZFXZbzr5-Q&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abid58b/SandBrixPlaylist/refs/heads/main/sandbrix.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "Styx Sports",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIy_BesfLK9Ty-W8Hox1Rx1uv39Nl9nR8Ez_HtbY6uA&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abid58b/StyxSportsPlaylist/refs/heads/main/styxsports.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "EPL (BD IP)",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY6-8W_4C0dLa5mOgtGm8fsc-3tIo2LvINBEoC8Bz3Ug&s=10",
+            "type": "m3u",
+            "api": "https://epp.deadxploit.workers.dev/"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Sports Event’s",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5COUganDJvCOuioMhBrgNw_4WNnc0UyWiRuJlIbGPw&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/playlist_s.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "SPOEVENT",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_o_MMKxjhpjjey8oT60BRjbwGLWD_HnxY5UACV3RY0cNeforitI1NVY&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "FC IN 2",
+            "logo": "https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Shahid Sports",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqZ2aASwB2PMhEWsGXEbHme7K0Uw2aqOCjcwKfQdg1Q&s=10",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "Shahid Sports 1",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqZ2aASwB2PMhEWsGXEbHme7K0Uw2aqOCjcwKfQdg1Q&s=10",
+                        "visible": true,
+                        "links": "pro/U2hhaGlkIFNwb3J0c1NoYWhpZCBTcG9ydHMgMzE3NzUyODAwNTM2OTg.txt",
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Shahid Sports 2",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqZ2aASwB2PMhEWsGXEbHme7K0Uw2aqOCjcwKfQdg1Q&s=10",
+                        "links": "pro/VTJoaGFHbGtJRk53YjNKMGN6RTNOelV5T0RBd05UTTJPVGtTaGFoaWQgU3BvcnRzIDIxNzc1MjgwMjE1ODM2.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "name": "Shahid Sports 3",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqZ2aASwB2PMhEWsGXEbHme7K0Uw2aqOCjcwKfQdg1Q&s=10",
+                        "visible": true,
+                        "links": "pro/VTJoaGFHbGtJRk53YjNKMGN6RTNOelV5T0RBd05UTTJPVGtTaGFoaWQgU3BvcnRzIDExNzc1MjgwMjYyMjI5.txt",
+                        "is_playlist": false,
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Shahid Sports 4",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqZ2aASwB2PMhEWsGXEbHme7K0Uw2aqOCjcwKfQdg1Q&s=10",
+                        "links": "pro/VTJoaGFHbGtJRk53YjNKMGN6RTNOelV5T0RBd05UTTJPVGtTaGFoaWQgU3BvcnRzIDQxNzc1MjgwNDYyODEx.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Shahid Sports 5",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqZ2aASwB2PMhEWsGXEbHme7K0Uw2aqOCjcwKfQdg1Q&s=10",
+                        "links": "pro/VTJoaGFHbGtJRk53YjNKMGN6RTNOelV5T0RBd05UTTJPVGtTaGFoaWQgU3BvcnRzIDUxNzc1MjgwNTE1OTEx.txt",
+                        "is_playlist": false
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "CricHD 2",
+            "logo": "https://assets-playztv.pages.dev/sports-category/crichd.jpg",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "SPORTS HUB",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUeV1ICuWmwNedGtVdvLTO7-fL6qaYguWihrmR1_EnQ&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/ali-fajar/Hub-Sports/ff9bd729587760dbb827f3f9ee695a1936d1a375/Sportssss"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "AXSPORTS ",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ360oVrRCMTXmJ3zdUKryDA14wPoJ2bcPaGg&s",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "Highlights",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmdHIFmUuEbJ81PU_03vSeT_HgGAT7ZsFiGd0TYMkD9bBTZITn4b8bM0M&s=10",
+            "type": "custom",
+            "api": [
+                {
+                    "channel": {
+                        "name": "Al Nassr 4 - 1 Damac (Saudi Pro League)",
+                        "logo": "https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2026%2F01%2FDamac-vs-Al-Nassr.jpg&w=1920&q=75",
+                        "visible": true,
+                        "links": "pro/SGlnaGxpZ2h0c0FsIE5hc3NyIDQgLSAxIERhbWFjIChTYXVkaSBQcm8gTGVhZ3VlKTE3NzkzOTY1ODU0Njg.txt",
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Aston Villa VS SC Freiburg [UEFA Europa League Final]",
+                        "logo": "https://mrfixitstips.co.uk/thumbor/kGRJQx2k4Xes_PAqc_vnUQYiKog=/1038x580/smart/https%3A%2F%2Fmedia.mrfixitstips.co.uk%2Fmain%2F2026%2F05%2FFreiburg-v-Aston-Villa.png",
+                        "links": "pro/U0dsbmFHeHBaMmgwY3pFM056a3pPVFkxT0RVME5qZ0FzdG9uIFZpbGxhIFZTIFNDIEZyZWlidXJnIFtVRUZBIEV1cm9wYSBMZWFndWUgRmluYWxdMTc3OTM5NzczMzc3OQ.txt",
+                        "is_playlist": false
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "Chelsea FC vs Man City [FA Cup]",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUum95opVqAAxE7tPmMYAXN_d1GIS74NwhCdu-_krxA&s=10",
+                        "links": "pro/U0dsbmFHeHBaMmgwY3pFM056a3pPVFkxT0RVME5qZ0NoZWxzZWEgRkMgdnMgTWFuIENpdHkgW0ZBIEN1cF0xNzc5Mzk3OTU4Nzc3.txt",
+                        "is_playlist": false
+                    }
+                }
+            ]
+        }
+    }
+]

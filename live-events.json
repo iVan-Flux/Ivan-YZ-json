@@ -3,43 +3,11 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:48:18 AM 27-05-2026",
+    "Last update time": "09:01:31 AM 27-05-2026",
     " Live : 00 ": "",
-    "Upcoming : 71": "",
-    "Finish : 22 ": "",
+    "Upcoming : 70": "",
+    "Finish : 23 ": "",
     "events": [
-        {
-            "match_id": "",
-            "category": "Football",
-            "eventName": "CONMEBOL Sudamericana",
-            "event_name": "CONMEBOL Sudamericana",
-            "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
-            "teamAName": "Santos",
-            "teamBName": "Deportivo Cuenca",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/5251/image",
-            "start Time": "27/05/2026 04:30:00",
-            "end Time": "27/05/2026 06:50:00",
-            "visible": true,
-            "isHot": false,
-            "Status": "Upcoming",
-            "links": [
-                {
-                    "name": "Link 1",
-                    "link": "https://601.thelistener.pk/epl4.m3u8|Referer=https://roxiestreams.su&Origin=https://roxiestreams.su&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-                    "scheme": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "name": "IVANZTV HD ",
-                    "link": "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8|Referer=https://live.chuoichientv.com/&Origin=https://gckc0525.edgemaxcdn.org&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-                    "scheme": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
         {
             "match_id": "",
             "category": "Cricket",
@@ -1595,6 +1563,38 @@
                 {
                     "name": "Link 1",
                     "link": "https://IVANZtv.pages.dev/sss/index.m3u8"
+                }
+            ]
+        },
+        {
+            "match_id": "",
+            "category": "Football",
+            "eventName": "CONMEBOL Sudamericana",
+            "event_name": "CONMEBOL Sudamericana",
+            "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+            "teamAName": "Santos",
+            "teamBName": "Deportivo Cuenca",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/5251/image",
+            "start Time": "27/05/2026 04:30:00",
+            "end Time": "27/05/2026 06:50:00",
+            "visible": true,
+            "isHot": false,
+            "Status": "Finished",
+            "links": [
+                {
+                    "name": "Link 1",
+                    "link": "https://601.thelistener.pk/epl4.m3u8|Referer=https://roxiestreams.su&Origin=https://roxiestreams.su&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+                    "scheme": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "name": "IVANZTV HD ",
+                    "link": "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8|Referer=https://live.chuoichientv.com/&Origin=https://gckc0525.edgemaxcdn.org&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+                    "scheme": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },

@@ -451,7 +451,8 @@
                             "twt e.",
                             "be",
                             "be2",
-                            "3"
+                            "3",
+                            "UEFA Conference League | Final"
                         ]
                     }
                 },
@@ -2975,9 +2976,19 @@
                         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNAEcNqLf4A8T3LQoAh2g8vv1JOoO2h9anB-C5Xc2lKU226u2h2Tb1fdg&s=10",
                         "visible": true,
                         "links": "pro/U0dsbmFHeHBaMmgwY3pFM056a3pPVFkxT0RVME5qZ0lQTCAyMDI2IEVsaW1pbmF0b3I6IFNSSCB2cyBSUiAtIE1hdGNoIEhpZ2hsaWdodHMxNzc5OTExMDcxMjky.txt",
+                        "is_playlist": false,
                         "link_names": [
-                            "Link 1"
+                            "x "
                         ]
+                    }
+                },
+                {
+                    "channel": {
+                        "visible": true,
+                        "name": "IPL 2026 Q1: RCB vs GT - Match Highlights",
+                        "logo": "https://static.cricbuzz.com/a/img/v1/i1/c996031/full-highlights-royal-challengers-bengaluru-vs-gujarat-titans-qualifier-1-tata-ipl-2026-brought-to-you-by-workato.jpg?d=low&p=det",
+                        "links": "pro/U0dsbmFHeHBaMmgwY3pFM056a3pPVFkxT0RVME5qZ0lQTCAyMDI2IFExOiBSQ0IgdnMgR1QgLSBNYXRjaCBIaWdobGlnaHRzMTc3OTkxNTAzNDg1NA.txt",
+                        "is_playlist": false
                     }
                 }
             ]

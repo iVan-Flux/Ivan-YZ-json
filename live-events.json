@@ -3,10 +3,10 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:41:40 AM 28-05-2026",
+    "Last update time": "03:58:42 AM 28-05-2026",
     " Live : 00 ": "",
     "Upcoming : 72": "",
-    "Finish : 23 ": "",
+    "Finish : 15 ": "",
     "events": [
         {
             "id": "AAIVF",
@@ -2249,125 +2249,6 @@
             ]
         },
         {
-            "id": "JIIVF",
-            "title": "International Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Jamaica",
-                "teamB": "India",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4769/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-                "eventName": "International Friendly Games",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/05/27 22:30:00 +0000",
-                "endTime": "2026/05/28 00:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://pull.livecdn.cc/live/4544824.m3u8",
-                    "title": "IVANZTV HD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://pul-tenm.nbs3g.com/live/sd-1-4544824.m3u8?txSecret=1a6d9a9d8b42017afc85f23c475e08e0&txTime=6A1877D9",
-                    "title": "IVANZTV FHD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://in-mc-fblive.fancode.com/mumbai%2F142667_english_hls_a583759b9587118_1ta-di_h264/index.m3u8",
-                    "title": "FANCODE - IN",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https%3A%2F%2Fredbooks.site%2Ffc.php%3Furl%3Dhttps%3A%2F%2Fbd-mc-fblive.fancode.com%2Fmumbai%2F142667_english_hls_a583759b9587118_1ta-di_h264%2Findex.m3u8",
-                    "title": "IVANZTV  - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://pulltx.jdnzrgm.com/live/sd-6Mwe5ZtgDaegDcemdx.m3u8?txSecret=208c71593ca5d16b98d530da01da0de4&txTime=6A1761E1",
-                    "title": "FAST FHD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "http://193.47.62.55/hls/kikikiQ.m3u8|referer=http://www.fawanews.sc/",
-                    "title": "LOW QUALITY ",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "LDIVF",
-            "title": "T20 Blast",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "Leicestershire",
-                "teamB": "Derbyshire",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187839/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187838/image",
-                "eventName": "T20 Blast",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/05/27 21:30:00 +0000",
-                "endTime": "2026/05/28 01:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "ceec087c79e0c57122d3bfd7af266f3d:f219290ebad0344bc40dac21550f2abc",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rjmdtiyurd/out/v1/b73f75c2916d4a38b5a9550fbf25e01e/cenc.mpd",
-                    "title": "FHD",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "FRIVF",
-            "title": "Liga F Moeve",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Fútbol Club Barcelona",
-                "teamB": "Real Sociedad",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/77889/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/77897/image",
-                "eventName": "Liga F Moeve",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/05/27 21:00:00 +0000",
-                "endTime": "2026/05/27 23:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=6077ec8666b02399e4d8c4810f8fc2ef7e50849c&x-sign=e309318d24aab0d8cf36a848ac204e25&x-time=1779903060|Referer=https://livecdn-bp-livestream.rumsport7.live&Origin=https://livecdn-bp-livestream.rumsport7.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": "SRIVF",
             "title": "Indian Premier League",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
@@ -2690,132 +2571,6 @@
             ]
         },
         {
-            "id": "SDIVF",
-            "title": "CONMEBOL Sudamericana",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Santos",
-                "teamB": "Deportivo Cuenca",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5251/image",
-                "eventName": "CONMEBOL Sudamericana",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/05/27 04:30:00 +0000",
-                "endTime": "2026/05/27 06:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://601.thelistener.pk/epl4.m3u8|Referer=https://roxiestreams.su&Origin=https://roxiestreams.su&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8|Referer=https://live.chuoichientv.com/&Origin=https://gckc0525.edgemaxcdn.org&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-                    "title": "IVANZTV HD ",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "SNIVF",
-            "title": "Ligue 1",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Saint-Étienne",
-                "teamB": "Nice",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1678/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1661/image",
-                "eventName": "Ligue 1",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/05/26 22:45:00 +0000",
-                "endTime": "2026/05/27 01:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=63b1ce5dac0c33251092881e11dd5e3f7cfe5642&x-sign=ebf0de92a05ce24748e2657f04d757cc&x-time=1779820200|Referer=https://livecdn-bp-livestream.rumsport7.live&Origin=https://livecdn-bp-livestream.rumsport7.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                    "title": "IVANZTV LIVE ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "http://193.47.62.44/hls/DADADAQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "SRIVF",
-            "title": "2. Bundesliga",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "SpVgg Greuther Fürth",
-                "teamB": "Rot-Weiss Essen",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2551/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2562/image",
-                "eventName": "2. Bundesliga",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/05/26 22:30:00 +0000",
-                "endTime": "2026/05/27 00:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "http://193.47.62.44/hls/DADADAQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "FRIVF",
-            "title": "Liga F Moeve",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "FC Badalona",
-                "teamB": "Real Madrid",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/77893/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/305051/image",
-                "eventName": "Liga F Moeve",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/05/26 21:00:00 +0000",
-                "endTime": "2026/05/26 23:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=060b9528cea8f8faefeb1ea20d8dfa8579ac2834&x-sign=cbd969246cca1028420a09220ac077e1&x-time=1779819300|Referer=https://livecdn-bp-livestream.rumsport7.live&Origin=https://livecdn-bp-livestream.rumsport7.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": "MBIVF",
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
@@ -2901,41 +2656,6 @@
                     "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
                     "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
                     "title": "Tap Sport LQ",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "SPIVF",
-            "title": "Scottish Premiership",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "St. Mirren",
-                "teamB": "Partick Thistle",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2359/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2358/image",
-                "eventName": "Scottish Premiership",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/05/25 23:00:00 +0000",
-                "endTime": "2026/05/26 01:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-                    "title": "BEIN SPORTS ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-                    "title": "CBS Sports",
                     "type": "1",
                     "tokenApi": ""
                 }

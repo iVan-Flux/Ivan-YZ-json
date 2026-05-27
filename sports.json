@@ -2968,6 +2968,17 @@
                         "links": "pro/U0dsbmFHeHBaMmgwY3pFM056a3pPVFkxT0RVME5qZ0NoZWxzZWEgRkMgdnMgTWFuIENpdHkgW0ZBIEN1cF0xNzc5Mzk3OTU4Nzc3.txt",
                         "is_playlist": false
                     }
+                },
+                {
+                    "channel": {
+                        "name": "IPL SRH vs RR - Match Highlights |\nIPL 2026 Eliminator",
+                        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNAEcNqLf4A8T3LQoAh2g8vv1JOoO2h9anB-C5Xc2lKU226u2h2Tb1fdg&s=10",
+                        "visible": true,
+                        "links": "pro/U0dsbmFHeHBaMmgwY3pFM056a3pPVFkxT0RVME5qZ0lQTCAyMDI2IEVsaW1pbmF0b3I6IFNSSCB2cyBSUiAtIE1hdGNoIEhpZ2hsaWdodHMxNzc5OTExMDcxMjky.txt",
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
                 }
             ]
         }

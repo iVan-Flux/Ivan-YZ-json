@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:52:59 PM 27-05-2026",
-    " Live : 04 ": "",
-    "Upcoming : 70": "",
+    "Last update time": "09:04:43 PM 27-05-2026",
+    " Live : 02 ": "",
+    "Upcoming : 69": "",
     "Finish : 19 ": "",
     "events": [
         {
@@ -44,62 +44,6 @@
             ]
         },
         {
-            "id": "WTIVF",
-            "title": "Women's T20 Blast",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "Warwickshire Women",
-                "teamB": "The Blaze",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/470856/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1081090/image",
-                "eventName": "Women's T20 Blast",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/05/27 17:30:00 +0000",
-                "endTime": "2026/05/27 21:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://IVANZtv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "SYIVF",
-            "title": "Women's T20 Blast",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "Somerset Women",
-                "teamB": "Yorkshire Women",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1081089/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1086170/image",
-                "eventName": "Women's T20 Blast",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/05/27 17:30:00 +0000",
-                "endTime": "2026/05/27 21:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://IVANZtv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": "SRIVF",
             "title": "Indian Premier League",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
@@ -119,22 +63,36 @@
             },
             "channels_data": [
                 {
+                    "api": "688d8c827ef18b5258ad18c1173f673b:d26b95548e8812e72e3706b8be5030bc",
+                    "link": "https://abkyrm4aaaaaaaamdfmta2x6mztaj.ta.bia-cf.live.pv-cdn.net%2Fpdx-nitro/live/clients/dash/enc/2gvz3ny1qt/out/v1/7f41f2d7317249de95ed9dfa4103bde4/cenc.mpd",
+                    "title": "WILLOW - AQ [Ad Free]",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
                     "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
-                    "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779941856~acl=%2f*~id=f6d4c20a-c2c8-4d59-8443-b10636e6f076~data=hdntl,aXA9NTIuMTUzLjEzMC4xNDcmZXhwPTE3Nzk4NTU0ODYmZWlkPTk2MjY2MiZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1DcDZIY3R8YTFlODk4ZjQtNWQ5Mi00NDk4LTk2YTMtM2U0NGZlYWMyODRkJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=7dd27c9cb9ad2ec81a5c78ac4e4579b7ec1f99513598e8043e1a3e00ce42eb41/dash/live/2093710/219026-321025/manifest-d.mpd",
+                    "link": "https://dice-live-oc.akamaized.net/exp=1779964324~acl=%2f*~id=9a62c341-f5b7-4e27-bcc0-0d2e4cf56d19~data=hdntl,aXA9MzguMTM3LjUwLjg0JmV4cD0xNzc5ODc3OTUzJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=edbd1435954e4efc123ba6005840759c70409aa19c4cd6f965657bff7cfffa39/dash/live/2093710/219026-321025%2Fmanifest-d.mpd?",
                     "title": "SKY SPORT NZ - AQ",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
                     "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
-                    "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779941856~acl=%2f*~id=f6d4c20a-c2c8-4d59-8443-b10636e6f076~data=hdntl,aXA9NTIuMTUzLjEzMC4xNDcmZXhwPTE3Nzk4NTU0ODYmZWlkPTk2MjY2MiZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1DcDZIY3R8YTFlODk4ZjQtNWQ5Mi00NDk4LTk2YTMtM2U0NGZlYWMyODRkJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=7dd27c9cb9ad2ec81a5c78ac4e4579b7ec1f99513598e8043e1a3e00ce42eb41/dash/live/2093666/294921-318514/manifest-d.mpd",
+                    "link": "https://dice-live-oc.akamaized.net/exp=1779964324~acl=%2f*~id=9a62c341-f5b7-4e27-bcc0-0d2e4cf56d19~data=hdntl,aXA9MzguMTM3LjUwLjg0JmV4cD0xNzc5ODc3OTUzJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=edbd1435954e4efc123ba6005840759c70409aa19c4cd6f965657bff7cfffa39/dash/live/2093666/294921-318514%2Fmanifest-d.mpd?",
                     "title": "SKY SPORT NZ - 4K",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
+                    "api": "03b7771184005501ba6d66c24eac1414:bfbc4f689e14c75c4cd3c85c2192b2a1",
+                    "link": "https://dck1-ak-livedazn.akamaized.net/out/v1/761f422bb93edb7b/b950ea05fb764eea969d5d9b28271ef8/index.mpd",
+                    "title": "KAYO HINDI - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
                     "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22",
-                    "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652%2Fd65feac5647949e6b45b2674d4715398/index.mpd",
+                    "link": "https://dck1-ak-livedazn.akamaized.net/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
                     "title": "FOX CRICKET - AQ",
                     "type": "1",
                     "tokenApi": ""
@@ -147,20 +105,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "api": "1c6eba2c2e7e6cfb8ec88e52b2f7215f:70b8023f64edd20a9f5a2db35bbd9b3a",
-                    "link": "https://abkyrm4aaaaaaaamdfmta2x6mztaj.ta.bia-cf.live.pv-cdn.net%2Fpdx-nitro/live/clients/dash/enc/y0noyfzhol/out/v1/60c855bf64ab43ea869800cc78e75a84/cenc.mpd",
-                    "title": "WILLOW - AQ [Ad Free]",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "89c5df2d78115f56a99366a56da51f9b:b30f0983a30d8075048be96569b7f671",
-                    "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/96c681081ef542b1bd4bdf94806e5a06/index.mpd",
-                    "title": "KAYO HINDI - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
                     "api": "",
                     "link": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23",
                     "title": "NOON SPORTS - AQ",
@@ -168,15 +112,15 @@
                     "tokenApi": ""
                 },
                 {
-                    "api": "7e696a5a76ffdfe030131bdfaa603107:1b3575789123b0da791c3c238dd336c2",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xkzcdsywko/out/v1/acdae3af65cd467b9e9e0ddc3935e6c6/cenc.mpd",
+                    "api": "7a80c9cc7aaf99691c778fdb73200d3d:4def6c498d89e3bd6ffece81cf7233a7",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qhcan4xbhg/out/v1/b8696734771e4734af8494c841e196b1/cenc.mpd",
                     "title": "WILLOW - FHD",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
                     "api": "",
-                    "link": "http://193.47.62.43/hls/IYYYYQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                    "link": "http://193.47.62.43/hls/IYYYYQx.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
                     "title": "SD STREAM ",
                     "type": "1",
                     "tokenApi": ""
@@ -225,63 +169,63 @@
                 },
                 {
                     "api": "b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5198de55f",
-                    "link": "https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?|cookie=hdntl=exp=1779885517~acl=%2f*~id=01c91f00310a7555ccfd0712e0384cd8~data=hdntl~hmac=edaa6b4cd13ee753ef0ba7520c8847f025849af37ef98a572aacdc55e5c902ec&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "link": "https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?|cookie=hdntl=exp=1779971726~acl=%2f*~id=412f10815425fa23d45a8ce13ba1cbad~data=hdntl~hmac=24f9ed1758ec1e26ec16344532b8f3a6a992ca92453a105deefe9629d37c2fa5&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
                     "title": "SS1 ENG - IN",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
                     "api": "81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675",
-                    "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?|cookie=hdntl=exp=1779885517~acl=%2f*~id=01c91f00310a7555ccfd0712e0384cd8~data=hdntl~hmac=edaa6b4cd13ee753ef0ba7520c8847f025849af37ef98a572aacdc55e5c902ec&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?|cookie=hdntl=exp=1779971726~acl=%2f*~id=412f10815425fa23d45a8ce13ba1cbad~data=hdntl~hmac=24f9ed1758ec1e26ec16344532b8f3a6a992ca92453a105deefe9629d37c2fa5&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
                     "title": "SS1 HIN - IN",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
                     "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
-                    "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|cookie=hdntl=exp=1779885517~acl=%2f*~id=01c91f00310a7555ccfd0712e0384cd8~data=hdntl~hmac=edaa6b4cd13ee753ef0ba7520c8847f025849af37ef98a572aacdc55e5c902ec&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|cookie=hdntl=exp=1779971726~acl=%2f*~id=412f10815425fa23d45a8ce13ba1cbad~data=hdntl~hmac=24f9ed1758ec1e26ec16344532b8f3a6a992ca92453a105deefe9629d37c2fa5&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
                     "title": "SS2 ENG - IN",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
                     "api": "",
-                    "link": "https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8?|cookie=hdntl=exp=1779885517~acl=%2f*~id=01c91f00310a7555ccfd0712e0384cd8~data=hdntl~hmac=edaa6b4cd13ee753ef0ba7520c8847f025849af37ef98a572aacdc55e5c902ec&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "link": "https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8?|cookie=hdntl=exp=1779971726~acl=%2f*~id=412f10815425fa23d45a8ce13ba1cbad~data=hdntl~hmac=24f9ed1758ec1e26ec16344532b8f3a6a992ca92453a105deefe9629d37c2fa5&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
                     "title": "SS2 HIN - IN",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
                     "api": "2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337",
-                    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd?%7cCookie=%5F%5Fhdnea%5F%5F=st=1779784204~exp=1779805804~acl=/bpk-tv/Star%5FSports%5F1%5FTamil%5FHD%5FBTS/WDVLive/*~hmac=810f84bb812ff91f7708f7b1cd3657cb0fb3351b0aa76d265b6156ad97eece44",
+                    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd?%7cCookie=%5F%5Fhdnea%5F%5F=st=1779888313~exp=1779909913~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=4c46dfd8267e626099f6681c9e5e347a549a8417e4c5d49b559468c60b3b22c6",
                     "title": "SS1 TAMIL - IN",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
                     "api": "49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5",
-                    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd?%7cCookie=%5F%5Fhdnea%5F%5F=st=1779784204~exp=1779805804~acl=/bpk-tv/Star%5FSports%5F1%5FTelugu%5FHD%5FBTS/WDVLive/*~hmac=95da805f0568f192df58074e87edb0372935912b7918863d041a212b05b9c270",
+                    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd?%7cCookie=%5F%5Fhdnea%5F%5F=st=1779888337~exp=1779909937~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=d2d715b486c17a5d793fd9b261f2acdf931e01bd3733e44d086e457e7ab1c5f8",
                     "title": "SS1 TELUGU - IN",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
                     "api": "9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15",
-                    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd?%7cCookie=%5F%5Fhdnea%5F%5F=st=1779784204~exp=1779805804~acl=/bpk-tv/Star%5FSports%5F1%5FKannada%5FBTS/WDVLive/*~hmac=80b3e5d24d19999decf559b278a4cfb8dd9d72a2f9f8aa69f783e25e912634af",
+                    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd?%7cCookie=%5F%5Fhdnea%5F%5F=st=1779888574~exp=1779910174~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=a5c625ecce3b898f03e9177e5efa320b2090a734a68a6b3ccba8e098bb1ca0c6",
                     "title": "SS1 KAN - IN",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
                     "api": "",
-                    "link": "https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8?|cookie=hdntl=exp=1779885517~acl=%2f*~id=01c91f00310a7555ccfd0712e0384cd8~data=hdntl~hmac=edaa6b4cd13ee753ef0ba7520c8847f025849af37ef98a572aacdc55e5c902ec&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "link": "https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8?|cookie=hdntl=exp=1779971726~acl=%2f*~id=412f10815425fa23d45a8ce13ba1cbad~data=hdntl~hmac=24f9ed1758ec1e26ec16344532b8f3a6a992ca92453a105deefe9629d37c2fa5&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
                     "title": "SS2 TAMIL - IN",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
                     "api": "",
-                    "link": "https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?|cookie=hdntl=exp=1779885517~acl=%2f*~id=01c91f00310a7555ccfd0712e0384cd8~data=hdntl~hmac=edaa6b4cd13ee753ef0ba7520c8847f025849af37ef98a572aacdc55e5c902ec&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "link": "https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?|cookie=hdntl=exp=1779971726~acl=%2f*~id=412f10815425fa23d45a8ce13ba1cbad~data=hdntl~hmac=24f9ed1758ec1e26ec16344532b8f3a6a992ca92453a105deefe9629d37c2fa5&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
                     "title": "SS2 TELUGU - IN",
                     "type": "1",
                     "tokenApi": ""
@@ -416,34 +360,6 @@
                     "api": "",
                     "link": "http://starhub.pro/live/johannes/johannes123/705165.ts",
                     "title": "Bihari 4k",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "SDIVF",
-            "title": "Women's T20 Blast",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "Surrey Women",
-                "teamB": "Durham Women",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1081088/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1081086/image",
-                "eventName": "Women's T20 Blast",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/05/27 21:30:00 +0000",
-                "endTime": "2026/05/28 01:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://IVANZtv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
                     "type": "1",
                     "tokenApi": ""
                 }

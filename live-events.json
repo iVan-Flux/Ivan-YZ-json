@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:58:42 AM 28-05-2026",
-    " Live : 00 ": "",
-    "Upcoming : 72": "",
+    "Last update time": "07:30:43 AM 28-05-2026",
+    " Live : 01 ": "",
+    "Upcoming : 71": "",
     "Finish : 15 ": "",
     "events": [
         {
@@ -22,9 +22,9 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/05/28 04:00:00 +0000",
-                "endTime": "2026/05/28 06:00:00 +0000"
+                "endTime": "2026/05/28 08:30:00 +0000"
             },
             "channels_data": [
                 {
@@ -127,7 +127,7 @@
             "channels_data": [
                 {
                     "api": "",
-                    "link": "ok",
+                    "link": "https://redbooks.site/c.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2",
                     "title": "fc & t s",
                     "type": "1",
                     "tokenApi": ""
@@ -311,6 +311,13 @@
                     "api": "",
                     "link": "https://redbooks.site/fc.php?url=https%3A%2F%2Fbd-mc-fblive.fancode.com%2Fmumbai%2F142936_english_hls_edd205a76331217_1ta-di_h264%2Findex.m3u8",
                     "title": "MALDIVES",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://redbooks.site/c.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2",
+                    "title": "T SPORTS HD",
                     "type": "1",
                     "tokenApi": ""
                 }

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:32:52 PM 30-05-2026",
+    "Last update time": "12:38:52 AM 31-05-2026",
     "sports": [
         {
             "cat": {
@@ -319,80 +319,16 @@
                                 },
                                 {
                                     "name": "FANCODE SD",
-                                    "link": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+                                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                                     "scheme": 0,
                                     "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
                                     "tokenApi": ""
                                 },
                                 {
-                                    "name": "FANCODE 1 - AQ",
-                                    "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                                    "name": "FANCODE 2 - AQ",
+                                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
                                     "scheme": 0,
                                     "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "Fancode S1 - AQ",
-                                    "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-                                    "scheme": 0,
-                                    "api": {
-                                        "keys": [
-                                            {
-                                                "kty": "oct",
-                                                "k": "IUvRdoMocjOc4YQzgyD5og",
-                                                "kid": "BlBRuZv1z42aO95cveaq+Q"
-                                            }
-                                        ],
-                                        "type": "temporary"
-                                    },
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "Fancode S2 - AQ",
-                                    "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                                    "scheme": 0,
-                                    "api": {
-                                        "keys": [
-                                            {
-                                                "kty": "oct",
-                                                "k": "G4oXWYEpo2GFNcj7BfED/g",
-                                                "kid": "fpI5wZgtmEoALfPtBJ0HVg"
-                                            }
-                                        ],
-                                        "type": "temporary"
-                                    },
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "Fancode S3 - AQ",
-                                    "link": "https://abmvm23aaaaaaaamjmmec4lqatq7x.ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-                                    "scheme": 0,
-                                    "api": {
-                                        "keys": [
-                                            {
-                                                "kty": "oct",
-                                                "k": "aQfIjtjr3TWi+oC5aEcV4Q",
-                                                "kid": "VokwRTj6nzuz2pnJOaKtTw"
-                                            }
-                                        ],
-                                        "type": "temporary"
-                                    },
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "Fancode S4 - AQ",
-                                    "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                                    "scheme": 0,
-                                    "api": {
-                                        "keys": [
-                                            {
-                                                "kty": "oct",
-                                                "k": "fpI5wZgtmEoALfPtBJ0HVg",
-                                                "kid": "G4oXWYEpo2GFNcj7BfED"
-                                            }
-                                        ],
-                                        "type": "temporary"
-                                    },
                                     "tokenApi": ""
                                 },
                                 {
@@ -400,27 +336,6 @@
                                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
                                     "scheme": 0,
                                     "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "FANCODE FHD",
-                                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-                                    "scheme": 0,
-                                    "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "New FC ",
-                                    "link": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                                    "scheme": 0,
-                                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "FC HD",
-                                    "link": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-                                    "scheme": 0,
-                                    "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
                                     "tokenApi": ""
                                 }
                             ]
@@ -4704,6 +4619,67 @@
                                     "scheme": 0,
                                     "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
                                     "tokenApi": ""
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "channel": {
+                            "name": "Premiere Sports",
+                            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_VUUyGGpMfqKPZHi1vPFHrE9tMXaX6ttV1_9G36GqprADCL6aHgZjpK3&s=10",
+                            "visible": true,
+                            "is_playlist": false,
+                            "stream_links": [
+                                {
+                                    "name": "Premiere Sports 1",
+                                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "Premiere Sports 2",
+                                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "Premiere Sports 3",
+                                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "Premiere Sports 4",
+                                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "Premiere Sports 5",
+                                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
+                                    "tokenApi": ""
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "channel": {
+                            "visible": true,
+                            "name": "SPOTV NOW",
+                            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-k3O4WUYNXjh_apAPk4V4lJ4LoBXKC_E6jo21BFZPaCEjBQuCfVy7uc&s=10",
+                            "is_playlist": false,
+                            "stream_links": [
+                                {
+                                    "name": "Link 1",
+                                    "link": "https://slive.mana2.my/SpotvNow/index.mpd|referer=https://www.mana2.my/",
+                                    "api": "3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407",
+                                    "scheme": 0
                                 }
                             ]
                         }

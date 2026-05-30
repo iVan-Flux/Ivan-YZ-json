@@ -2992,6 +2992,17 @@
                         "links": "pro/U0dsbmFHeHBaMmgwY3pFM056a3pPVFkxT0RVME5qZ0lQTCAyMDI2IFExOiBSQ0IgdnMgR1QgLSBNYXRjaCBIaWdobGlnaHRzMTc3OTkxNTAzNDg1NA.txt",
                         "is_playlist": false
                     }
+                },
+                {
+                    "channel": {
+                        "name": "PL 2026 Q2: GT vs RR - Match Highlights",
+                        "logo": "https://img.youtube.com/vi/F_lsoKn_tv0/maxresdefault.jpg",
+                        "visible": true,
+                        "links": "pro/U0dsbmFHeHBaMmgwY3pFM056a3pPVFkxT0RVME5qZ1BMIDIwMjYgUTI6IEdUIHZzIFJSIC0gTWF0Y2ggSGlnaGxpZ2h0czE3ODAxMTQ0NTA2Njk.txt",
+                        "link_names": [
+                            "Link 1"
+                        ]
+                    }
                 }
             ]
         }

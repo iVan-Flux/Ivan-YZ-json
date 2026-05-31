@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:35:07 PM 31-05-2026",
+    "Last update time": "12:43:16 AM 01-06-2026",
     "sports": [
         {
             "cat": {
@@ -6351,6 +6351,22 @@
                                 }
                             ]
                         }
+                    },
+                    {
+                        "channel": {
+                            "visible": true,
+                            "name": "FUBO SPORTS 3",
+                            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYef4Dq2cqKoQQaMyKD0O3iTrL6c9yMVWTOCHLHmpHIQ&s=10",
+                            "is_playlist": false,
+                            "stream_links": [
+                                {
+                                    "name": "Link 1",
+                                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+                                    "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+                                    "scheme": 0
+                                }
+                            ]
+                        }
                     }
                 ]
             }
@@ -6932,6 +6948,19 @@
                                 {
                                     "name": "Link 1",
                                     "link": "https://img.refooty.com/m3u8/arsenal-vs-paris-saint-germain-2026-05-30.m3u8"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "channel": {
+                            "name": "IPL 2026 Final: RCB vs GT - Match Highlights",
+                            "logo": "https://img.youtube.com/vi/GKksnkeQ9Ss/maxresdefault.jpg",
+                            "visible": true,
+                            "stream_links": [
+                                {
+                                    "name": "Link 1",
+                                    "link": "https://bc.link-etvv.workers.dev/stream/6397140797112/"
                                 }
                             ]
                         }

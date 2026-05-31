@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:33:15 AM 31-05-2026",
+    "Last update time": "02:11:50 PM 31-05-2026",
     "sports": [
         {
             "cat": {
@@ -3414,6 +3414,13 @@
                                     "link": "http://212.102.60.231:80/TUDN/index.m3u8",
                                     "scheme": 0,
                                     "api": "",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "TUDN SPANISH - AQ",
+                                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/khsyiltgaz/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "f9f400dbdf686f03db23db9dd98876fa:868d7adb70555ac5fc9cbb6b7fa6e47c",
                                     "tokenApi": ""
                                 }
                             ]

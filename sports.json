@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:29:14 AM 31-05-2026",
+    "Last update time": "09:02:07 AM 31-05-2026",
     "sports": [
         {
             "cat": {
@@ -6877,6 +6877,19 @@
                                 {
                                     "name": "Link 1",
                                     "link": "https://bc.link-etvv.workers.dev/stream/6396967515112/"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "channel": {
+                            "name": "PSG VS Arsenal Highlights | UEFA Champions League | Final 2025/26",
+                            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-7LhmcxJ8Y8lgj8_gcFippvR6ImkBsFF615Fih-14JRXkuySPsMPTBXU&s=10",
+                            "visible": true,
+                            "stream_links": [
+                                {
+                                    "name": "Link 1",
+                                    "link": "https://img.refooty.com/m3u8/arsenal-vs-paris-saint-germain-2026-05-30.m3u8"
                                 }
                             ]
                         }

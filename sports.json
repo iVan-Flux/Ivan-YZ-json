@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:43:16 AM 01-06-2026",
+    "Last update time": "03:27:42 AM 01-06-2026",
     "sports": [
         {
             "cat": {
@@ -2911,6 +2911,13 @@
                             "visible": true,
                             "is_playlist": false,
                             "stream_links": [
+                                {
+                                    "name": "FOX CRICKET - AQ",
+                                    "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
+                                    "scheme": 0,
+                                    "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22",
+                                    "tokenApi": ""
+                                },
                                 {
                                     "name": "FHD",
                                     "link": "https://webiptv.site/1q.m3u8?id=167593|&accept=*/*&accept-encoding=gzip, deflate, br, zstd&accept-language=en-GB,en-US;q=0.9,en;q=0.8&cache-control=no-cache&dnt=1&pragma=no-cache&priority=u=1, i&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua-mobile=?0&sec-ch-ua-platform=\"Windows\"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",

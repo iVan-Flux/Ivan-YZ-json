@@ -3,151 +3,11 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:25:18 PM 31-05-2026",
+    "Last update time": "06:32:26 PM 31-05-2026",
     " Live : 04 ": "",
-    "Upcoming : 70": "",
-    "Finish : 21 ": "",
+    "Upcoming : 66": "",
+    "Finish : 24 ": "",
     "events": [
-        {
-            "id": "JIIVF",
-            "title": "International Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Japan",
-                "teamB": "Iceland",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4708/image",
-                "eventName": "International Friendly Games",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/05/31 14:25:00 +0000",
-                "endTime": "2026/05/31 16:45:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-                    "title": "SporTV BR",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=ed901e34576eb05122f209d9643dceef6b33bb04&x-sign=426db8ef88ed27eadf799e0827f1ad2d&x-time=1780222560|Referer=https://livecdn-bp-livestream.rumsport7.live&Origin=https://livecdn-bp-livestream.rumsport7.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                    "title": "IVANZTV LIVE ",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "NSIVF",
-            "title": "SAFF Women's Championship",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/23499/image",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Nepal",
-                "teamB": "Sri Lanka",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/132950/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/214192/image",
-                "eventName": "SAFF Women's Championship",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/05/31 15:00:00 +0000",
-                "endTime": "2026/05/31 17:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://np-mc-plive.fancode.com/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/360p.m3u8?hdntl=Expires=1780310651~_GO=Generated~acl=/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/*~Signature=ARGZZFiVjIvXw3SyHj_LOY_XDnYsb1-pWaqZ6bnQjga6gt1fduvbHkKhVUZ6698KYw-Qee-7KQd3ab06e915L8d8H_oD|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                    "title": "NEPAL SERVER",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://lk-mc-plive.fancode.com/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/1080p.m3u8?hdntl=Expires=1780310651~_GO=Generated~acl=/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/*~Signature=ARGZZFiVjIvXw3SyHj_LOY_XDnYsb1-pWaqZ6bnQjga6gt1fduvbHkKhVUZ6698KYw-Qee-7KQd3ab06e915L8d8H_oD|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                    "title": "SRI LANKA SERVER",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://np-mc-fblive.fancode.com/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/index.m3u8",
-                    "title": "NP SERVER 2",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://in-mc-fblive.fancode.com/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/index.m3u8",
-                    "title": "INDIA SERVER",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "SMIVF",
-            "title": "International Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Singapore",
-                "teamB": "Mongolia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/23496/image",
-                "eventName": "International Friendly Games",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/05/31 15:30:00 +0000",
-                "endTime": "2026/05/31 17:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "meew",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "BNIVF",
-            "title": "Women's T20I Tri-Series in Scotland",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/33884/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "Bangladesh Women",
-                "teamB": "Netherlands Women",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187809/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/417753/image",
-                "eventName": "Women's T20I Tri-Series in Scotland",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/05/31 16:00:00 +0000",
-                "endTime": "2026/05/31 20:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
         {
             "id": "SJIVF",
             "title": "International Friendly Games",
@@ -162,7 +22,7 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/05/31 17:00:00 +0000",
                 "endTime": "2026/05/31 19:20:00 +0000"
             },
@@ -194,6 +54,13 @@
                     "title": "TAPMAD - AQ",
                     "type": "1",
                     "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://193.47.62.55/hls/WAWAWAQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "SD stream ",
+                    "type": "1",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -211,15 +78,29 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/05/31 18:00:00 +0000",
                 "endTime": "2026/05/31 20:30:00 +0000"
             },
             "channels_data": [
                 {
                     "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "IVANZTV LIVE ",
+                    "link": "https://fc-rd.test33644.workers.dev/Bangladesh/bd/index.m3u8",
+                    "title": "FANCODE - BD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://fc-rd.test33644.workers.dev/Bangladesh/in/index.m3u8",
+                    "title": "FANCODE - IN",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780230666&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c53bb8p9ac070c915a6a3z",
+                    "title": "T SPORTS HD",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -239,15 +120,15 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/05/31 18:00:00 +0000",
                 "endTime": "2026/05/31 22:00:00 +0000"
             },
             "channels_data": [
                 {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
+                    "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22",
+                    "link": "https://dck1-ak-livedazn.akamaized.net/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398%2Findex.mpd",
+                    "title": "FOX CRICKET - AQ",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -267,7 +148,7 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/05/31 18:00:00 +0000",
                 "endTime": "2026/05/31 20:20:00 +0000"
             },
@@ -2137,6 +2018,132 @@
             ]
         },
         {
+            "id": "SMIVF",
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Singapore",
+                "teamB": "Mongolia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/23496/image",
+                "eventName": "International Friendly Games",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Finished",
+                "startTime": "2026/05/31 15:30:00 +0000",
+                "endTime": "2026/05/31 17:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "5332345367554fd39588283a2b949d02:8abcd0b3126923b068c26508e24c9f69",
+                    "link": "https://tglmp04.akamaized.net/out/v1/5793335474d74566a8a0adfa260f22a9/manifest.mpd",
+                    "title": "IVANZTV - AQ ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://live2.pro2cdnlive.com/live/channel28.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; 23106RN0DA Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.121 Mobile Safari/537.36&Referer=https://soco.buzzscorelinez.com/",
+                    "title": "IVANZTV ",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "NSIVF",
+            "title": "SAFF Women's Championship",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/23499/image",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Nepal",
+                "teamB": "Sri Lanka",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/132950/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/214192/image",
+                "eventName": "SAFF Women's Championship",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Finished",
+                "startTime": "2026/05/31 15:00:00 +0000",
+                "endTime": "2026/05/31 17:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "",
+                    "link": "https://np-mc-fblive.fancode.com/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/index.m3u8",
+                    "title": "NEPAL SERVER",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://lk-mc-plive.fancode.com/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/1080p.m3u8?hdntl=Expires=1780310651~_GO=Generated~acl=/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/*~Signature=ARGZZFiVjIvXw3SyHj_LOY_XDnYsb1-pWaqZ6bnQjga6gt1fduvbHkKhVUZ6698KYw-Qee-7KQd3ab06e915L8d8H_oD|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                    "title": "SRI LANKA SERVER",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://np-mc-plive.fancode.com/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/360p.m3u8?hdntl=Expires=1780310651~_GO=Generated~acl=/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/*~Signature=ARGZZFiVjIvXw3SyHj_LOY_XDnYsb1-pWaqZ6bnQjga6gt1fduvbHkKhVUZ6698KYw-Qee-7KQd3ab06e915L8d8H_oD|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                    "title": "NP SERVER 2",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://in-mc-fblive.fancode.com/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/index.m3u8",
+                    "title": "INDIA SERVER",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://ik-mc-fblive.fancode.com/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/index.m3u8",
+                    "title": "SRI LANKA SERVER 2",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "JIIVF",
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Japan",
+                "teamB": "Iceland",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4708/image",
+                "eventName": "International Friendly Games",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Finished",
+                "startTime": "2026/05/31 14:25:00 +0000",
+                "endTime": "2026/05/31 16:45:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                    "title": "SporTV BR",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=ed901e34576eb05122f209d9643dceef6b33bb04&x-sign=426db8ef88ed27eadf799e0827f1ad2d&x-time=1780222560|Referer=https://livecdn-bp-livestream.rumsport7.live&Origin=https://livecdn-bp-livestream.rumsport7.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                    "title": "IVANZTV LIVE ",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
             "id": "RGIVF",
             "title": "Liga F Moeve",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
@@ -2261,8 +2268,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                     "title": "FANCODE - AQ",
                     "type": "1",
                     "tokenApi": ""

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:32:26 PM 31-05-2026",
-    " Live : 04 ": "",
-    "Upcoming : 66": "",
+    "Last update time": "07:09:28 PM 31-05-2026",
+    " Live : 06 ": "",
+    "Upcoming : 64": "",
     "Finish : 24 ": "",
     "events": [
         {
@@ -28,9 +28,9 @@
             },
             "channels_data": [
                 {
-                    "api": "8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0",
-                    "title": "FOX SPORTS - AQ",
+                    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+                    "title": "IVANZTV - AQ",
                     "type": "1",
                     "tokenApi": ""
                 },
@@ -43,14 +43,7 @@
                 },
                 {
                     "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "SONYLIV ASIA - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
+                    "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8",
                     "title": "TAPMAD - AQ",
                     "type": "1",
                     "tokenApi": ""
@@ -59,6 +52,356 @@
                     "api": "",
                     "link": "http://193.47.62.55/hls/WAWAWAQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
                     "title": "SD stream ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+                    "title": "Hd stream ",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "RGIVF",
+            "title": "Indian Premier League - Final",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "Royal Challengers Bengaluru",
+                "teamB": "Gujarat Titans",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187843/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/216006/image",
+                "eventName": "Indian Premier League - Final",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "1",
+                "Status": "Live",
+                "startTime": "2026/05/31 18:00:00 +0000",
+                "endTime": "2026/05/31 22:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "4c0ee5909de5872620bf9f1d2d2ef7f5:1f7ebf7dbeb6cde6e216175f90e5f161",
+                    "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wxpivt6h8l/out/v1/720d60ec6a3b4b1ab2631bbd4712d350/cenc.mpd",
+                    "title": "WILLOW - AQ [Ad Free]",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22",
+                    "link": "https://dck1-ak-livedazn.akamaized.net/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
+                    "title": "FOX CRICKET - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "link": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?",
+                    "title": "WILLOW SP - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01%20(Linux;Android%2013)%20AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23",
+                    "title": "NOON SPORTS - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                    "title": "SKY CRICKET HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
+                    "title": "WILLOW HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "ok",
+                    "title": "SD STREAM ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://ruspb-086.kuvuslov.cymru/1780243402/d62f9d861cb6406aaf7b549597dae9bb/VGatIOyE7CFnwPCkufmNHUw-YMrbsvlBXW-bD6B1S4I/ipl-finale-hin.m3u8",
+                    "title": "WILLOW HIN FHD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://ruspb-086.kuvuslov.cymru/1780243329/f1357db95a70403b99503414c36efa75/KdhD6avra1jt07-OuonSxuVs9_sss7j4YotP-TclaA4/ipl-finale-eng.m3u8",
+                    "title": "WILLOW ENG FHD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://ruspb-086.kuvuslov.cymru/1780243221/7e1ca0900d4141c8b57889875bd5d975/N0rsiFrmzJH9hSebxsRgz0_mbHkU1O2V8MWolGcS2cw/fox-sports-501.m3u8",
+                    "title": "Fox Sports 501",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/703300.ts",
+                    "title": "WILLOW HINDI (Ad Free)",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/703301.ts",
+                    "title": "WILLOW ENG (Ad Free)",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/703299.ts",
+                    "title": "STAR 4K",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705131.ts",
+                    "title": "JioHT Hindi",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5198de55f",
+                    "link": "https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?|cookie=hdntl=exp=1780316477~acl=%2f*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "title": "SS1 ENGLISH - IN",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675",
+                    "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?|cookie=hdntl=exp=1780316477~acl=%2f*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "title": "SS1 HINDI - IN",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
+                    "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|cookie=hdntl=exp=1780316477~acl=%2f*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "title": "SS2 ENGLISH - IN",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/702561.ts",
+                    "title": "SS 1 HINDI",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/703296.ts",
+                    "title": "SS 1 FHD 50FPS",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/703297.ts",
+                    "title": "SS 2 50 FPS",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705132.ts",
+                    "title": "JioHT ENGLISH ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705133.ts",
+                    "title": "JioHT Telugu",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705134.ts",
+                    "title": "JioHT Tamil",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705135.ts",
+                    "title": "JioHT Malayalam",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705141.ts",
+                    "title": "JioHT Hindi 4k",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705142.ts",
+                    "title": "JioHT ENG 4k",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705145.ts",
+                    "title": "JioHT Punjabi",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705146.ts",
+                    "title": "JioHT Gujarati",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705147.ts",
+                    "title": "JioHT Kannada",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705148.ts",
+                    "title": "JioHT Marathi",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705153.ts",
+                    "title": "JioHT Tamil 4k",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705154.ts",
+                    "title": "JioHT Telugu 4k",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705155.ts",
+                    "title": "JioHT Kannada 4K",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705156.ts",
+                    "title": "JioHT Malayalam 4k",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705157.ts",
+                    "title": "JioHT Marathi 4k",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705158.ts",
+                    "title": "JioHT Gujarati 4k",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705159.ts",
+                    "title": "JioHT Punjabi 4k",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705160.ts",
+                    "title": "JioHT Bengali",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705161.ts",
+                    "title": "JioHT Haryananvi",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705162.ts",
+                    "title": "JioHT Bihari",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705163.ts",
+                    "title": "JioHT Bengali 4K",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705164.ts",
+                    "title": "JioHT Haryananvi 4k",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://starhub.pro/live/johannes/johannes123/705165.ts",
+                    "title": "JioHT Bihari 4k",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8?|cookie=hdntl=exp=1780316477~acl=%2f*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "title": "SS2 HINDI - IN",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8?|cookie=hdntl=exp=1780316477~acl=%2f*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "title": "SS2 TAMIL - IN",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?|cookie=hdntl=exp=1780316477~acl=%2f*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "title": "SS2 TELUGU - IN",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -101,34 +444,6 @@
                     "api": "",
                     "link": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780230666&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c53bb8p9ac070c915a6a3z",
                     "title": "T SPORTS HD",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "RGIVF",
-            "title": "Indian Premier League - Final",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "Royal Challengers Bengaluru",
-                "teamB": "Gujarat Titans",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187843/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/216006/image",
-                "eventName": "Indian Premier League - Final",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/05/31 18:00:00 +0000",
-                "endTime": "2026/05/31 22:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22",
-                    "link": "https://dck1-ak-livedazn.akamaized.net/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398%2Findex.mpd",
-                    "title": "FOX CRICKET - AQ",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -183,7 +498,7 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/05/31 19:00:00 +0000",
                 "endTime": "2026/05/31 23:00:00 +0000"
             },
@@ -211,7 +526,7 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/05/31 19:00:00 +0000",
                 "endTime": "2026/05/31 21:20:00 +0000"
             },

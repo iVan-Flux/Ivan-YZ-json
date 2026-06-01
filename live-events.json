@@ -3,13 +3,13 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:46:54 PM 01-06-2026",
-    " Live : 00 ": "",
-    "Upcoming : 56": "",
-    "Finish : 20 ": "",
+    "Last update time": "06:53:09 PM 01-06-2026",
+    "Live": "00",
+    "Upcoming": "56",
+    "Finish": "20",
     "events": [
         {
-            "id": "IWIVF",
+            "id": 0,
             "title": "Women's T20I Tri-Series in Ireland",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/33666/image/dark",
             "cat": "Cricket",
@@ -27,7 +27,7 @@
             "channels_data": []
         },
         {
-            "id": "MAIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -45,7 +45,7 @@
             "channels_data": []
         },
         {
-            "id": "BMIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -63,7 +63,7 @@
             "channels_data": []
         },
         {
-            "id": "SMIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -81,7 +81,7 @@
             "channels_data": []
         },
         {
-            "id": "NSIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -99,7 +99,7 @@
             "channels_data": []
         },
         {
-            "id": "TNIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -117,7 +117,7 @@
             "channels_data": []
         },
         {
-            "id": "ATIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -135,7 +135,7 @@
             "channels_data": []
         },
         {
-            "id": "CUIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -153,7 +153,7 @@
             "channels_data": []
         },
         {
-            "id": "NQIVF",
+            "id": 0,
             "title": "Men's T20I Asian Games Qualifier",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/35060/image/dark",
             "cat": "Cricket",
@@ -171,7 +171,7 @@
             "channels_data": []
         },
         {
-            "id": "PAIVF",
+            "id": 0,
             "title": "One Day International",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
             "cat": "Cricket",
@@ -189,7 +189,7 @@
             "channels_data": []
         },
         {
-            "id": "CBIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -207,7 +207,7 @@
             "channels_data": []
         },
         {
-            "id": "MMIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -225,7 +225,7 @@
             "channels_data": []
         },
         {
-            "id": "WGIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -243,7 +243,7 @@
             "channels_data": []
         },
         {
-            "id": "LIIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -261,7 +261,7 @@
             "channels_data": []
         },
         {
-            "id": "NAIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -279,7 +279,7 @@
             "channels_data": []
         },
         {
-            "id": "DDIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -297,7 +297,7 @@
             "channels_data": []
         },
         {
-            "id": "SEIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -315,7 +315,7 @@
             "channels_data": []
         },
         {
-            "id": "NGIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -333,7 +333,7 @@
             "channels_data": []
         },
         {
-            "id": "SGIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -351,7 +351,7 @@
             "channels_data": []
         },
         {
-            "id": "FCIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -369,7 +369,7 @@
             "channels_data": []
         },
         {
-            "id": "BSIVF",
+            "id": 0,
             "title": "FIFA Tier-1 Friendly",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -387,7 +387,7 @@
             "channels_data": []
         },
         {
-            "id": "TKIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -405,7 +405,7 @@
             "channels_data": []
         },
         {
-            "id": "HFIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -423,7 +423,7 @@
             "channels_data": []
         },
         {
-            "id": "CIIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -441,7 +441,7 @@
             "channels_data": []
         },
         {
-            "id": "HPIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -459,7 +459,7 @@
             "channels_data": []
         },
         {
-            "id": "JSIVF",
+            "id": 0,
             "title": "International Friendly Games Women",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
             "cat": "Football",
@@ -477,7 +477,7 @@
             "channels_data": []
         },
         {
-            "id": "BTIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -495,7 +495,7 @@
             "channels_data": []
         },
         {
-            "id": "RWIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -513,7 +513,7 @@
             "channels_data": []
         },
         {
-            "id": "PCIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -531,7 +531,7 @@
             "channels_data": []
         },
         {
-            "id": "UGIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -549,7 +549,7 @@
             "channels_data": []
         },
         {
-            "id": "BSIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -567,7 +567,7 @@
             "channels_data": []
         },
         {
-            "id": "ENIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -585,7 +585,7 @@
             "channels_data": []
         },
         {
-            "id": "QEIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -603,7 +603,7 @@
             "channels_data": []
         },
         {
-            "id": "BUIVF",
+            "id": 0,
             "title": "International Friendly Games Women",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
             "cat": "Football",
@@ -621,7 +621,7 @@
             "channels_data": []
         },
         {
-            "id": "VTIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -639,7 +639,7 @@
             "channels_data": []
         },
         {
-            "id": "AHIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -657,7 +657,7 @@
             "channels_data": []
         },
         {
-            "id": "DUIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -675,7 +675,7 @@
             "channels_data": []
         },
         {
-            "id": "CSIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -693,7 +693,7 @@
             "channels_data": []
         },
         {
-            "id": "GIIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -711,7 +711,7 @@
             "channels_data": []
         },
         {
-            "id": "MNIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -729,7 +729,7 @@
             "channels_data": []
         },
         {
-            "id": "EGIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -747,7 +747,7 @@
             "channels_data": []
         },
         {
-            "id": "CJIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -765,7 +765,7 @@
             "channels_data": []
         },
         {
-            "id": "NUIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -783,7 +783,7 @@
             "channels_data": []
         },
         {
-            "id": "FNIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -801,7 +801,7 @@
             "channels_data": []
         },
         {
-            "id": "BAIVF",
+            "id": 0,
             "title": "One Day International",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
             "cat": "Cricket",
@@ -819,7 +819,7 @@
             "channels_data": []
         },
         {
-            "id": "DCIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -837,7 +837,7 @@
             "channels_data": []
         },
         {
-            "id": "HKIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -855,7 +855,7 @@
             "channels_data": []
         },
         {
-            "id": "PNIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -873,7 +873,7 @@
             "channels_data": []
         },
         {
-            "id": "ECIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -891,7 +891,7 @@
             "channels_data": []
         },
         {
-            "id": "AGIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -909,7 +909,7 @@
             "channels_data": []
         },
         {
-            "id": "BAIVF",
+            "id": 0,
             "title": "One Day International",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
             "cat": "Cricket",
@@ -927,7 +927,7 @@
             "channels_data": []
         },
         {
-            "id": "MSIVF",
+            "id": 0,
             "title": "FIFA World Cup",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
             "cat": "Football",
@@ -945,7 +945,7 @@
             "channels_data": []
         },
         {
-            "id": "SCIVF",
+            "id": 0,
             "title": "FIFA World Cup",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
             "cat": "Football",
@@ -963,7 +963,7 @@
             "channels_data": []
         },
         {
-            "id": "CBIVF",
+            "id": 0,
             "title": "FIFA World Cup",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
             "cat": "Football",
@@ -981,7 +981,7 @@
             "channels_data": []
         },
         {
-            "id": "UPIVF",
+            "id": 0,
             "title": "FIFA World Cup",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
             "cat": "Football",
@@ -999,7 +999,7 @@
             "channels_data": []
         },
         {
-            "id": "BAIVF",
+            "id": 0,
             "title": "One Day International",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
             "cat": "Cricket",
@@ -1017,7 +1017,7 @@
             "channels_data": []
         },
         {
-            "id": "CCIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -1035,7 +1035,7 @@
             "channels_data": []
         },
         {
-            "id": "PBIVF",
+            "id": 0,
             "title": "International Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
             "cat": "Football",
@@ -1053,7 +1053,7 @@
             "channels_data": []
         },
         {
-            "id": "RRIVF",
+            "id": 0,
             "title": "Roland-Garros",
             "image": "https://img.sofascore.com/api/v1/unique-tournament/2480/image",
             "cat": "Tennis",
@@ -1071,7 +1071,7 @@
             "channels_data": []
         },
         {
-            "id": "CCIVF",
+            "id": 0,
             "title": "Clash in Italy",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlwDHMd0c1WhrbwrkPuZEMnwz1YM-1ETGAJIgjxf5kgg&s",
             "cat": "WWE",
@@ -1089,7 +1089,7 @@
             "channels_data": []
         },
         {
-            "id": "MMIVF",
+            "id": 0,
             "title": "Moto Gp",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDXg8WOTxDGYhsU_r4iaau8PucLtaXmSVO3Y_9CwO2Q&s=10",
             "cat": "Motorsport",
@@ -1107,7 +1107,7 @@
             "channels_data": []
         },
         {
-            "id": "EIIVF",
+            "id": 0,
             "title": "Twenty20 International Women",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
             "cat": "Cricket",
@@ -1125,7 +1125,7 @@
             "channels_data": []
         },
         {
-            "id": "INIVF",
+            "id": 0,
             "title": "Test Series",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark",
             "cat": "Cricket",
@@ -1143,7 +1143,7 @@
             "channels_data": []
         },
         {
-            "id": "AAIVF",
+            "id": 0,
             "title": "AEW Dynamite",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
             "cat": "WWE",
@@ -1161,7 +1161,7 @@
             "channels_data": []
         },
         {
-            "id": "WWIVF",
+            "id": 0,
             "title": "WWE",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51NTEuFrTm8ZT2gForlI4wSQm30d64hXrsFPxcI8Odw&s=10",
             "cat": "Boxing",
@@ -1179,7 +1179,7 @@
             "channels_data": []
         },
         {
-            "id": "ENIVF",
+            "id": 0,
             "title": "Twenty20 International Women",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
             "cat": "Cricket",
@@ -1197,7 +1197,7 @@
             "channels_data": []
         },
         {
-            "id": "GSIVF",
+            "id": 0,
             "title": "Brasileirão Betano",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
             "cat": "Football",
@@ -1215,7 +1215,7 @@
             "channels_data": []
         },
         {
-            "id": "FFIVF",
+            "id": 0,
             "title": "Formula 1",
             "image": "https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png",
             "cat": "Motorsport",
@@ -1233,7 +1233,7 @@
             "channels_data": []
         },
         {
-            "id": "EEIVF",
+            "id": 0,
             "title": "EPL | EPL Goal Rush",
             "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
             "cat": "Football",
@@ -1251,7 +1251,7 @@
             "channels_data": []
         },
         {
-            "id": "LBIVF",
+            "id": 0,
             "title": "Premier League",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
             "cat": "Football",
@@ -1269,7 +1269,7 @@
             "channels_data": []
         },
         {
-            "id": "IIIVF",
+            "id": 0,
             "title": "Indian Super League | ISL",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
             "cat": "Football",
@@ -1287,7 +1287,7 @@
             "channels_data": []
         },
         {
-            "id": "BPIVF",
+            "id": 0,
             "title": "ICC World Test Championship",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
             "cat": "Cricket",
@@ -1305,7 +1305,7 @@
             "channels_data": []
         },
         {
-            "id": "NNIVF",
+            "id": 0,
             "title": "WWE NXT",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-XRqk9oQBmTuXx5XTJrhpFIRA_-FLo4hHLeOC3idLcNCeJJKCLBvwlEc&s=10",
             "cat": "Boxing",
@@ -1323,7 +1323,7 @@
             "channels_data": []
         },
         {
-            "id": "WWIVF",
+            "id": 0,
             "title": "WrestleMania 42",
             "image": "https://www.wwe.com/f/styles/wwe_show_logo_med/public/all/2025/06/WrestleMania_NEW_42_Logo_2026--9f8b9e2c3405d40fc70dcdce1ba2214c.png",
             "cat": "WWE",
@@ -1341,7 +1341,7 @@
             "channels_data": []
         },
         {
-            "id": "SSIVF",
+            "id": 0,
             "title": "Friday Night SmackDown",
             "image": "https://assets.simpleviewinc.com/sv-raleigh/image/fetch/q_75/https://assets.simpleviewinc.com/simpleview/image/upload/crm/raleigh/p1_80A4355F-D5A6-A16D-15FA6385EF4C0342_80ab91c3-985d-3d74-07e36a864a535102.png",
             "cat": "Boxing",
@@ -1359,7 +1359,7 @@
             "channels_data": []
         },
         {
-            "id": "RRIVF",
+            "id": 0,
             "title": "Monday Night Raw",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9XuiHTnRW055h3-Mag2Cf1382TEqEAtA8_s_3OCkggGVzna-wP2qmv9w&s=10",
             "cat": "Boxing",

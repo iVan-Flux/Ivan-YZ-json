@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:13:31 AM 01-06-2026",
+    "Last update time": "04:57:31 PM 01-06-2026",
     "sports": [
         {
             "cat": {
@@ -6968,6 +6968,32 @@
                                 {
                                     "name": "Link 1",
                                     "link": "https://bc.link-etvv.workers.dev/stream/6397140797112/"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "channel": {
+                            "name": "Brazil VS PANAMA Friendly Match 2026",
+                            "logo": "https://i.ytimg.com/vi/tgQ2Ehp_GkA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCzXMWobultmSbua9LxCO-GPJMxDg",
+                            "visible": true,
+                            "is_playlist": false,
+                            "stream_links": [
+                                {
+                                    "name": "Link 1",
+                                    "link": "https://hoohfooha.vibedailyhighlights.com/embed/wyWUKDAHfry09",
+                                    "scheme": 0,
+                                    "api": "",
+                                    "tokenApi": {
+                                        "url": "https://hoohfooha.vibedailyhighlights.com/embed/wyWUKDAHfry09",
+                                        "api": "https://hoohfooha.vibedailyhighlights.com/embed/wyWUKDAHfry09",
+                                        "type": "embed",
+                                        "link_key": "playback_url",
+                                        "default_string": "N8x7Y%m+6n",
+                                        "request_type": "get",
+                                        "request_body_type": "text",
+                                        "ip_api": "https://api.ipify.org/"
+                                    }
                                 }
                             ]
                         }

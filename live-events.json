@@ -3,53 +3,11 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:30:17 AM 03-06-2026",
-    " Live : 01 ": "",
-    "Upcoming : 48": "",
-    "Finish : 24 ": "",
+    "Last update time": "09:18:02 AM 03-06-2026",
+    " Live : 00 ": "",
+    "Upcoming : 47": "",
+    "Finish : 26 ": "",
     "events": [
-        {
-            "id": "HNIVF",
-            "title": "International Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Haiti",
-                "teamB": "New Zealand",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/7229/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
-                "eventName": "International Friendly Games",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/06/03 04:00:00 +0000",
-                "endTime": "2026/06/03 06:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-                    "title": "PREMIER SPORTS - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-                    "title": "SporTV BR - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-                    "title": "FOX DESPORTS - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
         {
             "id": "MUIVF",
             "title": "International Friendly Games Women",
@@ -263,34 +221,6 @@
                 "Status": "Upcoming",
                 "startTime": "2026/06/03 23:00:00 +0000",
                 "endTime": "2026/06/04 01:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "SEIVF",
-            "title": "International Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "South Korea",
-                "teamB": "El Salvador",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4825/image",
-                "eventName": "International Friendly Games",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/06/04 03:00:00 +0000",
-                "endTime": "2026/06/03 05:20:00 +0000"
             },
             "channels_data": [
                 {
@@ -1389,6 +1319,76 @@
                     "api": "",
                     "link": "https://playztv.pages.dev/sss/index.m3u8",
                     "title": "Link 1",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "SEIVF",
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "South Korea",
+                "teamB": "El Salvador",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4735/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4825/image",
+                "eventName": "International Friendly Games",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Finished",
+                "startTime": "2026/06/04 03:00:00 +0000",
+                "endTime": "2026/06/03 05:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "",
+                    "link": "https://playztv.pages.dev/sss/index.m3u8",
+                    "title": "Link 1",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "HNIVF",
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Haiti",
+                "teamB": "New Zealand",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/7229/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
+                "eventName": "International Friendly Games",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Finished",
+                "startTime": "2026/06/03 04:00:00 +0000",
+                "endTime": "2026/06/03 06:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+                    "title": "PREMIER SPORTS - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                    "title": "SporTV BR - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+                    "title": "FOX DESPORTS - AQ",
                     "type": "1",
                     "tokenApi": ""
                 }

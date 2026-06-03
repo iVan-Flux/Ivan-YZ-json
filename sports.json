@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:13:45 PM 03-06-2026",
+    "Last update time": "02:23:16 AM 04-06-2026",
     "sports": [
         {
             "cat": {
@@ -470,6 +470,13 @@
                             "is_playlist": false,
                             "stream_links": [
                                 {
+                                    "name": "FIFA",
+                                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/filihyb6x1/out/v1/e2b737b02ca046729b34f0594a611494/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "26977ba93795552a60559679ab740b38:e75175191d0ed494da3dec258bbfd74f",
+                                    "tokenApi": ""
+                                },
+                                {
                                     "name": "Link 1",
                                     "link": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
                                     "scheme": 0,
@@ -615,6 +622,13 @@
                             "is_playlist": false,
                             "stream_links": [
                                 {
+                                    "name": "AQ - SG IP ONLY",
+                                    "link": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd",
+                                    "scheme": 0,
+                                    "api": "81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4",
+                                    "tokenApi": ""
+                                },
+                                {
                                     "name": "Link 1",
                                     "link": "https://3065.koyeb.app/smt.php?id=Acricket",
                                     "scheme": 0,
@@ -642,13 +656,6 @@
                                         ],
                                         "type": "temporary"
                                     },
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "AQ - SG IP ONLY",
-                                    "link": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd",
-                                    "scheme": 0,
-                                    "api": "81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4",
                                     "tokenApi": ""
                                 },
                                 {
@@ -747,6 +754,13 @@
                                     "scheme": 0,
                                     "api": "ee5d12187eeb1425a158c206d5871c4a:534f8173db1aa31b05c98f92c0290b3d",
                                     "tokenApi": ""
+                                },
+                                {
+                                    "name": "MLB Network 2",
+                                    "link": "https://ottb.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9uo3u32vfz/out/v1/7894afcfcca7467688964b8794ee5fd7/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "d78cfe0d12b72b0d2ce124c18f61cada:ef3e9989ee86976406ff6196fb434039",
+                                    "tokenApi": ""
                                 }
                             ]
                         }
@@ -763,6 +777,20 @@
                                     "link": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd",
                                     "scheme": 0,
                                     "api": "002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "Premier League 1",
+                                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(knbc)/master.mpd",
+                                    "scheme": 0,
+                                    "api": "0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "EPL",
+                                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd",
+                                    "scheme": 0,
+                                    "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
                                     "tokenApi": ""
                                 }
                             ]
@@ -1028,6 +1056,13 @@
                                     "scheme": 0,
                                     "api": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
                                     "tokenApi": ""
+                                },
+                                {
+                                    "name": "SWERVE COMBAT",
+                                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4",
+                                    "tokenApi": ""
                                 }
                             ]
                         }
@@ -1065,6 +1100,13 @@
                                     "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
                                     "scheme": 0,
                                     "api": "",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "2",
+                                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kwrgfto7cb/out/v1/59f78a6e81234732b74930525ff2eec8/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "0c7491c6ae8c45e1da970754af02a3dc:3b0d622ede5a578a39dd2dafc9f3f028",
                                     "tokenApi": ""
                                 }
                             ]
@@ -1790,6 +1832,20 @@
                             "is_playlist": false,
                             "stream_links": [
                                 {
+                                    "name": "Euro 1 ES- FHD W",
+                                    "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd|user-agent=Mozilla/5.0",
+                                    "scheme": 0,
+                                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "Euro 2 ES- FHD W",
+                                    "link": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1",
+                                    "scheme": 0,
+                                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                                    "tokenApi": ""
+                                },
+                                {
                                     "name": "EURO 1 - HD",
                                     "link": "http://151.80.18.177:86/Eurosport_HD/index.m3u8",
                                     "scheme": 0,
@@ -1836,20 +1892,6 @@
                                     "link": "http://151.80.18.177:86/Eurosport_2_HD/index.m3u8",
                                     "scheme": 0,
                                     "api": "",
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "Euro 1 - FHD W",
-                                    "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd|user-agent=Mozilla/5.0",
-                                    "scheme": 0,
-                                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "Euro 2 - FHD W",
-                                    "link": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1",
-                                    "scheme": 0,
-                                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
                                     "tokenApi": ""
                                 }
                             ]
@@ -2020,6 +2062,13 @@
                                     "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vgokgrmo8o/out/v1/a1a95c0845e64cb58d353437c56b31e8/cenc.mpd",
                                     "scheme": 0,
                                     "api": "e219f941bc6d683b97257ed706813702:d24fefb64dec7748489ba4e405a2349e",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "CBS Station",
+                                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/p04avr57rr/out/v1/25ec3c73680045ce86858d701763a70c/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "780cb0938d1399fa631bd6c0b868e560:f8529525ed53f542de966ad548c59f9c",
                                     "tokenApi": ""
                                 }
                             ]
@@ -2438,14 +2487,21 @@
                     },
                     {
                         "channel": {
-                            "visible": true,
                             "name": "Canal do Inter",
                             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVin6RMgROHAD8bX9jpfaecAx8Qyt6uvL7uwoYDsE29A&s=10",
+                            "visible": true,
                             "is_playlist": false,
                             "stream_links": [
                                 {
                                     "name": "Link 1",
                                     "link": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8"
+                                },
+                                {
+                                    "name": "Inter TV",
+                                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ekeomalvg7/out/v1/f63288f993e6470580623d7b9b45efb0/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "7313f38125a3fefd00cf7d6567ff333b:87b49a0329febb10eef514fd0f044ee2",
+                                    "tokenApi": ""
                                 }
                             ]
                         }
@@ -2516,10 +2572,6 @@
                             "visible": true,
                             "is_playlist": false,
                             "stream_links": [
-                                {
-                                    "name": "Link 1",
-                                    "link": "2"
-                                },
                                 {
                                     "name": "HTSpor TV ",
                                     "link": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
@@ -2735,6 +2787,13 @@
                                     "link": "http://185.132.134.159:80/sport6/index.m3u8",
                                     "scheme": 0,
                                     "api": "",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "Yahoo Sports",
+                                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u64jsmcmni/out/v1/e515a6193dbd406490e8bbad214dac55/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "d6b2a631aa11e559d6afff25aceb1a92:46850a955085e407041827e8fa127f20",
                                     "tokenApi": ""
                                 }
                             ]
@@ -3128,6 +3187,13 @@
                                     "scheme": 0,
                                     "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
                                     "tokenApi": ""
+                                },
+                                {
+                                    "name": "NBC EPL ",
+                                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
+                                    "scheme": 0,
+                                    "api": "a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288",
+                                    "tokenApi": ""
                                 }
                             ]
                         }
@@ -3429,6 +3495,13 @@
                                     "scheme": 0,
                                     "api": "f9f400dbdf686f03db23db9dd98876fa:868d7adb70555ac5fc9cbb6b7fa6e47c",
                                     "tokenApi": ""
+                                },
+                                {
+                                    "name": "TUDN USA",
+                                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "cb308ff4c4ec835baa2956212507de52:aa45e839f15058df50342ace8d040a48",
+                                    "tokenApi": ""
                                 }
                             ]
                         }
@@ -3462,12 +3535,14 @@
                             "name": "Rugbypasstv",
                             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWPt78Uyi5Xus4xmf_Tx3Wz6JWlSTHeTSxlP6ntVt9Ow&s=10",
                             "visible": true,
+                            "is_playlist": false,
                             "stream_links": [
                                 {
                                     "name": "Link 1",
-                                    "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+                                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+                                    "scheme": 0,
                                     "api": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3",
-                                    "scheme": 0
+                                    "tokenApi": ""
                                 }
                             ]
                         }
@@ -3993,6 +4068,13 @@
                                     "tokenApi": ""
                                 },
                                 {
+                                    "name": "TELEMUNDO 2",
+                                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+                                    "scheme": 0,
+                                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+                                    "tokenApi": ""
+                                },
+                                {
                                     "name": "Telemundo - AQ",
                                     "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
                                     "scheme": 0,
@@ -4011,6 +4093,13 @@
                                     "link": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
                                     "scheme": 0,
                                     "api": "",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "TELEMUNDO FHD",
+                                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+                                    "scheme": 0,
+                                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
                                     "tokenApi": ""
                                 }
                             ]
@@ -4398,6 +4487,20 @@
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
+                                },
+                                {
+                                    "name": "Setanta Sports 1 - AQ",
+                                    "link": "https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports_HD_H.mpd",
+                                    "scheme": 0,
+                                    "api": "b62e606e6b577a47c0e3bd7e8bb5f979:0827a71f8cc3d9ee1074e6b9cd8ffdb0",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "Setanta Sports 2 - AQ",
+                                    "link": "https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports2_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports2_HD_H.mpd",
+                                    "scheme": 0,
+                                    "api": "60c452c4bc688bfdbebbe1a57fd5e59e:6d8296110d58f2fa54ddd2a31e5e900c",
+                                    "tokenApi": ""
                                 }
                             ]
                         }
@@ -4674,7 +4777,7 @@
                     },
                     {
                         "channel": {
-                            "name": "Premiere Sports",
+                            "name": "Premiere Sports BR",
                             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_VUUyGGpMfqKPZHi1vPFHrE9tMXaX6ttV1_9G36GqprADCL6aHgZjpK3&s=10",
                             "visible": true,
                             "is_playlist": false,
@@ -4713,6 +4816,27 @@
                                     "scheme": 0,
                                     "api": "332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
                                     "tokenApi": ""
+                                },
+                                {
+                                    "name": "PREMIERER Sports 6",
+                                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd",
+                                    "scheme": 0,
+                                    "api": "561baa89676c89c1d047e1852ba01c09:a8c157826dfdf1299a329b77e2ab6a1a",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "premier sports 7",
+                                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd",
+                                    "scheme": 0,
+                                    "api": "9ee352aac7ed8ee1cb42cfdf322b1cb0:053d635fc90e175881bef26cd29f371e",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "Premiere Sports 8",
+                                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd",
+                                    "scheme": 0,
+                                    "api": "19fb8464136594ce0c66fe3589e88ef4:6a0efc4a82a1e087f093c3e5de3e2a3e",
+                                    "tokenApi": ""
                                 }
                             ]
                         }
@@ -4728,6 +4852,102 @@
                                     "name": "Link 1",
                                     "link": "https://slive.mana2.my/SpotvNow/index.mpd|referer=https://www.mana2.my/",
                                     "api": "3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407",
+                                    "scheme": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "channel": {
+                            "visible": true,
+                            "name": "Milan TV",
+                            "logo": "Milan TV",
+                            "is_playlist": false,
+                            "stream_links": [
+                                {
+                                    "name": "Link 1",
+                                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/jsqfhask6w/out/v1/e70dcd0f1e684592a3db4bbe7feee0fa/cenc.mpd",
+                                    "api": "602f114e6caa09eb9ec0dc18d0b01cb0:0c433e2a2157f7c1e240ad7eac62d604",
+                                    "scheme": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "channel": {
+                            "visible": true,
+                            "name": "Milan TV",
+                            "logo": "Milan TV",
+                            "is_playlist": false,
+                            "stream_links": [
+                                {
+                                    "name": "Link 1",
+                                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/jsqfhask6w/out/v1/e70dcd0f1e684592a3db4bbe7feee0fa/cenc.mpd",
+                                    "api": "602f114e6caa09eb9ec0dc18d0b01cb0:0c433e2a2157f7c1e240ad7eac62d604",
+                                    "scheme": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "channel": {
+                            "visible": true,
+                            "name": "MLB Network",
+                            "logo": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/dn9i986kds/out/v1/791537303c344634994de4d4407f44b6/cenc.mpd",
+                            "is_playlist": false,
+                            "stream_links": [
+                                {
+                                    "name": "Link 1",
+                                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/dn9i986kds/out/v1/791537303c344634994de4d4407f44b6/cenc.mpd",
+                                    "api": "ee5d12187eeb1425a158c206d5871c4a:534f8173db1aa31b05c98f92c0290b3d",
+                                    "scheme": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "channel": {
+                            "visible": true,
+                            "name": "STADIUM",
+                            "logo": "Stadium",
+                            "is_playlist": false,
+                            "stream_links": [
+                                {
+                                    "name": "Link 1",
+                                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hhdwlzlfyp/out/v1/e4254483facf470fa4b47daf8c954e51/cenc.mpd",
+                                    "api": "8bbdba18ab0d7703db5f3daf7f63c0d4:126f816b9e3e2784086f5658b2fa2da7",
+                                    "scheme": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "channel": {
+                            "visible": true,
+                            "name": "HBO Boxing",
+                            "logo": "d",
+                            "is_playlist": false,
+                            "stream_links": [
+                                {
+                                    "name": "Link 1",
+                                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd",
+                                    "api": "a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb",
+                                    "scheme": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "channel": {
+                            "visible": true,
+                            "name": "TNA IMPACT",
+                            "logo": "x",
+                            "is_playlist": false,
+                            "stream_links": [
+                                {
+                                    "name": "Link 1",
+                                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wgd1hgui8j/out/v1/5a8f361959cc446c8d0f419884351dc0/cenc.mpd",
+                                    "api": "0b3078f110af847bcbd17f0055ebdfe3:7a508691533bb75e71ec2e2cd694459d",
                                     "scheme": 0
                                 }
                             ]
@@ -6475,63 +6695,63 @@
                             "stream_links": [
                                 {
                                     "name": "Sky sport  1",
-                                    "link": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-1/playlist.m3u8",
+                                    "link": "https://cdn9859.shop/skynz1.m3u8",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
                                 },
                                 {
                                     "name": "Sky sports 2 nz",
-                                    "link": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/playlist.m3u8",
+                                    "link": "https://cdn9859.shop/skynz2.m3u8",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
                                 },
                                 {
                                     "name": "Sky sport  3 nz",
-                                    "link": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-3/playlist.m3u8",
+                                    "link": "https://cdn9859.shop/skynz3.m3u8",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
                                 },
                                 {
                                     "name": "Sky sport 4",
-                                    "link": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-4/playlist.m3u8",
+                                    "link": "https://cdn9859.shop/skynz4.m3u8",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
                                 },
                                 {
                                     "name": "Sky sport 5",
-                                    "link": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-5/playlist.m3u8",
+                                    "link": "https://cdn9859.shop/skynz5.m3u8",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
                                 },
                                 {
                                     "name": "Sky sport 6",
-                                    "link": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-6/playlist.m3u8",
+                                    "link": "https://cdn9859.shop/skynz6.m3u8",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
                                 },
                                 {
                                     "name": "Sky sport 7",
-                                    "link": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-7/playlist.m3u8",
+                                    "link": "https://cdn9859.shop/skynz7.m3u8",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
                                 },
                                 {
                                     "name": "Sky Sport 8",
-                                    "link": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-8/playlist.m3u8",
+                                    "link": "https://cdn9859.shop/skynz8.m3u8",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
                                 },
                                 {
                                     "name": "Sky sport 9",
-                                    "link": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-9/playlist.m3u8",
+                                    "link": "https://cdn9859.shop/skynz9.m3u8",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""

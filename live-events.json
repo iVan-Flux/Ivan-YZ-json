@@ -3,242 +3,11 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:23:32 PM 03-06-2026",
-    " Live : 06 ": "",
-    "Upcoming : 57": "",
-    "Finish : 22 ": "",
+    "Last update time": "10:13:45 PM 03-06-2026",
+    " Live : 07 ": "",
+    "Upcoming : 47": "",
+    "Finish : 24 ": "",
     "events": [
-        {
-            "id": "MUIVF",
-            "title": "International Friendly Games Women",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Myanmar",
-                "teamB": "Uzbekistan",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/132948/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/132956/image",
-                "eventName": "International Friendly Games Women",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/06/03 14:30:00 +0000",
-                "endTime": "2026/06/03 16:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://live2.pro2cdnlive.com/live/channel16.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; 23106RN0DA Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.178 Mobile Safari/537.36&Referer=https://soco.buzzscorelinez.com/",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "BNIVF",
-            "title": "SAFF Women's Championship - Knockout stage",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/23499/image",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Bangladesh",
-                "teamB": "Nepal",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/214194/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/132950/image",
-                "eventName": "SAFF Women's Championship - Knockout stage",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/06/03 14:30:00 +0000",
-                "endTime": "2026/06/03 17:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780145861&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8bbe8b546fa058429efacc41be2fb8b1",
-                    "title": "T Sports HD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://live2.pro2cdnlive.com/live/channel10.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; 23106RN0DA Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.178 Mobile Safari/537.36&Referer=https://soco.buzzscorelinez.com/",
-                    "title": "SS LIVE HD",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "PGIVF",
-            "title": "International Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Philippines",
-                "teamB": "Guam",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4791/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/23493/image",
-                "eventName": "International Friendly Games",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/06/03 15:30:00 +0000",
-                "endTime": "2026/06/03 17:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "CRIVF",
-            "title": "International Friendly Games Women",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "China",
-                "teamB": "Russia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/7413/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/32486/image",
-                "eventName": "International Friendly Games Women",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/06/03 15:35:00 +0000",
-                "endTime": "2026/06/03 17:55:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "ISIVF",
-            "title": "International Friendly Games Women",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Indonesia",
-                "teamB": "Singapore",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/290442/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/228017/image",
-                "eventName": "International Friendly Games Women",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/06/03 16:00:00 +0000",
-                "endTime": "2026/06/03 18:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "TMIVF",
-            "title": "International Friendly Games Women",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Tanzania",
-                "teamB": "Malawi",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/291680/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/298498/image",
-                "eventName": "International Friendly Games Women",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/06/03 16:00:00 +0000",
-                "endTime": "2026/06/03 18:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "KKIVF",
-            "title": "International Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Kyrgyzstan",
-                "teamB": "Kenya",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/7930/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4773/image",
-                "eventName": "International Friendly Games",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/06/03 16:30:00 +0000",
-                "endTime": "2026/06/03 18:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "IBIVF",
-            "title": "SAFF Women's Championship - Knockout stage",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/23499/image",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "India",
-                "teamB": "Bhutan",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/132938/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/241680/image",
-                "eventName": "SAFF Women's Championship - Knockout stage",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/06/03 18:30:00 +0000",
-                "endTime": "2026/06/03 21:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780145861&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8bbe8b546fa058429efacc41be2fb8b1",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
         {
             "id": "WSIVF",
             "title": "One Day International",
@@ -253,15 +22,57 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/03 18:30:00 +0000",
                 "endTime": "2026/06/03 22:30:00 +0000"
             },
             "channels_data": [
                 {
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "title": "WILLOW FHD",
+                    "api": "e24d997a3d30c3a4cc98125302382c23:45dea9acb0dcf1f56c86a3881bc3957d",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/k9bsz8cflm/out/v1/ce4d6ba95ace46d6af61c04d617836a3/cenc.mpd",
+                    "title": "WILLOW - AQ [Ad Free]",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                    "title": "FANCODE FHD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+                    "title": "TNT Sports",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+                    "title": "FANCODE SD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://193.47.62.40/hls/FUUUQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "SD STREAM ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "5451bbff6ca7c739ca4cd3b037ebf2a7:5b643388b93363211434fdbfaf327bb0",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/7drfrrv0wg/out/v1/817ab4ff54534012987cff0ad1b275ff/cenc-sd.mpd",
+                    "title": "WILLOW - LQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1780584797~acl=%2f*~data=hdntl~hmac=d7c93fdb17d938f0b9441e0d31b6383684ae756f6d78d4d02848f83dd8edbecf/level_0.m3u8|user-agent=playztv",
+                    "title": "TAPMAD - FHD",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -281,43 +92,31 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/03 19:00:00 +0000",
                 "endTime": "2026/06/03 23:00:00 +0000"
             },
             "channels_data": [
                 {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
+                    "api": {
+                        "keys": [
+                            {
+                                "kty": "oct",
+                                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+                            }
+                        ],
+                        "type": "temporary"
+                    },
+                    "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1780526708~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6c2b31f9ddd9849d232fd524173292498ce5a8417c4de89635f4e0f399a42367/manifest.mpd?vcfilter=41ca0642-ebcd-465b-b6fb-6192103418bf|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&referer=https://www.icc-cricket.com/&origin=https://www.icc-cricket.com",
+                    "title": "IVANZTV LIVE - AQ",
                     "type": "1",
                     "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "JMIVF",
-            "title": "International Friendly Games Women",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Jordan",
-                "teamB": "Malaysia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/150070/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/195589/image",
-                "eventName": "International Friendly Games Women",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/06/03 19:00:00 +0000",
-                "endTime": "2026/06/03 21:20:00 +0000"
-            },
-            "channels_data": [
+                },
                 {
                     "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
+                    "link": "https://in-mc-fblive.fancode.com/mumbai/143056_english_hls_0e3f0e094c91895_1ta-di_h264/index.m3u8",
+                    "title": "FANCODE - IN IP",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -337,7 +136,7 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/03 21:00:00 +0000",
                 "endTime": "2026/06/03 23:20:00 +0000"
             },
@@ -365,14 +164,14 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/03 21:00:00 +0000",
                 "endTime": "2026/06/03 23:20:00 +0000"
             },
             "channels_data": [
                 {
                     "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
+                    "link": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/hdntl=exp=1780591125~acl=%2f*~data=hdntl~hmac=7c530e5f8180aac6521851705b0c308d822e42e90f6f341b1ac4faa3b8c3c182/level_0.m3u8|user-agent=playztv",
                     "title": "TAPMAD - FHD",
                     "type": "1",
                     "tokenApi": ""
@@ -400,7 +199,7 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/03 21:30:00 +0000",
                 "endTime": "2026/06/04 01:30:00 +0000"
             },
@@ -428,7 +227,7 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/03 22:00:00 +0000",
                 "endTime": "2026/06/04 00:20:00 +0000"
             },
@@ -463,7 +262,7 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/03 22:00:00 +0000",
                 "endTime": "2026/06/04 00:20:00 +0000"
             },
@@ -1837,6 +1636,69 @@
                     "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
                     "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
                     "title": "SporTV BR",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "JMIVF",
+            "title": "International Friendly Games Women",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Jordan",
+                "teamB": "Malaysia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/150070/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/195589/image",
+                "eventName": "International Friendly Games Women",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Finished",
+                "startTime": "2026/06/03 19:00:00 +0000",
+                "endTime": "2026/06/03 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "",
+                    "link": "https://live2.pro2cdnlive.com/live/channel18.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; 23106RN0DA Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.178 Mobile Safari/537.36&Referer=https://soco.buzzscorelinez.com/",
+                    "title": "IVANZTV LIVE ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://193.47.62.40/hls/FUUUQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "SD STREAM ",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "MUIVF",
+            "title": "International Friendly Games Women",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Myanmar",
+                "teamB": "Uzbekistan",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/132948/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/132956/image",
+                "eventName": "International Friendly Games Women",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Finished",
+                "startTime": "2026/06/03 14:30:00 +0000",
+                "endTime": "2026/06/03 16:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "",
+                    "link": "https://live2.pro2cdnlive.com/live/channel16.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; 23106RN0DA Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.178 Mobile Safari/537.36&Referer=https://soco.buzzscorelinez.com/",
+                    "title": "Link 1",
                     "type": "1",
                     "tokenApi": ""
                 }

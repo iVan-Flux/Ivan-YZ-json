@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:23:32 PM 03-06-2026",
+    "Last update time": "10:13:45 PM 03-06-2026",
     "sports": [
         {
             "cat": {
@@ -349,6 +349,13 @@
                             "is_playlist": false,
                             "stream_links": [
                                 {
+                                    "name": "T SPORTS HD",
+                                    "link": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780145861&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8bbe8b546fa058429efacc41be2fb8b1",
+                                    "scheme": 0,
+                                    "api": "",
+                                    "tokenApi": ""
+                                },
+                                {
                                     "name": "FAST SERVERS HD",
                                     "link": "http://198.195.239.50:8095/Tsports/index.m3u8",
                                     "scheme": 0,
@@ -365,13 +372,6 @@
                                 {
                                     "name": "T Sports S2 - HD",
                                     "link": "http://103.175.242.10:8080/tsports1/index.m3u8",
-                                    "scheme": 0,
-                                    "api": "",
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "T SPORTS HD",
-                                    "link": "https://redbooks.site/c.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
@@ -6921,14 +6921,24 @@
                     },
                     {
                         "channel": {
-                            "visible": true,
                             "name": "IPL 2026 Q1: RCB vs GT - Match Highlights",
                             "logo": "https://static.cricbuzz.com/a/img/v1/i1/c996031/full-highlights-royal-challengers-bengaluru-vs-gujarat-titans-qualifier-1-tata-ipl-2026-brought-to-you-by-workato.jpg?d=low&p=det",
+                            "visible": true,
                             "is_playlist": false,
                             "stream_links": [
                                 {
-                                    "name": "Link 1",
-                                    "link": "https://bc.link-etvv.workers.dev/stream/6396666009112/"
+                                    "name": "Highlights",
+                                    "link": "https://bc.link-etvv.workers.dev/stream/6396666009112/",
+                                    "scheme": 0,
+                                    "api": "",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "FULL MATCH",
+                                    "link": "https://abdfyr5aaaaaaaamb46cl6444jzjm.bia-cf.live.pv-cdn.net/iad-nitro/jab-assets/jab-prod-iad/live/dash-sd/out/v1/4e8e2b62838e4f04ac4c9ec5c7206bac/350jogp1x0y4/cenc-sd-fd1748.mpd",
+                                    "scheme": 0,
+                                    "api": "5159224e6105cd25101ef4936b2509e5:f6e5ba2ca8801d8456589ab32d481710",
+                                    "tokenApi": ""
                                 }
                             ]
                         }

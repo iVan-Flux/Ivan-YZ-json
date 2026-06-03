@@ -1023,16 +1023,6 @@
     },
     {
         "cat": {
-            "visible": true,
-            "hasHeader": false,
-            "name": "IPL 4K",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVuMRnWgKHT7egSbWDEpmGZZQZf6S5x9IJGFsvCwAz6A&s",
-            "type": "m3u",
-            "api": "https://m3u-tvb.pages.dev/ipppppcc.mzx"
-        }
-    },
-    {
-        "cat": {
             "visible": false,
             "hasHeader": false,
             "name": "Toffee BD",
@@ -1247,6 +1237,16 @@
             "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HnNDoPIMtctA_dY22R_c58uMmGrK8hft4IFV9__cYYFSjdU1zebv9IHxedbN5hgMTvypMOCZvOO6m53Rwan_Cug6XZ3sZg1fgWpKaSpplUwvS7C94BR7B6e8BE50bfw_46hrV_pZ9mJ8NyJ8LYHAS0JXnT8j1GIQdZ-EtrbpjX6I6DYVVrFtKv64cLw/s1600/1000409128.jpg",
             "type": "m3u",
             "api": "https://playlist-by-xfireflix.pages.dev/MC/Mac-ASIA.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "FIFA World Cup 2026 Coming Soon",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPutHO3WcGM0tADaXFR5c2XxBiyKXtL2PRZEIolaxe47UX9iCh71VOVhM&s=10",
+            "type": "m3u",
+            "api": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPutHO3WcGM0tADaXFR5c2XxBiyKXtL2PRZEIolaxe47UX9iCh71VOVhM&s=10"
         }
     }
 ]

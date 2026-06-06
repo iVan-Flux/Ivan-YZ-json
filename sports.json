@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:56:12 PM 06-06-2026",
+    "Last update time": "09:34:35 PM 06-06-2026",
     "sports": [
         {
             "cat": {
@@ -1626,14 +1626,14 @@
                                     }
                                 },
                                 {
-                                    "name": "UEFA Conference League | Final",
-                                    "link": "",
+                                    "name": "xoo",
+                                    "link": "https://pastebin.com/raw/ihNB2tKY?mpd",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": {
-                                        "url": "",
-                                        "api": "https://dasfootball.com/crystal-palace-vs-rayo-vallecano-match-highlights-2026-05-27/fvp-4231/",
-                                        "type": "embed",
+                                        "url": "https://pastebin.com/raw/ihNB2tKY?mpd",
+                                        "api": "https://pastebin.com/raw/ihNB2tKY?mpd",
+                                        "type": "sp",
                                         "link_key": "playback_url",
                                         "default_string": "N8x7Y%m+6n",
                                         "request_type": "get",

@@ -1052,15 +1052,6 @@
     {
         "cat": {
             "visible": true,
-            "name": "BDIX 2",
-            "logo": "https://play-lh.googleusercontent.com/ZhYHS7gmXM3RZNv6Gz48wKlKhC7GyXiyrIPZjl1DkbVn70pqsQgoowujEz1KGHUopA",
-            "type": "m3u",
-            "api": "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/roar-zone-playlist.m3u"
-        }
-    },
-    {
-        "cat": {
-            "visible": true,
             "name": "Pocket TV IN",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRset_viiT47GejUdcBN7zDn0hVq-TjvAXAKRwi8N2TWQ&s=10",
             "type": "m3u",
@@ -1247,6 +1238,16 @@
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPutHO3WcGM0tADaXFR5c2XxBiyKXtL2PRZEIolaxe47UX9iCh71VOVhM&s=10",
             "type": "m3u",
             "api": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPutHO3WcGM0tADaXFR5c2XxBiyKXtL2PRZEIolaxe47UX9iCh71VOVhM&s=10"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "BDIX 2",
+            "logo": "https://play-lh.googleusercontent.com/ZhYHS7gmXM3RZNv6Gz48wKlKhC7GyXiyrIPZjl1DkbVn70pqsQgoowujEz1KGHUopA",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/roar-zone-playlist.m3u"
         }
     }
 ]

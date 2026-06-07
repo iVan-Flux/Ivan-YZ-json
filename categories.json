@@ -1010,7 +1010,7 @@
             "name": "FANCODE BD",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpmc6r0tS_bJ1MhJmNTKv1nvU2YKLzzIXsw&s",
             "type": "m3u",
-            "api": "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u"
+            "api": "https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/refs/heads/main/FanCode.m3u"
         }
     },
     {

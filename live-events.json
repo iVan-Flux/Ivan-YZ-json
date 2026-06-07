@@ -3,109 +3,11 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:42:23 PM 07-06-2026",
-    " Live : 02 ": "",
-    "Upcoming : 26": "",
-    "Finish : 23 ": "",
+    "Last update time": "12:48:44 AM 08-06-2026",
+    " Live : 05 ": "",
+    "Upcoming : 22": "",
+    "Finish : 20 ": "",
     "events": [
-        {
-            "id": "MBIVF",
-            "title": "International Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Maldives",
-                "teamB": "Bangladesh U23",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/6911/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/49024/image",
-                "eventName": "International Friendly Games",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/06/07 20:00:00 +0000",
-                "endTime": "2026/06/07 22:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://pul-tenm.nbs3g.com/live/sd-1-4548796.m3u8?txSecret=2a05c148fdef0e6a2ed04b12417360b5&txTime=6A26E434",
-                    "title": "IVANZTV LIVE ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "http://193.47.62.59/hls/CCCCDD.m3u8|referer=http://www.fawanews.sc/",
-                    "title": "HD STREAM ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780851260-0-0-22b2e7b50a95d04a956df869352210d8",
-                    "title": "SS LIVE HD",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "DUIVF",
-            "title": "International Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Denmark",
-                "teamB": "Ukraine",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4476/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4701/image",
-                "eventName": "International Friendly Games",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/06/07 20:30:00 +0000",
-                "endTime": "2026/06/07 22:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-                    "title": "FOX SPORTS",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "KAIVF",
-            "title": "International Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Kosovo",
-                "teamB": "Andorra",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/154426/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4818/image",
-                "eventName": "International Friendly Games",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/06/07 22:00:00 +0000",
-                "endTime": "2026/06/08 00:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
         {
             "id": "CSIVF",
             "title": "International Friendly Games",
@@ -120,15 +22,64 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/07 22:45:00 +0000",
                 "endTime": "2026/06/08 01:05:00 +0000"
             },
             "channels_data": [
                 {
+                    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+                    "title": "FOX SPORTS - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "33d7e3040deeb3eb8187a3340d3e2ab8:c4d3c694dd145648b835f5c51fc4f127",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pfdime9nrs/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
+                    "title": "TUDN SPANISH - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                    "title": "SporTV BR",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+                    "title": "Sport CZ - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
                     "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
+                    "link": "https://chatgpt.hereisman.net/playlist/51738/load-playlist?|Referer=https://gooz.aapmains.net",
+                    "title": "FOX SPO HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4541792.m3u8?txSecret=0d6465e7d1e6b680cf0b869c6ca2be56&txTime=6A270502",
+                    "title": "IVANZTV LIVE ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://cdn9859.shop/beinarabic2.m3u8",
+                    "title": "BeIN ARABIC HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Croat0706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780900471~acl=/*~id=88583421416300856778517388478824~hmac=4ca8d583a72d169df3b26ae1f95ba90822d63cf99268479c8ec9c5a9d66720d4",
+                    "title": "SONYLIV ENG ASIA ",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -148,15 +99,29 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/07 23:00:00 +0000",
                 "endTime": "2026/06/08 01:20:00 +0000"
             },
             "channels_data": [
                 {
                     "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
+                    "link": "https://chatgpt.hereisman.net/playlist/51740/load-playlist?|Referer=https://gooz.aapmains.net",
+                    "title": "BEST SR",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "title": "SERVER HD 1",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4531724.m3u8?txSecret=23ee12f86a0a6fdd34c83eea2e068358&txTime=6A270502",
+                    "title": "SERVER HD 2",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -176,15 +141,71 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/07 23:00:00 +0000",
                 "endTime": "2026/06/08 01:20:00 +0000"
             },
             "channels_data": [
                 {
+                    "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+                    "title": "FUBO SPORTS",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "3dcd25a7b67e02d077a76e2cfd94c200:098f6c783e88b92e04fda0277498f5c9",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kxsda0dock/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd",
+                    "title": "TUDN SPANISH ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                    "title": "Sport CZ - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
                     "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
+                    "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4541794.m3u8?txSecret=d83e64e3701bc28ca99a0450ddbe72c7&txTime=6A270502",
+                    "title": "HD STREAM ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000376/IF_Greec0706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780900471~acl=/*~id=88583421416300856778517388478824~hmac=4ca8d583a72d169df3b26ae1f95ba90822d63cf99268479c8ec9c5a9d66720d4",
+                    "title": "SONYLIV ENG ASIA ",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "LMIVF",
+            "title": "LaLiga 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Las Palmas",
+                "teamB": "Málaga CF",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6577/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2830/image",
+                "eventName": "LaLiga 2",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Live",
+                "startTime": "2026/06/07 23:00:00 +0000",
+                "endTime": "2026/06/08 01:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+                    "title": "PREMIER SPORTS",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -204,15 +225,15 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/08 00:00:00 +0000",
                 "endTime": "2026/06/08 02:20:00 +0000"
             },
             "channels_data": [
                 {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
+                    "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+                    "title": "SPORTDIGITAL",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -238,16 +259,37 @@
             },
             "channels_data": [
                 {
-                    "api": "378dd0f37931c7855b987e5f20422764:6ce3e747ab983a819e79ab1fff3bbb19",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gbw8edokte/out/v1/34e315ab7f3c4be0a1f3d104b68a66c2/cenc.mpd",
-                    "title": "WILLOW - AQ [Ad Free]",
+                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+                    "title": "TNT SPORTS - AQ",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
-                    "api": "12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
-                    "title": "TNT SPORTS - AQ",
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "title": "WILLOW SP - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://cdn9859.shop/foxcricket.m3u8",
+                    "title": "FOX CRICKET HD ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://fc-rd.test33644.workers.dev/Afghanistan/in/index.m3u8",
+                    "title": "FANCODE - IN",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "378dd0f37931c7855b987e5f20422764:6ce3e747ab983a819e79ab1fff3bbb19",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gbw8edokte/out/v1/34e315ab7f3c4be0a1f3d104b68a66c2/cenc.mpd",
+                    "title": "WILLOW - AQ [Ad Free]",
                     "type": "1",
                     "tokenApi": ""
                 },
@@ -269,27 +311,6 @@
                     "api": "",
                     "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1035.m3u8",
                     "title": "TNT SPORTS HD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "title": "WILLOW SP - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://cdn9859.shop/foxcricket.m3u8",
-                    "title": "FOX CRICKET HD ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://in-mc-fblive.fancode.com/mumbai/143243_english_hls_e79ed907e657015_1ta-di_h264/index.m3u8",
-                    "title": "FANCODE - IN",
                     "type": "1",
                     "tokenApi": ""
                 },
@@ -441,9 +462,79 @@
             },
             "channels_data": [
                 {
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                    "title": "Sport CZ - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
                     "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
+                    "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4541794.m3u8?txSecret=d83e64e3701bc28ca99a0450ddbe72c7&txTime=6A270502",
+                    "title": "HD STREAM ",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "WSIVF",
+            "title": "One Day International",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "West Indies",
+                "teamB": "Sri Lanka",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+                "eventName": "One Day International",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/06/08 23:30:00 +0000",
+                "endTime": "2026/06/09 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "e967d85b71069b53f669d01147eb4fe7:84fc41d86b014d86f482273701368a08",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bjb3rebncn/out/v1/3958bc3f59ef4466b0ac999ed02bf327/cenc.mpd",
+                    "title": "WILLOW - AQ [Ad Free]",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                    "title": "FANCODE FHD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1036.m3u8",
+                    "title": "TNT Sports",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+                    "title": "FANCODE SD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://cdn9859.shop/willoweng.m3u8",
+                    "title": "WILLOW - HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://193.47.62.40/hls/FUUUQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "SD STREAM ",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -968,6 +1059,48 @@
             ]
         },
         {
+            "id": "KAIVF",
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Kosovo",
+                "teamB": "Andorra",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/154426/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4818/image",
+                "eventName": "International Friendly Games",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Finished",
+                "startTime": "2026/06/07 22:00:00 +0000",
+                "endTime": "2026/06/08 00:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "b0c42f9ded90902d616d554badf47587:23d14938ad3fc9e960e8cc57546a6771",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6e2cunkzgh/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
+                    "title": "TUDN SPORTS - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4544875.m3u8?txSecret=73368d9b8b8c3db0139770fd100542cb&txTime=6A2701BC",
+                    "title": "IVANZTV LIVE ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://193.47.62.59/hls/GPPPZZ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "SD stream ",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
             "id": "FFIVF",
             "title": "Formula 1",
             "image": "https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png",
@@ -1018,118 +1151,6 @@
                     "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
                     "title": "F1 TV FHD",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "KLIVF",
-            "title": "International Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Kenya",
-                "teamB": "Lesotho",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4773/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/8033/image",
-                "eventName": "International Friendly Games",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/06/07 17:00:00 +0000",
-                "endTime": "2026/06/07 19:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "http://193.47.62.59/hls/gvvvzffff.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "LCIVF",
-            "title": "International Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Liechtenstein",
-                "teamB": "Cyprus",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4830/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4482/image",
-                "eventName": "International Friendly Games",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/06/07 17:00:00 +0000",
-                "endTime": "2026/06/07 19:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-                    "title": "FOX SPORTS - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "33d7e3040deeb3eb8187a3340d3e2ab8:c4d3c694dd145648b835f5c51fc4f127",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pfdime9nrs/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
-                    "title": "TUDN SPANISH ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-                    "title": "SporTV BR",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-                    "title": "Sport CZ - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "http://193.47.62.59/hls/gvvvzfffff.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "title": "SD STREAM ",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "APIVF",
-            "title": "International Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Afghanistan",
-                "teamB": "Pakistan",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4689/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/6081/image",
-                "eventName": "International Friendly Games",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/06/07 15:00:00 +0000",
-                "endTime": "2026/06/07 17:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "http://193.47.62.59/hls/fbbbqqq.m3u8|referer=http://www.fawanews.sc/",
-                    "title": "Link 1",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -1249,69 +1270,6 @@
                     "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
                     "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                     "title": "FANCODE - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "WSIVF",
-            "title": "One Day International",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "West Indies",
-                "teamB": "Sri Lanka",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-                "eventName": "One Day International",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/06/06 23:30:00 +0000",
-                "endTime": "2026/06/07 03:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "e967d85b71069b53f669d01147eb4fe7:84fc41d86b014d86f482273701368a08",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bjb3rebncn/out/v1/3958bc3f59ef4466b0ac999ed02bf327/cenc.mpd",
-                    "title": "WILLOW - AQ [Ad Free]",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                    "title": "FANCODE FHD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1036.m3u8",
-                    "title": "TNT Sports",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-                    "title": "FANCODE SD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://cdn9859.shop/willoweng.m3u8",
-                    "title": "WILLOW - HD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "http://193.47.62.40/hls/FUUUQQ.m3u8|referer=http://www.fawanews.sc/",
-                    "title": "SD STREAM ",
                     "type": "1",
                     "tokenApi": ""
                 }

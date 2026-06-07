@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:05:55 AM 07-06-2026",
+    "Last update time": "02:22:44 PM 07-06-2026",
     "sports": [
         {
             "cat": {
@@ -4995,17 +4995,10 @@
                             "is_playlist": false,
                             "stream_links": [
                                 {
-                                    "name": "Link 1",
-                                    "link": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+                                    "name": "TNT SPORTS - AQ",
+                                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
                                     "scheme": 0,
-                                    "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "TNT SPORTS S2",
-                                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-                                    "scheme": 0,
-                                    "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+                                    "api": "0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844",
                                     "tokenApi": ""
                                 }
                             ]
@@ -5020,16 +5013,9 @@
                             "stream_links": [
                                 {
                                     "name": "Link 1",
-                                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+                                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
                                     "scheme": 0,
-                                    "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "Link 2",
-                                    "link": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
-                                    "scheme": 0,
-                                    "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
+                                    "api": "12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca",
                                     "tokenApi": ""
                                 }
                             ]
@@ -5044,25 +5030,9 @@
                             "stream_links": [
                                 {
                                     "name": "Link 1",
-                                    "link": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+                                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
                                     "scheme": 0,
-                                    "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "Link 2",
-                                    "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-                                    "scheme": 0,
-                                    "api": {
-                                        "keys": [
-                                            {
-                                                "kty": "oct",
-                                                "kid": "GSsRFdoEFYXHcgAShUnvoQ",
-                                                "k": "Y04Q7-SruxS-QAo8y6wCWA"
-                                            }
-                                        ],
-                                        "type": "temporary"
-                                    },
+                                    "api": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50",
                                     "tokenApi": ""
                                 }
                             ]

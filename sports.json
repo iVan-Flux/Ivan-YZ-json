@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:31:16 AM 07-06-2026",
+    "Last update time": "09:05:55 AM 07-06-2026",
     "sports": [
         {
             "cat": {
@@ -4972,9 +4972,9 @@
                             "stream_links": [
                                 {
                                     "name": "AQ",
-                                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+                                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
                                     "scheme": 0,
-                                    "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+                                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
                                     "tokenApi": ""
                                 },
                                 {
@@ -4982,29 +4982,6 @@
                                     "link": "https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=iISQ5ZLeYYlA14Yb8BxcGQ&e=2075748409&scheme=https",
                                     "scheme": 0,
                                     "api": "",
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "HD",
-                                    "link": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-                                    "scheme": 0,
-                                    "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "UHD",
-                                    "link": "https://a17aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3q8op9sg7p/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-                                    "scheme": 0,
-                                    "api": {
-                                        "keys": [
-                                            {
-                                                "kty": "oct",
-                                                "kid": "0PLlw55wwY8pv3d2ihrYmg",
-                                                "k": "1oU8UfzzehiQXwYJlyOV1w"
-                                            }
-                                        ],
-                                        "type": "temporary"
-                                    },
                                     "tokenApi": ""
                                 }
                             ]

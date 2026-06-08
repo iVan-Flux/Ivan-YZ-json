@@ -1127,15 +1127,6 @@
     {
         "cat": {
             "visible": true,
-            "name": "SF TV",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSePGfjYDmNVLvnrA2rdu4L65s3WuI6AIMKepNcNF1VSA&s=10",
-            "type": "m3u",
-            "api": "https://m3u-tvb.pages.dev/sf-playlist.m3u"
-        }
-    },
-    {
-        "cat": {
-            "visible": true,
             "name": "ULTRA VISION",
             "logo": "https://i.postimg.cc/L8MJBWQX/Picsart-26-03-17-22-56-10-845.jpg",
             "type": "m3u",
@@ -1249,6 +1240,16 @@
             "logo": "https://play-lh.googleusercontent.com/ZhYHS7gmXM3RZNv6Gz48wKlKhC7GyXiyrIPZjl1DkbVn70pqsQgoowujEz1KGHUopA",
             "type": "m3u",
             "api": "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/roar-zone-playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "SF TV",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSePGfjYDmNVLvnrA2rdu4L65s3WuI6AIMKepNcNF1VSA&s=10",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/sf-playlist.m3u"
         }
     }
 ]

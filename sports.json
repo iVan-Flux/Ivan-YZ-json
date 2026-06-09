@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:20:30 AM 09-06-2026",
+    "Last update time": "12:17:58 PM 09-06-2026",
     "sports": [
         {
             "cat": {
@@ -6878,7 +6878,8 @@
         {
             "cat": {
                 "visible": true,
-                "name": "Sports Event’s",
+                "hasHeader": false,
+                "name": "Sports Event’s SD",
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5COUganDJvCOuioMhBrgNw_4WNnc0UyWiRuJlIbGPw&s=10",
                 "type": "m3u",
                 "api": "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/playlist_s.m3u"
@@ -6887,7 +6888,8 @@
         {
             "cat": {
                 "visible": true,
-                "name": "SPOEVENT",
+                "hasHeader": false,
+                "name": "SPOEVENT HD",
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_o_MMKxjhpjjey8oT60BRjbwGLWD_HnxY5UACV3RY0cNeforitI1NVY&s=10",
                 "type": "m3u",
                 "api": "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"

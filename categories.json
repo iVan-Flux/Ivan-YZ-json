@@ -301,7 +301,8 @@
     },
     {
         "cat": {
-            "visible": true,
+            "visible": false,
+            "hasHeader": false,
             "name": "Akash Go",
             "logo": "https://assets-playztv.pages.dev/category/akashg.jpg",
             "type": "m3u",
@@ -1145,7 +1146,8 @@
     },
     {
         "cat": {
-            "visible": true,
+            "visible": false,
+            "hasHeader": false,
             "name": "FIFA PLUS",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhokREPmu7NevdecCRJejEY1AOZZalcL-OOfxBTAw7dA&s=10",
             "type": "m3u",

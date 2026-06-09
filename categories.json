@@ -1253,5 +1253,15 @@
             "type": "m3u",
             "api": "https://m3u-tvb.pages.dev/sf-playlist.m3u"
         }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "WILLOW LIVE",
+            "logo": "https://mms.businesswire.com/media/20240530429365/en/2145074/5/logo_transparent_cb_%281%29.jpg?download=1",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"
+        }
     }
 ]

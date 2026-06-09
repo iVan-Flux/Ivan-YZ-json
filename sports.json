@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "05:28:07 PM 09-06-2026",
+    "Last update time": "08:45:31 PM 09-06-2026",
     "sports": [
         {
             "cat": {
@@ -4949,6 +4949,20 @@
                                     "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wgd1hgui8j/out/v1/5a8f361959cc446c8d0f419884351dc0/cenc.mpd",
                                     "api": "0b3078f110af847bcbd17f0055ebdfe3:7a508691533bb75e71ec2e2cd694459d",
                                     "scheme": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "channel": {
+                            "visible": true,
+                            "name": "TyC Sports",
+                            "logo": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+                            "is_playlist": false,
+                            "stream_links": [
+                                {
+                                    "name": "Link 1",
+                                    "link": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
                                 }
                             ]
                         }

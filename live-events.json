@@ -3,46 +3,11 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:24:10 PM 10-06-2026",
-    " Live : 01 ": "",
+    "Last update time": "08:57:40 PM 10-06-2026",
+    " Live : 03 ": "",
     "Upcoming : 16": "",
-    "Finish : 21 ": "",
+    "Finish : 19 ": "",
     "events": [
-        {
-            "id": "IEIVF",
-            "title": "ICC Women's T20 World Cup Warm-up",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "India Women",
-                "teamB": "England Women",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/213121/image",
-                "eventName": "ICC Women's T20 World Cup Warm-up",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/06/10 13:00:00 +0000",
-                "endTime": "2026/06/10 17:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "68de9095860f68f5a820d26b83f29c0a:7580b8d3f6adac1950ba6d31bfcf7f50",
-                    "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wwgqhyl1fd/out/v1/be285128741c4d8f997053b03bf2d063/cenc.mpd",
-                    "title": "WILLOW - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "http://193.47.62.59/hls/hyhyhyhy.m3u8|referer=http://www.fawanews.sc/",
-                    "title": "SD STREAM ",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
         {
             "id": "WAIVF",
             "title": "ICC Women's T20 World Cup Warm-up",
@@ -57,14 +22,84 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/10 18:00:00 +0000",
                 "endTime": "2026/06/10 22:00:00 +0000"
             },
             "channels_data": [
                 {
+                    "api": "402390e423c778bf9a0cf61485d1188b:123e7efc50b67411a64980aec500d54d",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wb5rrwverb/out/v1/7d659cec19f84403a79adc0a4523a10a/cenc.mpd",
+                    "title": "WILLOW - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
                     "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
+                    "link": "http://193.47.62.59/hls/hyhyhyhy.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "SD STREAM",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "EEIVF",
+            "title": "EUT20 Belgium",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjC6G2PqSt8OZPW3Bsi9McM-Rn5mCRF0_d4u11_n5AA&s",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "EUT20 Belgium",
+                "teamB": "EUT20 Belgium",
+                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjC6G2PqSt8OZPW3Bsi9McM-Rn5mCRF0_d4u11_n5AA&s",
+                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjC6G2PqSt8OZPW3Bsi9McM-Rn5mCRF0_d4u11_n5AA&s",
+                "eventName": "EUT20 Belgium",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Live",
+                "startTime": "2026/06/10 18:30:00 +0000",
+                "endTime": "2026/06/10 22:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "45949ef420df9a369987bb9ada8a7166:faa7ea604451d3faaa86d51923eb414c",
+                    "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jgrz1iio2k/out/v1/348242c455e44417ad57babf79e641dd/cenc.mpd",
+                    "title": "WILLOW - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+                    "title": "PREMIER SPORTS ",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "PAIVF",
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Pakistan",
+                "teamB": "Afghanistan",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6081/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4689/image",
+                "eventName": "International Friendly Games",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Live",
+                "startTime": "2026/06/10 20:30:00 +0000",
+                "endTime": "2026/06/10 23:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "",
+                    "link": "c",
                     "title": "Link 1",
                     "type": "1",
                     "tokenApi": ""
@@ -126,9 +161,9 @@
             },
             "channels_data": [
                 {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
+                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                    "title": "SporTV BR",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -185,6 +220,83 @@
                     "api": "",
                     "link": "https://playztv.pages.dev/sss/index.m3u8",
                     "title": "Link 1",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "ISIVF",
+            "title": "Tri Nation A Series in Sri Lanka 2026",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaba44Tr-AgNJlJ6JD87e7Xoz3ai5CDZA8KCx_FHy9Ugs=10",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "India A",
+                "teamB": "Sri Lanka A",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+                "eventName": "Tri Nation A Series in Sri Lanka 2026",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/06/11 08:30:00 +0000",
+                "endTime": "2026/06/11 12:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "title": "WILLOW SP",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https%3A%2F%2Ftvsen5.aynaott.com%2Fwillowhd%2Findex.m3u8%3Fe%3D1780975508%26u%3Dee5437a7-c16b-4700-b317-a41b77d5cba9%26token%3D0837cfb20cea28bf7ea924bfef3be407",
+                    "title": "WILLOW HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "01f756322784d8acaeb5c46651ae8879:e42f17fcb3c0f626f5001227e71b7116",
+                    "link": "https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/avbmgwfv7q/out/v1/24142820af7447ae86d91022eafe3435/cenc.mpd",
+                    "title": "WILLOW - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781019854~acl=/*~id=91241173209101006577261130083446~hmac=b033ce4897344435258868072d265643f9d276fb04a416d0c055e726272cbf1c",
+                    "title": "SONYLIV ENG",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781019854~acl=/*~id=91241173209101006577261130083446~hmac=b033ce4897344435258868072d265643f9d276fb04a416d0c055e726272cbf1c",
+                    "title": "SONYLIV HIN",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0906/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781019854~acl=/*~id=91241173209101006577261130083446~hmac=b033ce4897344435258868072d265643f9d276fb04a416d0c055e726272cbf1c",
+                    "title": "SONYLIV TAM",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0906/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781019854~acl=/*~id=91241173209101006577261130083446~hmac=b033ce4897344435258868072d265643f9d276fb04a416d0c055e726272cbf1c",
+                    "title": "SONYLIV TEL",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0906/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781019854~acl=/*~id=91241173209101006577261130083446~hmac=b033ce4897344435258868072d265643f9d276fb04a416d0c055e726272cbf1c",
+                    "title": "SONYLIV KAN",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -660,48 +772,6 @@
             ]
         },
         {
-            "id": "IVIVF",
-            "title": "International Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Iraq",
-                "teamB": "Venezuela",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4767/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4722/image",
-                "eventName": "International Friendly Games",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/06/10 05:00:00 +0000",
-                "endTime": "2026/06/10 07:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8|Referer=https://sv2.hoiquan3.live/&Origin=https://tdlive.yarncdn.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-                    "title": "SERVER 1",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8|Referer=https://quechoa11.live/truc-tiep/iraq-vs-venezuela-vrw-10-06-2026&Origin=https://ahghndtkyqmm-pull.bpmedialive.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-                    "title": "SERVER 2",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8|Referer=https://sv2.hoiquan3.live/&Origin=https://alive.yarncdn.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-                    "title": "SERVER 3.",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": "BAIVF",
             "title": "One Day International",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
@@ -815,83 +885,6 @@
                     "api": "",
                     "link": "https://fc-rd.test33644.workers.dev/Bangladesh/bd/index.m3u8",
                     "title": "fc bd",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "ISIVF",
-            "title": "Tri Nation A Series in Sri Lanka 2026",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaba44Tr-AgNJlJ6JD87e7Xoz3ai5CDZA8KCx_FHy9Ugs=10",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "India A",
-                "teamB": "Sri Lanka A",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-                "eventName": "Tri Nation A Series in Sri Lanka 2026",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/06/09 08:30:00 +0000",
-                "endTime": "2026/06/09 12:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "01f756322784d8acaeb5c46651ae8879:e42f17fcb3c0f626f5001227e71b7116",
-                    "link": "https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/avbmgwfv7q/out/v1/24142820af7447ae86d91022eafe3435/cenc.mpd",
-                    "title": "WILLOW - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781019854~acl=/*~id=91241173209101006577261130083446~hmac=b033ce4897344435258868072d265643f9d276fb04a416d0c055e726272cbf1c",
-                    "title": "SONYLIV ENG",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "title": "WILLOW SP",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781019854~acl=/*~id=91241173209101006577261130083446~hmac=b033ce4897344435258868072d265643f9d276fb04a416d0c055e726272cbf1c",
-                    "title": "SONYLIV HIN",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0906/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781019854~acl=/*~id=91241173209101006577261130083446~hmac=b033ce4897344435258868072d265643f9d276fb04a416d0c055e726272cbf1c",
-                    "title": "SONYLIV TAM",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0906/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781019854~acl=/*~id=91241173209101006577261130083446~hmac=b033ce4897344435258868072d265643f9d276fb04a416d0c055e726272cbf1c",
-                    "title": "SONYLIV TEL",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0906/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781019854~acl=/*~id=91241173209101006577261130083446~hmac=b033ce4897344435258868072d265643f9d276fb04a416d0c055e726272cbf1c",
-                    "title": "SONYLIV KAN",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https%3A%2F%2Ftvsen5.aynaott.com%2Fwillowhd%2Findex.m3u8%3Fe%3D1780975508%26u%3Dee5437a7-c16b-4700-b317-a41b77d5cba9%26token%3D0837cfb20cea28bf7ea924bfef3be407",
-                    "title": "WILLOW HD",
                     "type": "1",
                     "tokenApi": ""
                 }

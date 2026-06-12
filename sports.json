@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:36:42 PM 12-06-2026",
+    "Last update time": "08:22:30 PM 12-06-2026",
     "sports": [
         {
             "cat": {
@@ -6826,6 +6826,13 @@
                                     "link": "https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd",
                                     "scheme": 0,
                                     "api": "52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "Arabic FHD",
+                                    "link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
+                                    "scheme": 0,
+                                    "api": "e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a",
                                     "tokenApi": ""
                                 }
                             ]

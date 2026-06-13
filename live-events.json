@@ -3,60 +3,11 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:24:14 PM 13-06-2026",
-    " Live : 02 ": "",
-    "Upcoming : 24": "",
-    "Finish : 22 ": "",
+    "Last update time": "04:42:10 PM 13-06-2026",
+    " Live : 03 ": "",
+    "Upcoming : 22": "",
+    "Finish : 23 ": "",
     "events": [
-        {
-            "id": "IAIVF",
-            "title": "One Day International",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "India",
-                "teamB": "Afghanistan",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-                "eventName": "One Day International",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Live",
-                "startTime": "2026/06/13 12:00:00 +0000",
-                "endTime": "2026/06/13 16:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "7e43190efc077a8e34d29efe88667f0d:bdc614e076190e536c7aca7f66ae3f88",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfumc0t3cc/out/v1/f14dd22c77cb4138b316baf3c970304e/cenc.mpd",
-                    "title": "WILLOW - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
-                    "title": "TNT SPORTS - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675",
-                    "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd|Referer=https://www.hotstar.com/|Origin=https://www.hotstar.com",
-                    "title": "SS1 HINDI - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b",
-                    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?|cookie=%5F%5Fhdnea%5F%5F=st=1781328626~exp=1781350226~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=f7d89bb085b42324812223e4d7c54c94008cbe0d78429f146dc30525ee513638",
-                    "title": "SS HINDI 50FPS",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
         {
             "id": "SIIVF",
             "title": "ICC Women World Twenty20",
@@ -77,6 +28,13 @@
             },
             "channels_data": [
                 {
+                    "api": "d7e1c8f880d1d51abd61375e53cb13e3:812c5b33c2575c4067c304d7023acfdf",
+                    "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/6qsuaj4hls/out/v1/eed7d72a62da4afd9f9da8744fdca16a/cenc.mpd",
+                    "title": "WILLOW - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
                     "api": "",
                     "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
                     "title": "SKY SPORTS CRICKET",
@@ -87,13 +45,6 @@
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
                     "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                     "title": "WILLOW HD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "979b2f5b62f09438e96fb1fe44b820e2:b976ab1bf969845cf9e4fee85f456c8d",
-                    "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/4wja3cfwgg/out/v1/991189690f8b4dd68e0c674f6a398c39/cenc.mpd?",
-                    "title": "WILLOW - AQ",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -113,7 +64,7 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/13 14:30:00 +0000",
                 "endTime": "2026/06/13 17:30:00 +0000"
             },
@@ -197,11 +148,18 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/13 14:30:00 +0000",
                 "endTime": "2026/06/13 18:30:00 +0000"
             },
             "channels_data": [
+                {
+                    "api": "f3f446aa3045b78a67ad34256dd44d57:6ad5c13d969fd9286acbc16111321c45",
+                    "link": "https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/ek256oko2h/out/v1/1a4e80f9cf404cf7bdae61b56141070a/cenc.mpd",
+                    "title": "WILLOW - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
                 {
                     "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
@@ -1501,6 +1459,55 @@
                     "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
                     "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
                     "title": "VRT DUTCH - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "IAIVF",
+            "title": "One Day International",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "India",
+                "teamB": "Afghanistan",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+                "eventName": "One Day International",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Finished",
+                "startTime": "2026/06/13 12:00:00 +0000",
+                "endTime": "2026/06/13 16:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "7e43190efc077a8e34d29efe88667f0d:bdc614e076190e536c7aca7f66ae3f88",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfumc0t3cc/out/v1/f14dd22c77cb4138b316baf3c970304e/cenc.mpd",
+                    "title": "WILLOW - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+                    "title": "TNT SPORTS - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675",
+                    "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd|Referer=https://www.hotstar.com/|Origin=https://www.hotstar.com",
+                    "title": "SS1 HINDI - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b",
+                    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?|cookie=%5F%5Fhdnea%5F%5F=st=1781328626~exp=1781350226~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=f7d89bb085b42324812223e4d7c54c94008cbe0d78429f146dc30525ee513638",
+                    "title": "SS HINDI 50FPS",
                     "type": "1",
                     "tokenApi": ""
                 }

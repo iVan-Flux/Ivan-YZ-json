@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:23:06 PM 13-06-2026",
+    "Last update time": "09:42:31 PM 13-06-2026",
     "sports": [
         {
             "cat": {
@@ -5787,6 +5787,20 @@
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "channel": {
+                            "visible": true,
+                            "name": "SONY LIVE",
+                            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL2fQFVJkzyTcSH3lJAEPgprMcV-O3IrcGqG_s5_YVcoXsdkeUPDXywtg8MKICMwKiPSOWuLwubUIBaJOlx91r_9bAmMihMHd5syqL7fb0PUCkUk4BUHXJAUoQfwFMS_iO1TylaSfoVWuPYWdazGFFQ7n-0nnKflz-wBiyccRK7dhdNwDraZfWTt1rnRY/s1600/1000408534.jpg",
+                            "is_playlist": false,
+                            "stream_links": [
+                                {
+                                    "name": "Link 1",
+                                    "link": "http://live.balajibroadband.com:3500/live/892.m3u8"
                                 }
                             ]
                         }

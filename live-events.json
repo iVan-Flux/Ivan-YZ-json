@@ -3,10 +3,10 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:56:47 AM 13-06-2026",
-    " Live : 00 ": "",
-    "Upcoming : 20": "",
-    "Finish : 24 ": "",
+    "Last update time": "02:24:14 PM 13-06-2026",
+    " Live : 02 ": "",
+    "Upcoming : 24": "",
+    "Finish : 22 ": "",
     "events": [
         {
             "id": "IAIVF",
@@ -22,15 +22,36 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/13 12:00:00 +0000",
                 "endTime": "2026/06/13 16:00:00 +0000"
             },
             "channels_data": [
                 {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
+                    "api": "7e43190efc077a8e34d29efe88667f0d:bdc614e076190e536c7aca7f66ae3f88",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfumc0t3cc/out/v1/f14dd22c77cb4138b316baf3c970304e/cenc.mpd",
+                    "title": "WILLOW - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+                    "title": "TNT SPORTS - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675",
+                    "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd|Referer=https://www.hotstar.com/|Origin=https://www.hotstar.com",
+                    "title": "SS1 HINDI - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b",
+                    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?|cookie=%5F%5Fhdnea%5F%5F=st=1781328626~exp=1781350226~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=f7d89bb085b42324812223e4d7c54c94008cbe0d78429f146dc30525ee513638",
+                    "title": "SS HINDI 50FPS",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -50,9 +71,289 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/13 13:30:00 +0000",
                 "endTime": "2026/06/13 17:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
+                    "title": "SKY SPORTS CRICKET",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "title": "WILLOW HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "979b2f5b62f09438e96fb1fe44b820e2:b976ab1bf969845cf9e4fee85f456c8d",
+                    "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/4wja3cfwgg/out/v1/991189690f8b4dd68e0c674f6a398c39/cenc.mpd?",
+                    "title": "WILLOW - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "FFIVF",
+            "title": "Formula 1",
+            "image": "https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png",
+            "cat": "Motorsport",
+            "eventInfo": {
+                "teamA": "Formula 1",
+                "teamB": "Formula 1",
+                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUIVWXAnm1ANXZZKjCXqoFyoZsftoMdlUOU2WAXKhzQ&s=10",
+                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUIVWXAnm1ANXZZKjCXqoFyoZsftoMdlUOU2WAXKhzQ&s=10",
+                "eventName": "Formula 1",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/06/13 14:30:00 +0000",
+                "endTime": "2026/06/13 17:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                    "title": "FANCODE FHD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://chatgpt.hereisman.net/playlist/51883/load-playlist?|Referer=https://gooz.aapmains.net",
+                    "title": "IVANZTV HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
+                    "title": "TNT SPORTS ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
+                    "title": "SKY SPORTS DE",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+                    "title": "HD STREAM ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
+                    "title": "TSN SPORTS FHD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+                    "title": "IVANZTV ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+                    "title": "F1 TV FHD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+                    "title": "F1 TV FHD",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "EEIVF",
+            "title": "EUT20 Belgium",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjC6G2PqSt8OZPW3Bsi9McM-Rn5mCRF0_d4u11_n5AA&s",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "EUT20 Belgium",
+                "teamB": "EUT20 Belgium",
+                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjC6G2PqSt8OZPW3Bsi9McM-Rn5mCRF0_d4u11_n5AA&s",
+                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjC6G2PqSt8OZPW3Bsi9McM-Rn5mCRF0_d4u11_n5AA&s",
+                "eventName": "EUT20 Belgium",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/06/13 14:30:00 +0000",
+                "endTime": "2026/06/13 18:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+                    "title": "PREMIER SPORTS ",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "ASIVF",
+            "title": "ICC Women World Twenty20",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "Australia Women",
+                "teamB": "South Africa Women",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/213118/image",
+                "eventName": "ICC Women World Twenty20",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/06/13 17:30:00 +0000",
+                "endTime": "2026/06/13 21:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "",
+                    "link": "https://playztv.pages.dev/sss/index.m3u8",
+                    "title": "Link 1",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "FOIVF",
+            "title": "FIFA World CUP Opening Ceremony",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVEHN7EFX2Sdai8Zso7i-mpe-lA9mf-O01Ir9J6W1I3bJ58ApP7TH7rco&s=10",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "FIFA World CUP 26",
+                "teamB": "Opening Ceremony",
+                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVEHN7EFX2Sdai8Zso7i-mpe-lA9mf-O01Ir9J6W1I3bJ58ApP7TH7rco&s=10",
+                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVEHN7EFX2Sdai8Zso7i-mpe-lA9mf-O01Ir9J6W1I3bJ58ApP7TH7rco&s=10",
+                "eventName": "FIFA World CUP Opening Ceremony",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/06/13 21:00:00 +0000",
+                "endTime": "2026/06/13 23:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+                    "title": "TSN SPORTS ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+                    "title": "TELEMUNDO",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                    "title": "SporTV BR - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+                    "title": "CIGNAL EN",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+                    "title": "TUDN ES",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+                    "title": "CAZE TV - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+                    "title": "RTVE SPANISH",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+                    "title": "M6 FRANCE",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781285452-Kv4cPTAAP5YTi-37675787d18d134a218f85601f931d3bc44a036c-f6c527fdfcd7c42629a5dc53721c9103|referer=https://iframe.rumsport10.live/",
+                    "title": "HD STREAM ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
+                    "title": "BeIN SPORTS HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
+                    "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
+                    "title": "UNiFy TV - IN",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "WNIVF",
+            "title": "ICC Women World Twenty20",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "West Indies Women",
+                "teamB": "New Zealand Women",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/213120/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
+                "eventName": "ICC Women World Twenty20",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/06/13 21:30:00 +0000",
+                "endTime": "2026/06/14 01:30:00 +0000"
             },
             "channels_data": [
                 {
@@ -77,10 +378,213 @@
                 "eventName": "FIFA World Cup",
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
+                "isHot": "1",
                 "Status": "Upcoming",
                 "startTime": "2026/06/13 23:00:00 +0000",
                 "endTime": "2026/06/14 01:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+                    "title": "FOX SPORTS 1 - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+                    "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+                    "title": "TSN SPORTS EN - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+                    "title": "TELEMUNDO - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                    "title": "SporTV BR - AQ ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711",
+                    "link": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
+                    "title": "CANAL SPORTS",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+                    "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+                    "title": "CAZE TV - AQ [PR]",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+                    "title": "Directv TV - AQ [ES]",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "title": "TIPIK FR -AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711",
+                    "link": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
+                    "title": "CANAL SPORTS",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "title": "SPORZA SPORTS  ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+                    "title": "VIX Espanol - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "79737d20a3eaa862f8cb77c61cb3b58c:41df11a0be44fd7272538728cec38bc6",
+                    "link": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd",
+                    "title": "NU9VE - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
+                    "title": "beIN MAX HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "title": "VRT DUTCH - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+                    "title": "ORF GERMAN HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+                    "title": "ZDF GERMAN HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://himelhimuishere.pages.dev/fwc26.m3u8",
+                    "title": "BeIN SPORTS FHD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+                    "title": "JOJ SPORT - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+                    "title": "TSN SPORTS S3",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://tapestry-05.ubg-unettf.xyz/1781209289/e4eabbb150f547c2ad08c065d5be8412/_iIlnlxa_pFbMT6Bs5lPT2CTX4Mtu8cYqsaxv-4hh_8/tsn1-ca.m3u8",
+                    "title": "TSN SPORTS FHD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+                    "title": "ZEE5 HINDI - HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+                    "title": "ZEE5 BENGALI - HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://cdn-tt.pages.dev/ch2.m3u8|cookie=Edge-Cache-Cookie=Expires=1781358390~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fBlSOiaQiu8nmX2wX8B0sfs0BCqyMB-2ecR7FjhzsamItS60uhXgiFU4D7hDOlgckO4-Faw9hjMJDnmk62sv8D",
+                    "title": "TOFFEE BD - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8",
+                    "title": "RAI ITALIAN",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://uplink.lazyspace.online/mytv/zee/stream.php?id=zee53",
+                    "title": "UNITE8 SPORTS 1 - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://uplink.lazyspace.online/mytv/zee/stream.php?id=zee115",
+                    "title": "UNITE8 SPORTS 2 - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "WSIVF",
+            "title": "T20 International",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "West Indies",
+                "teamB": "Sri Lanka",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+                "eventName": "T20 International",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/06/14 04:30:00 +0000",
+                "endTime": "2026/06/14 08:30:00 +0000"
             },
             "channels_data": [
                 {
@@ -105,16 +609,107 @@
                 "eventName": "FIFA World Cup",
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
+                "isHot": "1",
                 "Status": "Upcoming",
                 "startTime": "2026/06/14 05:00:00 +0000",
                 "endTime": "2026/06/14 07:20:00 +0000"
             },
             "channels_data": [
                 {
+                    "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+                    "title": "FOX SPORTS HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+                    "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+                    "title": "TSN SPORTS - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+                    "title": "TELEMUNDO - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+                    "title": "D SPORTS ES- AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+                    "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+                    "title": "CAZE TV BR - AQ ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+                    "title": "TELEMUNDO SPANISH",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+                    "title": "ZDF GERMAN HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+                    "title": "ZEE BANGLA HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+                    "title": "ZEE HINDI HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
                     "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
+                    "link": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
+                    "title": "BEIN SPORTS MAX",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "title": "TIPIK FR - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "title": "SPORZA SPORTS ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+                    "title": "M6 FRANCE - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "title": "VRT DUTCH - AQ",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -133,16 +728,114 @@
                 "eventName": "FIFA World Cup",
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
+                "isHot": "1",
                 "Status": "Upcoming",
                 "startTime": "2026/06/14 08:00:00 +0000",
                 "endTime": "2026/06/14 10:20:00 +0000"
             },
             "channels_data": [
                 {
+                    "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+                    "title": "FOX SPORTS HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+                    "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+                    "title": "TSN SPORTS - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+                    "title": "TELEMUNDO - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+                    "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                    "title": "SPORTV BR - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+                    "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+                    "title": "CAZE TV - AQ [BR]",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+                    "title": "D SPORTS - AQ [ES]",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+                    "title": "TELEMUNDO SPANISH",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+                    "title": "ZDF GERMAN HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+                    "title": "ZEE BANGLA HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+                    "title": "ZEE HINDI HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
                     "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
+                    "link": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
+                    "title": "BEIN SPORTS MAX",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "title": "TIPIK FR - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "title": "SPORZA SPORTS ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+                    "title": "M6 FRANCE - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "title": "VRT DUTCH - AQ",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -254,98 +947,28 @@
             ]
         },
         {
-            "id": "FOIVF",
-            "title": "FIFA World CUP Opening Ceremony",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVEHN7EFX2Sdai8Zso7i-mpe-lA9mf-O01Ir9J6W1I3bJ58ApP7TH7rco&s=10",
-            "cat": "Football",
+            "id": "BNIVF",
+            "title": "ICC Women World Twenty20",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
+            "cat": "Cricket",
             "eventInfo": {
-                "teamA": "FIFA World CUP 26",
-                "teamB": "Opening Ceremony",
-                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVEHN7EFX2Sdai8Zso7i-mpe-lA9mf-O01Ir9J6W1I3bJ58ApP7TH7rco&s=10",
-                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVEHN7EFX2Sdai8Zso7i-mpe-lA9mf-O01Ir9J6W1I3bJ58ApP7TH7rco&s=10",
-                "eventName": "FIFA World CUP Opening Ceremony",
+                "teamA": "Bangladesh Women",
+                "teamB": "Netherlands Women",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187809/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/417753/image",
+                "eventName": "ICC Women World Twenty20",
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/06/14 21:00:00 +0000",
-                "endTime": "2026/06/14 23:30:00 +0000"
+                "startTime": "2026/06/14 13:30:00 +0000",
+                "endTime": "2026/06/14 17:30:00 +0000"
             },
             "channels_data": [
                 {
-                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-                    "title": "TSN SPORTS ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-                    "title": "TELEMUNDO",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-                    "title": "SporTV BR - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
-                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-                    "title": "CIGNAL EN",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
-                    "title": "TUDN ES",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
                     "api": "",
-                    "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
-                    "title": "CAZE TV - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-                    "title": "RTVE SPANISH",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-                    "title": "M6 FRANCE",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781285452-Kv4cPTAAP5YTi-37675787d18d134a218f85601f931d3bc44a036c-f6c527fdfcd7c42629a5dc53721c9103|referer=https://iframe.rumsport10.live/",
-                    "title": "HD STREAM ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
-                    "title": "BeIN SPORTS HD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
-                    "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
-                    "title": "UNiFy TV - IN",
+                    "link": "https://playztv.pages.dev/sss/index.m3u8",
+                    "title": "Link 1",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -770,16 +1393,114 @@
                 "eventName": "FIFA World Cup",
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
+                "isHot": "1",
                 "Status": "Finished",
                 "startTime": "2026/06/14 02:00:00 +0000",
                 "endTime": "2026/06/13 04:20:00 +0000"
             },
             "channels_data": [
                 {
+                    "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+                    "title": "FOX SPORTS HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+                    "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+                    "title": "TSN SPORTS - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+                    "title": "TELEMUNDO - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+                    "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                    "title": "SPORTV BR - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+                    "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+                    "title": "CAZE TV - AQ [BR]",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+                    "title": "D SPORTS - AQ [ES]",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+                    "title": "TELEMUNDO SPANISH",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+                    "title": "ZDF GERMAN HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+                    "title": "ZEE BANGLA HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+                    "title": "ZEE HINDI HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
                     "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
+                    "link": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
+                    "title": "BEIN SPORTS MAX",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "title": "TIPIK FR - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "title": "SPORZA SPORTS ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+                    "title": "M6 FRANCE - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "title": "VRT DUTCH - AQ",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -801,7 +1522,7 @@
                 "isHot": "1",
                 "Status": "Finished",
                 "startTime": "2026/06/13 05:00:00 +0000",
-                "endTime": "2026/06/13 07:20:00 +0000"
+                "endTime": "2026/06/13 07:30:00 +0000"
             },
             "channels_data": [
                 {
@@ -1027,13 +1748,6 @@
                     "title": "BEIN SPORTS FR",
                     "type": "1",
                     "tokenApi": ""
-                },
-                {
-                    "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-                    "link": "https://a158live-pv-ta-amazon.akamaized.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/xzdwr2zf3t/out/v1/b78800b9b2304879b15843f455836829/f13900a0-0e0e-4722-9caf-b8386c5efffa-cenc.mpd",
-                    "title": "FOX SPORTS - 4K [USA]",
-                    "type": "1",
-                    "tokenApi": ""
                 }
             ]
         },
@@ -1053,7 +1767,7 @@
                 "isHot": "1",
                 "Status": "Finished",
                 "startTime": "2026/06/12 23:00:00 +0000",
-                "endTime": "2026/06/13 01:20:00 +0000"
+                "endTime": "2026/06/13 01:30:00 +0000"
             },
             "channels_data": [
                 {
@@ -1332,90 +2046,6 @@
             ]
         },
         {
-            "id": "FFIVF",
-            "title": "Formula 1",
-            "image": "https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png",
-            "cat": "Motorsport",
-            "eventInfo": {
-                "teamA": "Formula 1",
-                "teamB": "Formula 1",
-                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUIVWXAnm1ANXZZKjCXqoFyoZsftoMdlUOU2WAXKhzQ&s=10",
-                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUIVWXAnm1ANXZZKjCXqoFyoZsftoMdlUOU2WAXKhzQ&s=10",
-                "eventName": "Formula 1",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/06/12 15:30:00 +0000",
-                "endTime": "2026/06/12 18:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                    "title": "FANCODE FHD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://chatgpt.hereisman.net/playlist/51883/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "title": "IVANZTV HD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
-                    "title": "TNT SPORTS ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9",
-                    "link": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
-                    "title": "SKY SPORTS DE",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-                    "title": "HD STREAM ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
-                    "title": "TSN SPORTS FHD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
-                    "title": "IVANZTV ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
-                    "title": "F1 TV FHD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
-                    "title": "F1 TV FHD",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": "WSIVF",
             "title": "T20 International",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
@@ -1486,34 +2116,6 @@
             ]
         },
         {
-            "id": "EEIVF",
-            "title": "EUT20 Belgium",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjC6G2PqSt8OZPW3Bsi9McM-Rn5mCRF0_d4u11_n5AA&s",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "EUT20 Belgium",
-                "teamB": "EUT20 Belgium",
-                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjC6G2PqSt8OZPW3Bsi9McM-Rn5mCRF0_d4u11_n5AA&s",
-                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjC6G2PqSt8OZPW3Bsi9McM-Rn5mCRF0_d4u11_n5AA&s",
-                "eventName": "EUT20 Belgium",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/06/11 14:30:00 +0000",
-                "endTime": "2026/06/11 18:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-                    "title": "PREMIER SPORTS ",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": "IAIVF",
             "title": "Tri Nation A Series in Sri Lanka 2026",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaba44Tr-AgNJlJ6JD87e7Xoz3ai5CDZA8KCx_FHy9Ugs=10",
@@ -1533,15 +2135,15 @@
             },
             "channels_data": [
                 {
-                    "api": "5be21df3f18ef64aaaaa30cbdaf128ed:7fac12f58b756a1a52d3150c7d3b0304",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ehfibbt64r/out/v1/242699d5a0484c3b8868d40d763d75cd/cenc.mpd",
+                    "api": "2b33d829f67673f2dd3115625e6e869b:3c0e0637938e507e20e98f5732ba3350",
+                    "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ayd2kslwx1/out/v1/e8bb1125e9cd4a9ab46878de33f326fa/cenc.mpd",
                     "title": "WILLOW - AQ",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
                     "api": "",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi1106/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781192457~acl=/*~id=37645267423801131368683588342239~hmac=e71a5a5fd5f937ee43e6fab40074705c761d06e3aaba7e5c22abe3785faaad0c",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1306/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781365652~acl=/*~id=87928172361466568879749120816278~hmac=bd20a2e2a50925348956135a984746fb83569e2133692ced632caf21db419e30",
                     "title": "SONYLIV ENG",
                     "type": "1",
                     "tokenApi": ""
@@ -1555,28 +2157,28 @@
                 },
                 {
                     "api": "",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi1106/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781192457~acl=/*~id=37645267423801131368683588342239~hmac=e71a5a5fd5f937ee43e6fab40074705c761d06e3aaba7e5c22abe3785faaad0c",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1306/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781365652~acl=/*~id=87928172361466568879749120816278~hmac=bd20a2e2a50925348956135a984746fb83569e2133692ced632caf21db419e30",
                     "title": "SONYLIV HIN",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
                     "api": "",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1106/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781192457~acl=/*~id=37645267423801131368683588342239~hmac=e71a5a5fd5f937ee43e6fab40074705c761d06e3aaba7e5c22abe3785faaad0c",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1306/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781365652~acl=/*~id=87928172361466568879749120816278~hmac=bd20a2e2a50925348956135a984746fb83569e2133692ced632caf21db419e30",
                     "title": "SONYLIV TAM",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
                     "api": "",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1106/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781192457~acl=/*~id=37645267423801131368683588342239~hmac=e71a5a5fd5f937ee43e6fab40074705c761d06e3aaba7e5c22abe3785faaad0c",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1306/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781365652~acl=/*~id=87928172361466568879749120816278~hmac=bd20a2e2a50925348956135a984746fb83569e2133692ced632caf21db419e30",
                     "title": "SONYLIV TEL",
                     "type": "1",
                     "tokenApi": ""
                 },
                 {
                     "api": "",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1106/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781192457~acl=/*~id=37645267423801131368683588342239~hmac=e71a5a5fd5f937ee43e6fab40074705c761d06e3aaba7e5c22abe3785faaad0c",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1306/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781365652~acl=/*~id=87928172361466568879749120816278~hmac=bd20a2e2a50925348956135a984746fb83569e2133692ced632caf21db419e30",
                     "title": "SONYLIV KAN",
                     "type": "1",
                     "tokenApi": ""

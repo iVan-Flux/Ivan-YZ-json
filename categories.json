@@ -12,6 +12,16 @@
     {
         "cat": {
             "visible": true,
+            "hasHeader": false,
+            "name": "FIFA WC26 Highlights",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9Xr6kNvhqZrBtJJXsbecfqarPmb5QIP_IhOOZcvVZg&s=10",
+            "type": "custom",
+            "api": "channels/RklGQSBXQyAyNiBIaWdobGlnaHRzMTc4MTIzMTU1MTMxMw.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
             "name": "India",
             "logo": "https://assets-playztv.pages.dev/category/india.jpg",
             "type": "custom",
@@ -1253,16 +1263,6 @@
             "logo": "https://mms.businesswire.com/media/20240530429365/en/2145074/5/logo_transparent_cb_%281%29.jpg?download=1",
             "type": "m3u",
             "api": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"
-        }
-    },
-    {
-        "cat": {
-            "visible": true,
-            "hasHeader": false,
-            "name": "FIFA WC 26 Highlights",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9Xr6kNvhqZrBtJJXsbecfqarPmb5QIP_IhOOZcvVZg&s=10",
-            "type": "custom",
-            "api": "channels/RklGQSBXQyAyNiBIaWdobGlnaHRzMTc4MTIzMTU1MTMxMw.txt"
         }
     }
 ]

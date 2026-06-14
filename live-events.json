@@ -3,200 +3,11 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:31:20 AM 14-06-2026",
-    " Live : 00 ": "",
-    "Upcoming : 18": "",
-    "Finish : 27 ": "",
+    "Last update time": "09:12:38 AM 14-06-2026",
+    " Live : 02 ": "",
+    "Upcoming : 13": "",
+    "Finish : 29 ": "",
     "events": [
-        {
-            "id": "WSIVF",
-            "title": "T20 International",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "West Indies",
-                "teamB": "Sri Lanka",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-                "eventName": "T20 International",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/06/14 04:30:00 +0000",
-                "endTime": "2026/06/14 08:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                    "title": "FANCODE FHD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "e6b07ce99d782b87ecb6d59271803cfa:484b67b5c7a9e216048d1f96d463d35b",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jhqjttghwl/out/v1/75d406c64f6141e7bbcf379d6643af54/cenc.mpd",
-                    "title": "WILLOW - AQ [Ad Free]",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-                    "title": "FANCODE SD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
-                    "title": "TNT Sports",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://cdn9859.shop/willoweng.m3u8",
-                    "title": "WILLOW - HD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "http://193.47.62.59/hls/EEEE.m3u8|referer=http://www.fawanews.sc/",
-                    "title": "SD STREAM ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1036.m3u8",
-                    "title": "TNT SPORTS HD",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "HSIVF",
-            "title": "FIFA World Cup",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Haiti",
-                "teamB": "Scotland",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/7229/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4695/image",
-                "eventName": "FIFA World Cup",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "1",
-                "Status": "Upcoming",
-                "startTime": "2026/06/14 05:00:00 +0000",
-                "endTime": "2026/06/14 07:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-                    "title": "FOX SPORTS HD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-                    "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-                    "title": "TSN SPORTS - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-                    "title": "TELEMUNDO - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-                    "title": "D SPORTS ES- AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
-                    "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
-                    "title": "CAZE TV BR - AQ ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-                    "title": "TELEMUNDO SPANISH",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-                    "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-                    "title": "ZDF GERMAN HD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
-                    "title": "ZEE BANGLA HD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
-                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
-                    "title": "ZEE HINDI HD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
-                    "title": "BEIN SPORTS MAX",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-                    "title": "TIPIK FR - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-                    "title": "SPORZA SPORTS ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-                    "title": "M6 FRANCE - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-                    "title": "VRT DUTCH - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
         {
             "id": "ATIVF",
             "title": "FIFA World Cup",
@@ -211,7 +22,7 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "1",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/14 08:00:00 +0000",
                 "endTime": "2026/06/14 10:20:00 +0000"
             },
@@ -220,6 +31,13 @@
                     "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
                     "title": "FOX SPORTS HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+                    "link": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+                    "title": "FOX SPORTS 4k",
                     "type": "1",
                     "tokenApi": ""
                 },
@@ -320,6 +138,13 @@
                     "title": "VRT DUTCH - AQ",
                     "type": "1",
                     "tokenApi": ""
+                },
+                {
+                    "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
+                    "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+                    "title": "Match Football ",
+                    "type": "1",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -337,7 +162,7 @@
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/06/14 09:00:00 +0000",
                 "endTime": "2026/06/14 13:00:00 +0000"
             },
@@ -515,34 +340,6 @@
                 "Status": "Upcoming",
                 "startTime": "2026/06/15 00:00:00 +0000",
                 "endTime": "2026/06/15 02:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "title": "Link 1",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "CEIVF",
-            "title": "FIFA World Cup",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Côte d'Ivoire",
-                "teamB": "Ecuador",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4768/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4757/image",
-                "eventName": "FIFA World Cup",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/06/15 03:00:00 +0000",
-                "endTime": "2026/06/14 05:20:00 +0000"
             },
             "channels_data": [
                 {
@@ -877,28 +674,63 @@
             ]
         },
         {
-            "id": "BMIVF",
+            "id": "CEIVF",
             "title": "FIFA World Cup",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
             "cat": "Football",
             "eventInfo": {
-                "teamA": "Brazil",
-                "teamB": "Morocco",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4748/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4778/image",
+                "teamA": "Côte d'Ivoire",
+                "teamB": "Ecuador",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4768/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4757/image",
+                "eventName": "FIFA World Cup",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Finished",
+                "startTime": "2026/06/15 03:00:00 +0000",
+                "endTime": "2026/06/14 05:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "",
+                    "link": "https://playztv.pages.dev/sss/index.m3u8",
+                    "title": "Link 1",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "HSIVF",
+            "title": "FIFA World Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Haiti",
+                "teamB": "Scotland",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/7229/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4695/image",
                 "eventName": "FIFA World Cup",
                 "eventType": "null",
                 "eventBanner": "https://iili.io/CJa3rDF.png",
                 "isHot": "1",
                 "Status": "Finished",
-                "startTime": "2026/06/14 02:00:00 +0000",
-                "endTime": "2026/06/13 04:20:00 +0000"
+                "startTime": "2026/06/14 05:00:00 +0000",
+                "endTime": "2026/06/14 07:20:00 +0000"
             },
             "channels_data": [
                 {
                     "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
                     "title": "FOX SPORTS HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+                    "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+                    "title": "FUSSBALL TV - AQ",
                     "type": "1",
                     "tokenApi": ""
                 },
@@ -910,37 +742,9 @@
                     "tokenApi": ""
                 },
                 {
-                    "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-                    "title": "D SPORTS - AQ [ES]",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://601.thelistener.pk/tsn.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-                    "title": "TSN SPORTS FHD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
-                    "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
-                    "title": "CAZE TV - AQ [BR]",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
                     "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
                     "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd?",
-                    "title": "M6 FRANCE - AQ ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-                    "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd",
-                    "title": "RTÉ SPORTS ENG - AQ",
+                    "title": "M6 FRANCE - AQ [No delay]",
                     "type": "1",
                     "tokenApi": ""
                 },
@@ -952,9 +756,16 @@
                     "tokenApi": ""
                 },
                 {
-                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-                    "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-                    "title": "SPORTV BR - AQ",
+                    "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+                    "title": "D SPORTS ES- AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+                    "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+                    "title": "CAZE TV BR - AQ ",
                     "type": "1",
                     "tokenApi": ""
                 },
@@ -969,20 +780,6 @@
                     "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
                     "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
                     "title": "ZDF GERMAN HD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://d1voy022wjnlk0.bioscopelive.com/out/v1/0bbe405e711143b8af5ee21b80b5b0cc/index.m3u8|x-authorization=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzJkYjE1MjJmMDU0ZDg1Yzc3NmFmZjlkNDU2NjcxODNlNmZlNWNjYWUwYjAwNWI1OTVhMTAxY2RmNDNlYmIyY2YzMTBiZDExMTZlOTQ4YjEiLCJpYXQiOjE3ODA3OTcxMzEuNTQwNDAxLCJuYmYiOjE3ODA3OTcxMzEuNTQwNDAzLCJleHAiOjE4MTIzMzMxMzEuNTM1MDMyLCJzdWIiOiIxODAwMDA4NDg5MDA2NjUzNDQiLCJzY29wZXMiOlsibWFuYWdlX3Byb2ZpbGVzIl19.a6GUyqbwLfixROwUhNTzaYrrYBgVR6FHI_40FpjZ9l7P20WHcv-7AbEz-XPYhGnb1Q9JHAKdMA9pBY1Od2UZsYeEw6f7Myjc0VK2kqqXdagwHTlIHvHwxkoTVfpagQNiJF4ffJZ_6j87aCR6PEUEuTWQwjnLjbnvBpu0cgLUr5p56sHGm0mGV_vbIFirvZHVYwxLZGjBmo-njpfZcvuQPq5sUT3n-j4VNX4sh8tsvaAJaqlXLnq-DIGTBGNu9efsHNTiMzFUk5gEOYlWnNGewcbsuDsP3QFINeUBRzjBP9bPXjHfv5tmvKfQaExPZgFpxpWpZyQ5PZnmuxvWawNMKLBGV3qWqNPeVc1Fphhac3vloTNtMK5UP7EZtDRUQoJWra1irCMYn0ao1oEzfrtinhw038aNSe9z5EmF_tCi0XnQigVJM_XLwmgWbVxsWq92iC3HU2dHcelqMNiFk9gMleKIgGVA2sDeLfNsM0pco8656R7TySgSBycVvTyyU4_G1QVafpmPp5Lcmhi4KxVBAOAhY5iy0ZLDC4jO366wy_5yguY7sVPb6JWiUATVcBsLbvIPmgM9laQEZttxLMPHpnlPwUGljip5J61E235GXAV-WStahGaagjgja7dDRFwPVzvlMzSX9S7MpyVyRejmre60x8HvXkgCLhEfEn027YM",
-                    "title": "BIOSCOPE BD - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_1024.m3u8|cookie=Edge-Cache-Cookie=\"Expires=1781415393~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3eFW3lwWwJGJBIr5qrj79fKGDEx8nnx9hdL4oV57YEfj9y8LNJikdItizFvvN4Xu_bLnXhf7j3V7-3R1JswdQkP\"",
-                    "title": "TOFFEE BD - AQ",
                     "type": "1",
                     "tokenApi": ""
                 },
@@ -1034,6 +831,258 @@
                     "title": "VRT DUTCH - AQ",
                     "type": "1",
                     "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "WSIVF",
+            "title": "T20 International",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "West Indies",
+                "teamB": "Sri Lanka",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+                "eventName": "T20 International",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "0",
+                "Status": "Finished",
+                "startTime": "2026/06/14 04:30:00 +0000",
+                "endTime": "2026/06/14 08:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "a9dae75b6cb99349a1556075b84a47cf:4e352802192626f915e9c69e635ce2ae",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rwlkwsuzy2/out/v1/e8065dc98ade40eb8efceaf93102c265/cenc.mpd",
+                    "title": "WILLOW - AQ [Ad Free]",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                    "title": "FANCODE FHD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+                    "title": "FANCODE SD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+                    "title": "TNT Sports",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://cdn9859.shop/willoweng.m3u8",
+                    "title": "WILLOW - HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://193.47.62.59/hls/EEEE.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "SD STREAM ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1036.m3u8",
+                    "title": "TNT SPORTS HD",
+                    "type": "1",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": "BMIVF",
+            "title": "FIFA World Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Brazil",
+                "teamB": "Morocco",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4748/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4778/image",
+                "eventName": "FIFA World Cup",
+                "eventType": "null",
+                "eventBanner": "https://iili.io/CJa3rDF.png",
+                "isHot": "1",
+                "Status": "Finished",
+                "startTime": "2026/06/14 02:00:00 +0000",
+                "endTime": "2026/06/13 04:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+                    "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+                    "title": "FUSSBALL TV - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+                    "title": "FOX SPORTS HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd?",
+                    "title": "M6 FRANCE - AQ [No delay]",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+                    "link": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+                    "title": "FOX SPORTS 4k",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+                    "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+                    "title": "FUSSBALL TV 4k",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+                    "title": "TELEMUNDO - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+                    "title": "D SPORTS - AQ [ES]",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "a75159d7860a2e8a5734c97fb8dbf395:b511b661644a2a8f8f222a76bcc6a0c1",
+                    "link": "https://a20live-pv-ta-amazon.akamaized.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/pdjyvd4kr3/out/v1/2338e2a81148432d8e2178a3059b6edb/8a72a3b3-0bfa-479b-ae38-1f2bd03305e4-cenc.mpd",
+                    "title": "4K SPORTS",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+                    "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+                    "title": "FIFA TV ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+                    "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd",
+                    "title": "RTÉ SPORTS ENG - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
+                    "title": "RTBGO - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+                    "link": "https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+                    "title": "CAZE TV - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+                    "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                    "title": "SPORTV BR - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+                    "title": "TELEMUNDO SPANISH",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+                    "title": "ZDF GERMAN HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://d1voy022wjnlk0.bioscopelive.com/out/v1/0bbe405e711143b8af5ee21b80b5b0cc/index.m3u8|x-authorization=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzJkYjE1MjJmMDU0ZDg1Yzc3NmFmZjlkNDU2NjcxODNlNmZlNWNjYWUwYjAwNWI1OTVhMTAxY2RmNDNlYmIyY2YzMTBiZDExMTZlOTQ4YjEiLCJpYXQiOjE3ODA3OTcxMzEuNTQwNDAxLCJuYmYiOjE3ODA3OTcxMzEuNTQwNDAzLCJleHAiOjE4MTIzMzMxMzEuNTM1MDMyLCJzdWIiOiIxODAwMDA4NDg5MDA2NjUzNDQiLCJzY29wZXMiOlsibWFuYWdlX3Byb2ZpbGVzIl19.a6GUyqbwLfixROwUhNTzaYrrYBgVR6FHI_40FpjZ9l7P20WHcv-7AbEz-XPYhGnb1Q9JHAKdMA9pBY1Od2UZsYeEw6f7Myjc0VK2kqqXdagwHTlIHvHwxkoTVfpagQNiJF4ffJZ_6j87aCR6PEUEuTWQwjnLjbnvBpu0cgLUr5p56sHGm0mGV_vbIFirvZHVYwxLZGjBmo-njpfZcvuQPq5sUT3n-j4VNX4sh8tsvaAJaqlXLnq-DIGTBGNu9efsHNTiMzFUk5gEOYlWnNGewcbsuDsP3QFINeUBRzjBP9bPXjHfv5tmvKfQaExPZgFpxpWpZyQ5PZnmuxvWawNMKLBGV3qWqNPeVc1Fphhac3vloTNtMK5UP7EZtDRUQoJWra1irCMYn0ao1oEzfrtinhw038aNSe9z5EmF_tCi0XnQigVJM_XLwmgWbVxsWq92iC3HU2dHcelqMNiFk9gMleKIgGVA2sDeLfNsM0pco8656R7TySgSBycVvTyyU4_G1QVafpmPp5Lcmhi4KxVBAOAhY5iy0ZLDC4jO366wy_5yguY7sVPb6JWiUATVcBsLbvIPmgM9laQEZttxLMPHpnlPwUGljip5J61E235GXAV-WStahGaagjgja7dDRFwPVzvlMzSX9S7MpyVyRejmre60x8HvXkgCLhEfEn027YM",
+                    "title": "BIOSCOPE BD - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/1/master_2200.m3u8|cookie=Edge-Cache-Cookie=\"Expires=1781415393~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3eFW3lwWwJGJBIr5qrj79fKGDEx8nnx9hdL4oV57YEfj9y8LNJikdItizFvvN4Xu_bLnXhf7j3V7-3R1JswdQkP\"",
+                    "title": "TOFFEE BD - HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+                    "title": "ZEE BANGLA HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+                    "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+                    "title": "ZEE HINDI HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
+                    "title": "BEIN SPORTS MAX",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "title": "TIPIK FR - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "title": "SPORZA SPORTS ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "title": "VRT DUTCH - AQ",
+                    "type": "1",
+                    "tokenApi": ""
                 },
                 {
                     "api": "",
@@ -1060,6 +1109,69 @@
                     "api": "",
                     "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
                     "title": "RTBGO - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoEMCzZ6Ytv.m3u8?txSecret=a070f2669cf64273a60442ffd9b45138&txTime=6A2DF249",
+                    "title": "FAST SERVER",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/bydEQp0Upl1qODZU4qpqADmNoX9xsqVzVnZY_EKfNBpqEuiSK9EW5vC336uky-9KUd-3lMgBw5IEd4F2WP1iOQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+                    "title": "beIN MAX FHD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://chatgpt.hereisman.net/playlist/51981/load-playlist?|Referer=https://gooz.aapmains.net",
+                    "title": "FOX SPORTS HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+                    "title": "VIX SPANISH - AQ",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "http://193.47.62.41/hls/PPPPQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "title": "SD SERVER",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://chatgpt.hereisman.net/playlist/51980/load-playlist?|Referer=https://gooz.aapmains.net",
+                    "title": "TSN SPORTS HD",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
+                    "title": "SOMOY TV",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoEMCzZ6Ytv.m3u8?txSecret=a070f2669cf64273a60442ffd9b45138&txTime=6A2DF249",
+                    "title": "FAST SERVER 2",
+                    "type": "1",
+                    "tokenApi": ""
+                },
+                {
+                    "api": "",
+                    "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8|cookie=Edge-Cache-Cookie=\"Expires=1781415393~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3eFW3lwWwJGJBIr5qrj79fKGDEx8nnx9hdL4oV57YEfj9y8LNJikdItizFvvN4Xu_bLnXhf7j3V7-3R1JswdQkP\"",
+                    "title": "TOFFEE BD - FHD",
                     "type": "1",
                     "tokenApi": ""
                 }
@@ -1333,48 +1445,6 @@
                     "api": "",
                     "link": "http://193.47.62.45/hls/PPPP.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
                     "title": "SD STREAM ES",
-                    "type": "1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": "WNIVF",
-            "title": "ICC Women World Twenty20",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "West Indies Women",
-                "teamB": "New Zealand Women",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/213120/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
-                "eventName": "ICC Women World Twenty20",
-                "eventType": "null",
-                "eventBanner": "https://iili.io/CJa3rDF.png",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/06/13 21:30:00 +0000",
-                "endTime": "2026/06/14 01:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "api": "311555093f40b2580b055a9e6d8d11c6:748d3c24912ba09c25b798d626f8da53",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gifknscaoi/out/v1/e0e874a7f498417db7e79810114711ae/cenc.mpd",
-                    "title": "WILLOW - AQ",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "title": "WILLOW HD",
-                    "type": "1",
-                    "tokenApi": ""
-                },
-                {
-                    "api": "",
-                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
-                    "title": "SKY SPORTS CRICKET",
                     "type": "1",
                     "tokenApi": ""
                 }

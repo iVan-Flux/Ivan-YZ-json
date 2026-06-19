@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:45:49 AM 20-06-2026",
+    "Last update time": "12:50:48 AM 20-06-2026",
     "Live": "02",
     "Upcoming": "39",
     "Finish": "26",
@@ -489,6 +489,14 @@
             },
             "channels_data": [
                 {
+                    "title": "RTB ENGLISH - AQ",
+                    "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FOX ENGLISH HD",
                     "link": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
                     "logo": "",
@@ -497,8 +505,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "RTB ENGLISH - AQ",
-                    "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+                    "title": "RTB SPORTS FHD",
+                    "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -513,11 +521,11 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "TIPIK FR - AQ",
-                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "title": "M6 FRANCE - AQ [No delay]",
+                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
                     "tokenApi": ""
                 },
                 {
@@ -538,6 +546,22 @@
                     }
                 },
                 {
+                    "title": "TIPIK FR - AQ",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS FHD",
+                    "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+                    "tokenApi": ""
+                },
+                {
                     "title": "RTE ENGLISH HD",
                     "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/9217f1b8-7d77-4590-8a52-4917bcfaeed2:GRQ/manifest.mpd",
                     "logo": "",
@@ -546,11 +570,59 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "CIGNAL ENGLISH",
-                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
+                    "title": "JOJ SPORTS - AQ",
+                    "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOOTBOLL RUSSIA",
+                    "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CT SPORTS - AQ",
+                    "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PZIRB - 4K",
+                    "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "Match TV HD",
+                    "link": "https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TVP POLISH FHD",
+                    "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "D SPORTS - AQ [ES]",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
                     "tokenApi": ""
                 },
                 {
@@ -559,14 +631,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "D SPORTS - AQ [ES]",
-                    "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
                     "tokenApi": ""
                 },
                 {
@@ -586,14 +650,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "M6 FRANCE - AQ [No delay]",
-                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-                    "tokenApi": ""
-                },
-                {
                     "title": "FOX SPORTS 4k",
                     "link": "https://a35live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/pfcxjf1zas/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
                     "logo": "",
@@ -602,43 +658,11 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FOX SPORTS FHD",
-                    "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-                    "tokenApi": ""
-                },
-                {
                     "title": "TUDN ESPANOL - AQ",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "CAZE TV - AQ [BR]",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "CT SPORTS - AQ",
-                    "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "JOJ SPORT - AQ",
-                    "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
                     "tokenApi": ""
                 },
                 {
@@ -655,38 +679,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "PZIRB - 4K",
-                    "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FOOTBOLL RUSSIA",
-                    "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "Match TV HD",
-                    "link": "https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TVP POLISH FHD",
-                    "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -711,6 +703,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CIGNAL ENGLISH",
+                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
                     "tokenApi": ""
                 },
                 {
@@ -746,14 +746,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "BBC SPORTS UK",
-                    "link": "https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=356&redirect_stream=true&api_password=Milito22.",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
                     "title": "FUSSBALL TV",
                     "link": "https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=263&redirect_stream=true&api_password=Milito22.",
                     "logo": "",
@@ -762,24 +754,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "PTV SPORTS HD",
-                    "link": "https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=450&redirect_stream=true&api_password=Milito22.",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
                     "title": "T SPORTS HD",
                     "link": "https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=270&redirect_stream=true&api_password=Milito22.",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "BeIN ARABIC FHD",
-                    "link": "https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=966&redirect_stream=true&api_password=Milito22.",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3385,6 +3361,279 @@
                 "endTime": "2026/06/19 04:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "RTB ENGLISH - AQ",
+                    "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX ENGLISH HD",
+                    "link": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "RTB SPORTS FHD",
+                    "link": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN ENGLISH - AQ",
+                    "link": "https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "M6 FRANCE - AQ [No delay]",
+                    "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TIPIK FR - AQ",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS FHD",
+                    "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "RTE ENGLISH HD",
+                    "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/9217f1b8-7d77-4590-8a52-4917bcfaeed2:GRQ/manifest.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TOFFEE BD - AQ",
+                    "link": "https://cdn-tt.pages.dev/ch2.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "https://cdn-tt.pages.dev/ch2.m3u8",
+                        "api": "https://cdn-tt.pages.dev/ch2.m3u8",
+                        "type": "sp",
+                        "link_key": "playbakcs_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "JOJ SPORTS - AQ",
+                    "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOOTBOLL RUSSIA",
+                    "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CT SPORTS - AQ",
+                    "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PZIRB - 4K",
+                    "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "Match TV HD",
+                    "link": "https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TVP POLISH FHD",
+                    "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "D SPORTS - AQ [ES]",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CAZE TV - AQ [BR]",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CTV SPORTS - AQ",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rcgdlutvzh/out/v1/d08fb8f93d8142be9ae3305e3c953694/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1fb1ab890f1b9392db40321042ad194b:7c9d16a71ccdb3ced4ff1344c8c75d67",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CGP ENGLISH - AQ",
+                    "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS 4k",
+                    "link": "https://a35live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/pfcxjf1zas/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TUDN ESPANOL - AQ",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TELEMUNDO SPANISH",
+                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SPORZA SPORTS ",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ZDF GERMAN HD",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ORF GERMAN HD",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SporTV BR - AQ",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CIGNAL ENGLISH",
+                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUSSBALL 4K",
+                    "link": "http://starhub.pro/live/farhat-3379/67897-913379/742610.ts",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BEIN SPORTS MAX",
+                    "link": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SOMOY TV HD",
+                    "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "UNITE8 HINDI FHD",
+                    "link": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/741567.ts",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUSSBALL TV",
+                    "link": "https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=263&redirect_stream=true&api_password=Milito22.",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "T SPORTS HD",
+                    "link": "https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=270&redirect_stream=true&api_password=Milito22.",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "FUSSBALL 4K [GER]",
                     "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",

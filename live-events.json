@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:55:37 AM 21-06-2026",
+    "Last update time": "01:01:01 AM 21-06-2026",
     "Live": "02",
     "Upcoming": "33",
     "Finish": "29",
@@ -322,7 +322,7 @@
                 },
                 {
                     "title": "FAST SERVER",
-                    "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgU4C4bo4qHG.m3u8?txSecret=59b857c54fa14b06538728e85724d862&txTime=6A334B08",
+                    "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgTsCfFPwFWn.m3u8?txSecret=945b54c1caddd76ee551605c473f8ff7&txTime=6A337538",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -362,7 +362,7 @@
                 },
                 {
                     "title": "HD STREAM ENG",
-                    "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -378,7 +378,7 @@
                 },
                 {
                     "title": "ARABIC HD",
-                    "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "link": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -394,15 +394,15 @@
                 },
                 {
                     "title": "SD STREAM ES",
-                    "link": "http://193.47.62.51/hls/dXZRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "link": "http://193.47.62.59/hls/dXZRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD STREAM NL",
-                    "link": "http://193.47.62.55/hls/dXZRRRZa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "title": "SD STREAM JP",
+                    "link": "https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -486,6 +486,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BeIN ARABIC - AQ",
+                    "link": "https://23cup.s3.us-east-2.amazonaws.com/max2/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

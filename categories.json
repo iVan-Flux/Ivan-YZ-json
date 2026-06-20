@@ -386,7 +386,8 @@
     },
     {
         "cat": {
-            "visible": true,
+            "visible": false,
+            "hasHeader": false,
             "name": "Moveonjoy",
             "logo": "https://assets-playztv.pages.dev/category/Moveonjoy.jpg",
             "type": "m3u",
@@ -634,7 +635,8 @@
     },
     {
         "cat": {
-            "visible": true,
+            "visible": false,
+            "hasHeader": false,
             "name": "Play Tv",
             "logo": "https://i.postimg.cc/Xvt90Gjc/Picsart_26_02_03_10_46_07_704.jpg",
             "type": "m3u",

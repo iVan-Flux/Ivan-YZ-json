@@ -1051,7 +1051,8 @@
     },
     {
         "cat": {
-            "visible": true,
+            "visible": false,
+            "hasHeader": false,
             "name": "OneTime Tv",
             "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSfYgjQLfgH1ueK2oZSlYdzVi_aGHY_K50YLkSvpXIBRZccMEkEWQqJC2T_Qm4VRwT8VX3oRAEhVqLcK1spa0peoyD8RItUneEpO_hlyLZv461Y2ku17a7s2QDJXJtqi2WxMIjUG3Q85tH4bYyON3yvCJgLN-MzF-II2lywwzOKoBM8WYkhQZy8I1XB6E/s1600/1000428006.jpg",
             "type": "m3u",

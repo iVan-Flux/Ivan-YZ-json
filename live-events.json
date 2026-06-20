@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:05:36 PM 20-06-2026",
+    "Last update time": "10:10:56 PM 20-06-2026",
     "Live": "02",
     "Upcoming": "36",
     "Finish": "26",
@@ -189,6 +189,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS S2",
+                    "link": "https://gffgfhhf.fgg-4le.pages.dev/1781982360/21e398f2b0c74d8ba7848faffc8dc93e/2iqdX36w2_-eWuFSbRlI2AclKyAsoBXeVUutS60SILk/fox-usa.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -459,6 +467,30 @@
                 {
                     "title": "SD STREAM NL",
                     "link": "http://193.47.62.55/hls/dXZRRRZa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TELEMUNDO 4k",
+                    "link": "https://gffgfhhf.fgg-4le.pages.dev/1781982428/747ba55f24ba4cbeb6c8e5b7bac9f835/s1Pl8Z8-1NQmXR98KI2FGC-H6fixfl21NBccJaGjHXM/telemundo-4k.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BBC SPORTS 4K",
+                    "link": "https://gffgfhhf.fgg-4le.pages.dev/1781982475/a28d994c57704d2183f3998b00dd1a6b/HkVCFQxAb4HGLdi5ZsBJ4Q0fPcSW3huxfSpx0dF2Pjg/bbc-4k.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUSBALL 4K",
+                    "link": "https://gffgfhhf.fgg-4le.pages.dev/1781982518/f6c93d77e2344dc196958ba8172219e4/0lzmjKf9SUAi_LnsaJPzyQI_WouGdePaBMp7G1E_P_A/fusballtv2uhd-de.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

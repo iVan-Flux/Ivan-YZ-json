@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:20:52 AM 21-06-2026",
+    "Last update time": "02:25:37 AM 21-06-2026",
     "Live": "02",
     "Upcoming": "33",
     "Finish": "28",
@@ -179,6 +179,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX-MUNDIAL - AQ",
+                    "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
                     "tokenApi": ""
                 },
                 {

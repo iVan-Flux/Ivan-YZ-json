@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:31:14 PM 20-06-2026",
+    "Last update time": "11:35:37 PM 20-06-2026",
     "Live": "02",
     "Upcoming": "34",
     "Finish": "28",
@@ -910,7 +910,7 @@
         },
         {
             "id": 0,
-            "title": "Tri Nation A Series in Sri Lanka 2026",
+            "title": "Tri Nation A Series in Sri Lanka - Final",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaba44Tr-AgNJlJ6JD87e7Xoz3ai5CDZA8KCx_FHy9Ugs=10",
             "cat": "Cricket",
             "eventInfo": {
@@ -918,7 +918,7 @@
                 "teamB": "Sri Lanka A",
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-                "eventName": "Tri Nation A Series in Sri Lanka 2026",
+                "eventName": "Tri Nation A Series in Sri Lanka - Final",
                 "isHot": "0",
                 "Status": "Upcoming",
                 "startTime": "2026/06/21 04:30:00 +0000",

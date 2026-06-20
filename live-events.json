@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:35:32 PM 20-06-2026",
+    "Last update time": "01:40:50 PM 20-06-2026",
     "Live": "01",
     "Upcoming": "37",
     "Finish": "26",
@@ -42,6 +42,22 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "TAPMAD - AQ",
+                    "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SS ENGLISH - IN",
+                    "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SS HINDI - IN",
                     "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?%7Ccookie=__hdnea__=st=1781940080~exp=1781961680~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=332bbca89d12ccd78984fe970d9cfd3dec7cf4462e0d3a78b00bee386b6204ab&referer=https://www.jiotv.com/&origin=https://www.jiotv.com",
                     "logo": "",
@@ -50,8 +66,16 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "TAPMAD - AQ",
-                    "link": "https://pastebin.com/raw/bmKAEgyh|user-agent=playztv",
+                    "title": "SS TAMIL - IN",
+                    "link": "https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SS TELUGU - IN",
+                    "link": "https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
                     "logo": "",
                     "type": 0,
                     "api": "",

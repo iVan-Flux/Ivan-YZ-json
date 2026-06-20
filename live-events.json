@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:10:49 AM 20-06-2026",
+    "Last update time": "06:15:45 AM 20-06-2026",
     "Live": "01",
     "Upcoming": "39",
     "Finish": "26",
@@ -99,6 +99,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "CAZE TV - AQ [BR]",
+                    "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                    "tokenApi": ""
+                },
+                {
                     "title": "RTE ENGLISH HD",
                     "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/9217f1b8-7d77-4590-8a52-4917bcfaeed2:GRQ/manifest.mpd",
                     "logo": "",
@@ -107,11 +115,43 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "VIX SPANISH - AQ",
+                    "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VT SPORTS - AQ",
+                    "link": "https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "JOJ SPORTS - AQ",
                     "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SporTV BR - AQ",
+                    "link": "https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "D SPORTS - AQ [ES]",
+                    "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
                     "tokenApi": ""
                 },
                 {
@@ -184,38 +224,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "D SPORTS - AQ [ES]",
-                    "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "VIX SPANISH - AQ",
-                    "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "CAZE TV - AQ [BR]",
-                    "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SporTV BR - AQ",
-                    "link": "https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
                     "tokenApi": ""
                 },
                 {
@@ -309,14 +317,6 @@
                 {
                     "title": "ARABIC FHD",
                     "link": "https://live-global-cdn-v02.sooplive.com/live-stm-08/auth_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.ZMpQ76npYw7t3Vyqy0INtB7rTNWGsdpZSmuy0jF8veQpcyKlII3dypMDn4uuhmcgNGKS1f-lsNwwJod_sGLS18MxJiCB7d1UMzWiIo9Dzu5CBj9VJQrFWYAVUmtzOSmSh4gcGXT3btL0Em-D3e82n4YsM2Z4QvfVNDjdkTin2gGQ4HZcxHfE_Ym-Y52Ka_6c",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "VT SPORTS - AQ",
-                    "link": "https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "",

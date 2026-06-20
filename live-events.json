@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:10:56 PM 20-06-2026",
+    "Last update time": "10:15:46 PM 20-06-2026",
     "Live": "02",
     "Upcoming": "36",
     "Finish": "26",
@@ -491,6 +491,38 @@
                 {
                     "title": "FUSBALL 4K",
                     "link": "https://gffgfhhf.fgg-4le.pages.dev/1781982518/f6c93d77e2344dc196958ba8172219e4/0lzmjKf9SUAi_LnsaJPzyQI_WouGdePaBMp7G1E_P_A/fusballtv2uhd-de.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN SPORTS 4K",
+                    "link": "https://gffgfhhf.fgg-4le.pages.dev/1781982626/e5d3a88b7aed4dca9b119310d694af0f/VLnvMuRsQERmZF18PlJTmeBOsQC4u5KcH4woiML0ZQg/tsn-4k.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN SPORTS 4K S2",
+                    "link": "https://streamxyz.shop/tsn4k/index.m3u8?expires=1781974055&secret=pMA3rIhFNaXkOX5kQ4BfcTu|referer=https://xyzstreams.shop/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BEIN ARABIC MAX",
+                    "link": "https://gffgfhhf.fgg-4le.pages.dev/1781982587/9715d405249542c281f5b56c6f63ac67/eW4xzPaod0w1jQ0K-j4C6B_w0qfwQe25MghVp7XA7PM/beinsportsmax-sa.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS 4K",
+                    "link": "https://streamxyz.shop/fox4k/index.m3u8?expires=1781973966&secret=pMA3rIhFNaXkOX5kQ4BfcTu|referer=https://xyzstreams.shop/",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -802,7 +802,7 @@
     },
     {
         "cat": {
-            "visible": true,
+            "visible": false,
             "hasHeader": false,
             "name": "Pirates TV",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSII0eZscpNmCF6bLalyjknZNbGpWb8DMfHuA&s",

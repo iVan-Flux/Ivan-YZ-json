@@ -3,10 +3,10 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:40:46 PM 20-06-2026",
+    "Last update time": "06:45:45 PM 20-06-2026",
     "Live": "02",
     "Upcoming": "35",
-    "Finish": "27",
+    "Finish": "26",
     "events": [
         {
             "id": 0,
@@ -112,11 +112,19 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
+                    "title": "WILLOW - AQ",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jzdcmsg42z/out/v1/04ed24f3421745a9ba1838971d36316f/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "36d3c540acc063a248ef7fc725a1b828:ae593b3c9f1c55cf4a819d2409051273",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PRIME VIDEO ",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/87d0tehlad/out/v1/403835568f5b4e3ca2d201cc88b594ee/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "ee0c99be51120d109657df5229b48b01:6f0cc18e09de8ec73414bb2209d6c63b",
                     "tokenApi": ""
                 }
             ]
@@ -3105,57 +3113,6 @@
                 {
                     "title": "FAST SERVER",
                     "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHRyyCAADozN.m3u8?txSecret=21fa3d1c8edc2c86267730244113a1d7&txTime=6A35B5C8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 0,
-            "title": "ICC Women World Twenty20",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "New Zealand Women",
-                "teamB": "Ireland Women",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/213115/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/213116/image",
-                "eventName": "ICC Women World Twenty20",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/06/19 17:30:00 +0000",
-                "endTime": "2026/06/19 21:45:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "WILLOW - AQ",
-                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ddltippcsg/out/v1/efd365da72074ea4884e26cbe9961b9e/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "0afe9f50c05f661952ff7e909d94309b:6e0443d0a98cb590f0dac249665deacc",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW SP - AQ",
-                    "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SKY SPORTS CRICKET",
-                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD STREAM ",
-                    "link": "http://193.47.62.41/hls/rararaaaA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

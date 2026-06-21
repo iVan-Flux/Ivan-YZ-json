@@ -3,10 +3,10 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "05:45:40 AM 21-06-2026",
+    "Last update time": "05:50:48 AM 21-06-2026",
     "Live": "01",
-    "Upcoming": "32",
-    "Finish": "30",
+    "Upcoming": "31",
+    "Finish": "31",
     "events": [
         {
             "id": 0,
@@ -911,33 +911,6 @@
                 "Status": "Upcoming",
                 "startTime": "2026/06/21 19:00:00 +0000",
                 "endTime": "2026/06/21 21:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 0,
-            "title": "FIFA World Cup",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Uruguay",
-                "teamB": "Cabo Verde",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4725/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4753/image",
-                "eventName": "FIFA World Cup",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/06/21 22:00:00 +0000",
-                "endTime": "2026/06/21 00:20:00 +0000"
             },
             "channels_data": [
                 {
@@ -2387,6 +2360,33 @@
                 "Status": "Upcoming",
                 "startTime": "2026/06/26 02:00:00 +0000",
                 "endTime": "2026/06/26 04:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://playztv.pages.dev/sss/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "title": "FIFA World Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Uruguay",
+                "teamB": "Cabo Verde",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4725/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4753/image",
+                "eventName": "FIFA World Cup",
+                "isHot": "0",
+                "Status": "Finished",
+                "startTime": "2026/06/21 22:00:00 +0000",
+                "endTime": "2026/06/21 00:20:00 +0000"
             },
             "channels_data": [
                 {

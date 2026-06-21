@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:00:59 PM 21-06-2026",
+    "Last update time": "09:05:40 PM 21-06-2026",
     "Live": "01",
     "Upcoming": "36",
     "Finish": "30",
@@ -368,6 +368,62 @@
                 {
                     "title": "TSN SPORTS HD",
                     "link": "https://ataide0.mercadodavoz.com.br/tsn.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS 4K",
+                    "link": "https://34366344.ccjdgvtt.pages.dev/1782064776/de280ab98a914dc69ba72b211034dc92/EJ9vXKw092aBc2dRU-B6itHkookOd2xEl94EwCmMmfU/fox4k-usa.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TELEMUNDO 4k",
+                    "link": "https://34366344.ccjdgvtt.pages.dev/1782064827/35c3b89ebbbb430bb824a9e7dcc499e3/dID_nvLbByTd7EHQrUOTPohy06i8X_o-yQKe-BeglJI/telemundo-4k.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NOW SPORTS 4K",
+                    "link": "https://34366344.ccjdgvtt.pages.dev/1782064877/a71b1e9dd77c464da3c7bd6493700bae/uqQlD5Xr2C590fn34t1JIPScFAsA4hCHQYrtHqjQGus/now-4k-hk.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUSBALL 4K",
+                    "link": "https://34366344.ccjdgvtt.pages.dev/1782064916/50f8e931e18e4c8f9e3daec684092924/2foCwBU1mLEk6Me8EkNyddn_zA0VjaunelIguIpktHU/fusballtv1uhd-de.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LA SPAIN 4K",
+                    "link": "https://34366344.ccjdgvtt.pages.dev/1782064972/db5e7d00ac624459a98addc04e197411/A2X2532iSSTo6yeh83VxXTOl-iCyaA-WNeYMV82zD4U/la1uhd-es.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BBC UK 4K",
+                    "link": "https://34366344.ccjdgvtt.pages.dev/1782065007/02e0e735f5de49f0a594c9c3d722bc56/Kj_7UT1-AedNAVCkeSHXwq07RhOKSS43tiNwrI2mvW4/bbcone-uk.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "Bein Sports MAX",
+                    "link": "https://34366344.ccjdgvtt.pages.dev/1782065064/1549c1f2b8dd4c7bbfa39f301fe88d0b/eUF8Hwf-2b08QZyVpwWwZsXjWfT50k8dMM6yBu328mQ/beinsportsmax-sa.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:31:15 PM 21-06-2026",
+    "Last update time": "09:35:42 PM 21-06-2026",
     "Live": "02",
     "Upcoming": "35",
     "Finish": "30",
@@ -93,22 +93,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "TSN ENGLISH - AQ",
-                    "link": "https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN SPORTS HD",
-                    "link": "https://soccerball.st/s1.php",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
                     "title": "CAZE TV - AQ [BR]",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
                     "logo": "",
@@ -117,19 +101,11 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FOX SPORTS FHD",
-                    "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+                    "title": "TSN ENGLISH - AQ",
+                    "link": "https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FOX SPORTS HD",
-                    "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streams.center&Origin=https://streams.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
+                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
                     "tokenApi": ""
                 },
                 {
@@ -146,6 +122,30 @@
                     "logo": "",
                     "type": 0,
                     "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN SPORTS HD",
+                    "link": "https://soccerball.st/s1.php",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS FHD",
+                    "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS HD",
+                    "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streams.center&Origin=https://streams.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {

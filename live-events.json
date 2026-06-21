@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:01:05 AM 21-06-2026",
+    "Last update time": "11:05:39 AM 21-06-2026",
     "Live": "02",
     "Upcoming": "29",
     "Finish": "32",
@@ -312,46 +312,6 @@
                 {
                     "title": "SONYLIV ENG",
                     "link": "https://dai.google.com/ssai/event/610T6zw_RZizGMCL-IDSDQ/master.m3u8?hdnea=exp=1782052208~acl=/*~id=a9d23dcfbb5db370c658ba87c09bbf6e-1782009000145~hmac=4f39e012766debfb5d928b1fc053d9350e75cd5913dbdd6372e84fd5aaa2cf82|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2b959d619c6aed9473d74d1a2a4b8b83-1782013800101",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW SP",
-                    "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV HIN",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781885013~acl=/*~id=27469287111985785357150984334782~hmac=164ab6739ab48494254be3a21a15002df9d488946e3bac6ecd3643f88885d7a3",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV TAM",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781885013~acl=/*~id=27469287111985785357150984334782~hmac=164ab6739ab48494254be3a21a15002df9d488946e3bac6ecd3643f88885d7a3",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV TEL",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781885013~acl=/*~id=27469287111985785357150984334782~hmac=164ab6739ab48494254be3a21a15002df9d488946e3bac6ecd3643f88885d7a3",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV KAN",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781885013~acl=/*~id=27469287111985785357150984334782~hmac=164ab6739ab48494254be3a21a15002df9d488946e3bac6ecd3643f88885d7a3",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:15:46 PM 22-06-2026",
+    "Last update time": "12:20:51 PM 22-06-2026",
     "sports": [
         {
             "cat": {
@@ -4976,6 +4976,57 @@
                                 {
                                     "name": "Link 1",
                                     "link": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "channel": {
+                            "name": "CAZE TV",
+                            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHcTCeTFVYonuXpJ2I-kgGFppqQ3BmrHGv-zVxeFnaJA&s",
+                            "visible": true,
+                            "is_playlist": false,
+                            "stream_links": [
+                                {
+                                    "name": "CAZE TV 1 - AQ",
+                                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "CAZE TV 2 - AQ",
+                                    "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "CAZE TV 3 - AQ",
+                                    "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+                                    "scheme": 0,
+                                    "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "CAZE TV HD",
+                                    "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+                                    "scheme": 0,
+                                    "api": "",
+                                    "tokenApi": ""
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "channel": {
+                            "name": "RTB Sports",
+                            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL8H_gBJtKX_FYwR_A2hBErZZNE_lLXgVDk7WeNdOgDw&s=10",
+                            "visible": true,
+                            "stream_links": [
+                                {
+                                    "name": "Link 1",
+                                    "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8"
                                 }
                             ]
                         }

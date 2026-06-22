@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:10:52 PM 22-06-2026",
+    "Last update time": "06:15:50 PM 22-06-2026",
     "Live": "00",
     "Upcoming": "34",
     "Finish": "34",
@@ -82,6 +82,30 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "D SPORTS - AQ [ES]",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SPORZA SPORTS ",
+                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TIPIK FR - AQ",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FOX SPORTS - AQ",
                     "link": "https://customer-rqx2ncfj15h2he6q.cloudflarestream.com/92f6cbdfdbed488c94405d1c605bc403/manifest/video.m3u8",
                     "logo": "",
@@ -128,30 +152,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "D SPORTS - AQ [ES]",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SPORZA SPORTS ",
-                    "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TIPIK FR - AQ",
-                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
                     "tokenApi": ""
                 },
                 {
@@ -269,6 +269,14 @@
                 {
                     "title": "CEZE TV HD",
                     "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BeIN FRANCE HD",
+                    "link": "http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2499/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

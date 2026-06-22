@@ -3,62 +3,11 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:20:55 PM 22-06-2026",
+    "Last update time": "01:25:41 PM 22-06-2026",
     "Live": "00",
     "Upcoming": "34",
     "Finish": "34",
     "events": [
-        {
-            "id": 0,
-            "title": "Crowe-Thorpe Trophy",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "England",
-                "teamB": "New Zealand",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-                "eventName": "Crowe-Thorpe Trophy",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/06/22 10:00:00 +0000",
-                "endTime": "2026/06/22 14:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "WILLOW - AQ [Ad-Free]",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l2h5bdvlpd/out/v1/5fbcd0ec9fe044598d6f36f844300079/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "b4496b9a9e83b9dc0dedba157712ad1c:189df9061b7c96db75bb8d60bdc18c73",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SKY CRICKET HD",
-                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV ENG ASIA ",
-                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/Eng_vs_N2106/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=32163d9111cc6c6278e7c147d84ff746-1782034201589",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD STREAM ",
-                    "link": "http://193.47.62.41/hls/EEEEDDD.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
         {
             "id": 0,
             "title": "FIFA World Cup",
@@ -987,6 +936,57 @@
                 {
                     "title": "Link 1",
                     "link": "https://playztv.pages.dev/sss/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "title": "Crowe-Thorpe Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "England",
+                "teamB": "New Zealand",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
+                "eventName": "Crowe-Thorpe Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/06/25 10:00:00 +0000",
+                "endTime": "2026/06/25 14:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "WILLOW - AQ [Ad-Free]",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l2h5bdvlpd/out/v1/5fbcd0ec9fe044598d6f36f844300079/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b4496b9a9e83b9dc0dedba157712ad1c:189df9061b7c96db75bb8d60bdc18c73",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY CRICKET HD",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV ENG ASIA ",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/Eng_vs_N2106/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=32163d9111cc6c6278e7c147d84ff746-1782034201589",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD STREAM ",
+                    "link": "http://193.47.62.41/hls/EEEEDDD.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

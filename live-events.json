@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:20:58 PM 22-06-2026",
+    "Last update time": "08:25:41 PM 22-06-2026",
     "Live": "00",
     "Upcoming": "34",
     "Finish": "23",
@@ -26,7 +26,7 @@
             },
             "channels_data": [
                 {
-                    "title": "RTE ENGLISH HD",
+                    "title": "RTE ENGLISH - AQ",
                     "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/9217f1b8-7d77-4590-8a52-4917bcfaeed2:GRQ/manifest.mpd",
                     "logo": "",
                     "type": 0,
@@ -179,6 +179,70 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "FOX SPORTS 4K",
+                    "link": "https://vizio.kuvuslov.cymru/fs1-4k/tracks-v1a1/mono.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN SPORTS 4K",
+                    "link": "https://vizio.kuvuslov.cymru/tsn4k/tracks-v1a1/mono.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN ARABIC 4K",
+                    "link": "https://vizio.kuvuslov.cymru/bein4k/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NOW SPORTS 4K",
+                    "link": "https://vizio.kuvuslov.cymru/nowhk/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TRT SPORTS 2K",
+                    "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUSSBALL TV 4K",
+                    "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX SPANISH - AQ",
+                    "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "UNITE8 SPORTS - IN",
+                    "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "ee5dea847c44d9f6063022978e3ce382:fb0ce876da1bd792260a99fb7dd97b4a",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FOX SPORTS 4k",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
                     "logo": "",
@@ -259,62 +323,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "VIX SPANISH - AQ",
-                    "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "UNITE8 SPORTS - IN",
-                    "link": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "ee5dea847c44d9f6063022978e3ce382:fb0ce876da1bd792260a99fb7dd97b4a",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FOX SPORTS 4K",
-                    "link": "https://vizio.kuvuslov.cymru/fs1-4k/tracks-v1a1/mono.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN SPORTS 4K",
-                    "link": "https://vizio.kuvuslov.cymru/tsn4k/tracks-v1a1/mono.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "beIN ARABIC 4K",
-                    "link": "https://vizio.kuvuslov.cymru/bein4k/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NOW SPORTS 4K",
-                    "link": "https://vizio.kuvuslov.cymru/nowhk/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FUSSBALL TV 4K",
-                    "link": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
-                    "tokenApi": ""
-                },
-                {
                     "title": "TELEMUNDO HD",
                     "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
@@ -325,14 +333,6 @@
                 {
                     "title": "IVANZ TV  LIVE",
                     "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TRT SPORTS 2K",
-                    "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

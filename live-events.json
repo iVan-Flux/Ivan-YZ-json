@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:31:11 AM 28-06-2026",
+    "Last update time": "03:35:34 AM 28-06-2026",
     "Live": "03",
     "Upcoming": "06",
     "Finish": "33",
@@ -987,7 +987,7 @@
                 },
                 {
                     "title": "BEIN SPORTS 2 FRA",
-                    "link": "https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd",
+                    "link": "https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1%2Flive.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "85ac9362e89354ef5341fe4dbee0dd6a:e556276599c55bdee169f39eab8e56bc:71fcdcfd58c608662db317fcf4411c19:eaf76e97b969a7d124a720a109acda61:6c976caa628fde89aacedbd47059967e:0d1e54565950c1e2f58d45c561a47187:7a62a516c5d980553f497c6bfc469b19:a0eeb97b4d14d6bb7a5c39755dd7c41c:f81df5cf72bd43c3da84d04dc8691fcb:4a60e4e009560c40766a0fa38770ef4e",
@@ -1572,6 +1572,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "BEIN SPORTS 1 FRA",
+                    "link": "https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1%2Flive.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "3acea01244785a6363fc04b25d696392:f0b8f84dbd93407af6ab0b41fc774249:9d8b1b819cfdcff845625b86cc4968f3:480b03fe4476bc187c6a9d43ba85b9db:3cf686dc4246f19bc4419c54da0f90bc:b40f599266c8a262ccf4a384dadce08a:b6362975ca29d0685b7cac721b6faa26:da04d180e9028af27482b6a37c81e020:6ca2f2c822444ff76d9570741dec7b2b:9fc3d71ab30e8d33f09ee29e5e453608",
+                    "tokenApi": ""
+                },
+                {
                     "title": "NTV ENGLISH - AQ",
                     "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
                     "logo": "",
@@ -1585,14 +1593,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER FHD",
-                    "link": "https://instreams.pro/EU/HDWC1/index.m3u8|referer=https://instream.click/jwp-eu.php?stream=HDWC1|origin=https://instream.click/jwp-eu.php?stream=HDWC1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0|Referer=https://instreams.pro&Origin=https://instreams.pro&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -1613,6 +1613,22 @@
                     }
                 },
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://andro.2385437.xyz/checklist/androstreamliveexn1.m3u8|Referer=https://andro.2385437.xyz&Origin=https://andro.2385437.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER FHD",
+                    "link": "https://instreams.pro/EU/HDWC1/index.m3u8|referer=https://instream.click/jwp-eu.php?stream=HDWC1|origin=https://instream.click/jwp-eu.php?stream=HDWC1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0|Referer=https://instreams.pro&Origin=https://instreams.pro&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "ISCREEN BD - AQ",
                     "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
                     "logo": "",
@@ -1626,14 +1642,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8pgdxbDMCS.m3u8?txSecret=8600bc9d2bccb7bac5bf4790ed7dd56d&txTime=6A405D70",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
                     "tokenApi": ""
                 },
                 {

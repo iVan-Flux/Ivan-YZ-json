@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:10:43 AM 28-06-2026",
+    "Last update time": "12:15:43 AM 28-06-2026",
     "Live": "02",
     "Upcoming": "08",
     "Finish": "32",
@@ -214,22 +214,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "CT SPORTS - AQ",
-                    "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TV4 SWEDEN - AQ",
-                    "link": "https://director.streaming.telia.com/tvm-packager-prod/group2/61a4859b79019af4abf1009d/manifest.mpd?adap=default",
-                    "logo": "",
-                    "type": 0,
-                    "api": "b09d157d18ab51b9923a3d5abdeefd52:5a29bb3c705edea6941a5b1d575ac316",
                     "tokenApi": ""
                 },
                 {
@@ -477,13 +461,13 @@
                 },
                 {
                     "title": "TOFFE BDIX (BD)",
-                    "link": "https://cdn-tt.pages.dev/ch1.m3u8",
+                    "link": "https://cdn-tt.pages.dev/ch2.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": {
-                        "url": "https://cdn-tt.pages.dev/ch1.m3u8",
-                        "api": "https://cdn-tt.pages.dev/ch1.m3u8",
+                        "url": "https://cdn-tt.pages.dev/ch2.m3u8",
+                        "api": "https://cdn-tt.pages.dev/ch2.m3u8",
                         "type": "sp",
                         "link_key": "playbakcs_url",
                         "default_string": "N8x7Y%m+6n",
@@ -626,6 +610,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TV4 SWEDEN - AQ",
+                    "link": "https://director.streaming.telia.com/tvm-packager-prod/group2/61a4859b79019af4abf1009d/manifest.mpd?adap=default",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b09d157d18ab51b9923a3d5abdeefd52:5a29bb3c705edea6941a5b1d575ac316",
                     "tokenApi": ""
                 }
             ]

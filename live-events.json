@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:15:41 AM 28-06-2026",
+    "Last update time": "02:20:41 AM 28-06-2026",
     "Live": "02",
     "Upcoming": "08",
     "Finish": "32",
@@ -120,6 +120,14 @@
             },
             "channels_data": [
                 {
+                    "title": "TIPIK FR - AQ",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+                    "tokenApi": ""
+                },
+                {
                     "title": "NTV ENGLISH - AQ",
                     "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
                     "logo": "",
@@ -230,14 +238,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TIPIK FR - AQ",
-                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
                     "tokenApi": ""
                 },
                 {

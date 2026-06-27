@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:35:32 AM 28-06-2026",
+    "Last update time": "02:40:44 AM 28-06-2026",
     "Live": "04",
     "Upcoming": "06",
     "Finish": "32",
@@ -171,6 +171,14 @@
                 {
                     "title": "ISCREEN BD - AQ",
                     "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8pgdxbDMCS.m3u8?txSecret=8600bc9d2bccb7bac5bf4790ed7dd56d&txTime=6A405D70",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -345,6 +353,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "FUSSBALL 4K",
+                    "link": "https://nhjjhhjhjjhfjj.pages.dev/1782601955/18e0b7d861384a4ba4baaf444bbd61c5/bpgtebVHIDYI1gbSarYPxKf8_9tCMoc1jtPiHUbELMI/fusballtv1uhd-de.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FOX SPORTS 4k",
                     "link": "https://lb.xyzcloud3.xyz/fox4k/index.m3u8|referer=https://xyzstreams.st/",
                     "logo": "",
@@ -435,14 +451,6 @@
                 {
                     "title": "SD STREAM ",
                     "link": "http://193.47.62.42/hls/fllll.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8pgdxbDMCS.m3u8?txSecret=8600bc9d2bccb7bac5bf4790ed7dd56d&txTime=6A405D70",
                     "logo": "",
                     "type": 0,
                     "api": "",

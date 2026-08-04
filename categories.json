@@ -1390,5 +1390,15 @@
             "type": "m3u",
             "api": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u"
         }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "SonyLiv S2",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWoPHfgOHaZYT222AjgtqJB2cVypMRfUdyj3TxY9oPdw&s=10SonyLiv",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"
+        }
     }
 ]

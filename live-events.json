@@ -3,10 +3,10 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:31:12 AM 05-08-2026",
+    "Last update time": "12:35:38 AM 05-08-2026",
     "Live": "05",
-    "Upcoming": "30",
-    "Finish": "29",
+    "Upcoming": "29",
+    "Finish": "28",
     "events": [
         {
             "id": 0,
@@ -710,33 +710,6 @@
         },
         {
             "id": 0,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Chelsea",
-                "teamB": "Juventus",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/05 11:30:00 +0000",
-                "endTime": "2026/08/05 13:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://playztv.pages.dev/sss/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 0,
             "title": "The Hundred Women",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark",
             "cat": "Cricket",
@@ -1254,57 +1227,6 @@
                 {
                     "title": "FANCODE IN",
                     "link": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 0,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Jeju SK",
-                "teamB": "FC Bayern München",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/7649/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Finished",
-                "startTime": "2026/08/04 11:00:00 +0000",
-                "endTime": "2026/08/04 13:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Sport TV HD",
-                    "link": "https://cast.zlive.st/p/auto-sport-tv1-0/index.m3u8|referer=https://zlive.st/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD STREAM ",
-                    "link": "https://live2.streambylivepulse.com/live/channel16.m3u8|referer=https://xoilac.textliveupdaterz.com/&origin=https://xoilac.textliveupdaterz.com",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "IVANZTV LIVE ",
-                    "link": "https://play.aarray.cn/rrty/sd-1-4541783_gqzm.m3u8?auth_key=1785844621-0-0-88dd3d149d68388e23abedb0655ae4c2&token=db2f19d4f863b7ac&device=4&platform=rrty",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD STREAM ",
-                    "link": "http://193.47.62.190/hls/IOOOA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

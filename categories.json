@@ -1,1 +1,1394 @@
-[]
+[
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "Live Sports SD",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5COUganDJvCOuioMhBrgNw_4WNnc0UyWiRuJlIbGPw&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/playlist_s.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "FIFA WC26 Highlights",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9Xr6kNvhqZrBtJJXsbecfqarPmb5QIP_IhOOZcvVZg&s=10",
+            "type": "custom",
+            "api": "channels/RklGQSBXQyAyNiBIaWdobGlnaHRzMTc4MTIzMTU1MTMxMw.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "India",
+            "logo": "https://assets-playztv.pages.dev/category/india.jpg",
+            "type": "custom",
+            "api": "channels/SW5kaWExNzY3MDA3MjE1ODgz.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Bengali",
+            "logo": "https://assets-playztv.pages.dev/category/bn.png",
+            "type": "custom",
+            "api": "channels/Qk4xNzY3MDIzMTU1NzMy.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Kolkata",
+            "logo": "https://assets-playztv.pages.dev/category/kolkata.jpg",
+            "type": "custom",
+            "api": "channels/S29sa2F0YTE3NjcwMDgwNjY5MDg.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "Pakistan",
+            "logo": "https://assets-playztv.pages.dev/category/pkk2.jpg",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/pk.m3ux"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Nepal",
+            "logo": "https://e7.pngegg.com/pngimages/161/767/png-clipart-white-and-red-flag-area-symbol-circle-line-nepal-flag-round-world-flags-thumbnail.png",
+            "type": "custom",
+            "api": "channels/TmVwYWwxNzY3MDI1MjMxODU0.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "News",
+            "logo": "https://assets-playztv.pages.dev/category/news.jpg",
+            "type": "custom",
+            "api": "channels/TmV3czE3NjcwMDgxODM1MjQ.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Kids",
+            "logo": "https://assets-playztv.pages.dev/category/kids.jpg",
+            "type": "custom",
+            "api": "channels/S2lkczE3NjcwMDgyMjAzNzM.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Islamic",
+            "logo": "https://assets-playztv.pages.dev/category/islamic.jpg",
+            "type": "custom",
+            "api": "channels/SXNsYW1pYzE3NjcwMDgyNTA2NzI.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Radio",
+            "logo": "https://assets-playztv.pages.dev/category/radio.jpg",
+            "type": "custom",
+            "api": "channels/UmFkaW8xNzY3MDA4Mjg0MjM5.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Entertainment",
+            "logo": "https://i.postimg.cc/qvy09wbr/Picsart-25-12-25-14-48-02-928.jpg",
+            "type": "custom",
+            "api": "channels/RW50ZXJ0YWlubWVudDE3NjcwMDg0NDY4OTE.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Movie",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuh9LrbQhU_W4k1nMdQFfANtsVsofyvWRMaFdoEic6Ef1g2zxNFpw3WaxCAFQt7gxKvRKs0ft20Rjv78A1xrS6iLhBcK9MVriMqOjtFVHKGVGyjbOF4aLBgvfxpdFGxGOc4TS80vfusvJ0l7WHCny68BSMVcwnup_o7-2tNAHp2-wB1lnP9IeRaSvtNpQ/s1600/1000410021.jpg",
+            "type": "custom",
+            "api": "channels/TW92aWUxNzY3MDA4NDgxMzM3.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Music",
+            "logo": "https://assets-playztv.pages.dev/category/music.jpg",
+            "type": "custom",
+            "api": "channels/TXVzaWMxNzY3MDA4NTMyNjM3.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Infotainment",
+            "logo": "https://assets-playztv.pages.dev/category/info.jpg",
+            "type": "custom",
+            "api": "channels/SW5mb3RhaW5tZW50MTc2NzAwODU2NjcwNg.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "ISP",
+            "logo": "https://assets-playztv.pages.dev/category/isp.jpg",
+            "type": "custom",
+            "api": "channels/SVNQMTc4MDc3NTkwNjUxOQ.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "World Country",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3A1vF9O3uxY8bXlwpTzJkwdy2AuwpRx1yhg48vAbuIhjrFwQA8D0EHXtFoRWOxI_wWtMPBrK2dBkzf7AHzjAPeDvFs5oUdc3g5JBjZvmFQ_SFyBjy960YJvUXfZ35DW67txWlbaRn1CH1khxCMGkXGENvLjn9n-soCDhePR82gqhz0OpCFXHFcwQ_wRg/s1600/1000409995.jpg",
+            "type": "m3u",
+            "api": "https://iptv-org.github.io/iptv/index.country.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "World Languages",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPJPPvgATamguJztzaWjx7hygIUCqKsXaHYZWuGbU3A&s=10",
+            "type": "m3u",
+            "api": "https://iptv-org.github.io/iptv/index.language.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Plex",
+            "logo": "https://assets-playztv.pages.dev/category/plextv.png",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/Plex-All.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "BDIX TV",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs5JEFE26mm1_sTvckgjQvDqXpAW3T52R1Wcj5MDKhkRrXzggGZkbqfYqrQcF7GQi3TC6Ar7_luyw9S_zz6FpmIFcKRvKyHD9hyphenhyphenlef7Vd6Hl1LZAoXZwFTQwivfuSNL0fl9MTDTWCTbF6R8tMrCnobn2fFGffIiDxnv3KtDS4r6SAI-T9iS83Ocb9hnBE/s16000/1000404484.jpg",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/refs/heads/main/playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Sun Nxt",
+            "logo": "https://assets-playztv.pages.dev/category/sunn.png",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/snxt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Distro Tv",
+            "logo": "https://play-lh.googleusercontent.com/v3QIzknOCowrsMEhQCnggLSmY7JLwIz_te01eVdlU-EHCXGWmzUjehM8fcYZy2XqptA",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/distrotv.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Dish Tv",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1papuN5Mv28dJtJ-ySui0BeiNOpljPZlt-xOQIbTXQ&s=10",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/disttv-playztv.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Z5 SD",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIFWx55-mCG-IuXeVskmDXPUIvMZ0_5ZtVj6skTaedww&s=10",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/zeesd.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "YuppTv",
+            "logo": "https://m.media-amazon.com/images/I/41mcw3k6f5L.png",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/refs/heads/main/playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Samsung",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/2/28/Samsung_TV_Plus_logo.png",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/uk_samsung.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "LGTV IN",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvPBPysGxV_ly6_FHwU06IF6WLQ6a-PdVuyQCH7HxrLyom7EMEqJm9DPY&s=10",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/lggtv"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "Myco",
+            "logo": "https://assets-playztv.pages.dev/category/myco.png",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/myc.M3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Shoq Pk",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP-AQnMaE_Zxr2ortyXjuU7ZdESS0zgM4YL7qBtMhBN9knUOtHb5LsUk&s=10",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/shoqpkk.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Tapmad Pk",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThztxuZ7fSKWHCAo0joPbMAWyvThLFn9LwWtgbqBNNb5kCddqhFHpBTuFV&s=10",
+            "type": "m3u",
+            "api": "https://playztv-ol-pl.deadxploit.workers.dev/?get-pl&id=tapmadpkkonly|user-agent=mozila"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Tamasha Pk",
+            "logo": "https://yt3.googleusercontent.com/tUqJV897AzIMZ9AhjTzAE021WyzsCTagSDNanjzAveWKIrmk655iBaPTGJmY7ZnNEZh0XjetSg=s900-c-k-c0x00ffffff-no-rj",
+            "type": "m3u",
+            "api": "https://playztv-ol-pl.deadxploit.workers.dev/?get-pl&id=tmatv-playztv.m3u|user-agent=mozila"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "Toffee BD",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEKVJ8UJbAkqy5qTe5hf0-z4RcOoaNwn8ejNAgP3pxSBo_CuBXYk_lJenSICsAJh2mwURyFj2svyuXxodmkN09dYdLYpZ7l2alhC-VoKunOfoKO2QnZldbk6Tddc92n6HGA03MY_aQ7M22LPTtYDEBv3CyZgJJLZv0RALPUhBq7br6-IyklGFkqND-5B8/s1600/1000432086.jpg",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/NS_player.json"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "Toffee BD 2",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJkd-LAxFCqtK2Ung1Cs2vnxq-5DeWBKgHSWZn17GNzC0m02YehLoxb2w&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": true,
+            "name": "Ayna",
+            "logo": "https://assets-playztv.pages.dev/category/ayna.png",
+            "type": "m3u",
+            "api": "https://aynaa.playztv.workers.dev/pl|user-agent=myapp"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "JagoBd",
+            "logo": "https://assets-playztv.pages.dev/category/jagobd.jpeg",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/Jjago.br.m3u8"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "Akash Go",
+            "logo": "https://assets-playztv.pages.dev/category/akashg.jpg",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/akk-iptv.m3u8"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "Zenie TV",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAGmmOlekt9OZ3sO7SNf-3e4BbibsVGlGoEjSGbuuxij7BXm_AUJj5_9eeXQSzL0l9x-AXsYQKPtI5Qm2oSvVTWA_DMP_cbG3cHkHcrWphXMltY0XZmTagohUvDOYQHgYmKjpUvDYlLQSvBKmodXV2IxcA8Rm_Uut6RAD_9ZaaQKFwW8ehbQQ4QL-Pl5o/s1600/1000427155.jpg",
+            "type": "m3u",
+            "api": "https://pastebin.com/raw/3fefFwep"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "SOFAST",
+            "logo": "https://assets-playztv.pages.dev/category/sofast.jpg",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/SOFAST.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "PlutoTV",
+            "logo": "https://assets-playztv.pages.dev/category/Pluto.png",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/PlutoTV-All.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Roku",
+            "logo": "https://downloadr2.apkmirror.com/wp-content/uploads/2021/01/07/600b226bcfce0.png",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/Roku-All.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Tubi",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjhJ-Ol1oKcEIdXfOMLseCu7Rlp9TCuZYuluqLsiaJZQ5CB5BUJtGSMTn&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/tubi_playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Stirr",
+            "logo": "https://assets-playztv.pages.dev/category/sitrr.png",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/Stirr-All.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Xumo",
+            "logo": "https://assets-playztv.pages.dev/category/xumo.png",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/xumo_playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "Moveonjoy",
+            "logo": "https://assets-playztv.pages.dev/category/Moveonjoy.jpg",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/Moveonjoy.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "Watchoo",
+            "logo": "https://assets-playztv.pages.dev/category/watchoo.png",
+            "type": "custom",
+            "api": "https://playlists-by-playztv.pages.dev/watchoo.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Epic On",
+            "logo": "https://assets-playztv.pages.dev/category/epicon.png",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/epict.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Doordarshan",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthN_TH4Wuno4dmcX6TYIuJpJnSEZOGQE6c-OV9WrO4Q&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/in_doordarshan.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Waves OTT",
+            "logo": "https://assets-playztv.pages.dev/category/wvot.jpg",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/wavesno.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Pishow",
+            "logo": "https://assets-playztv.pages.dev/category/pishow.jpg",
+            "type": "m3u",
+            "api": "https://playztv-ol-pl.deadxploit.workers.dev/?get-pl&id=pishowxc.m3u|user-agent=mozila"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "Runn OTT",
+            "logo": "https://assets-playztv.pages.dev/category/runtv.jpg",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/runnottt.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "World IPTV",
+            "logo": "https://assets-playztv.pages.dev/category/iptvwrd.jpg",
+            "type": "m3u",
+            "api": "https://iptv-org.github.io/iptv/index.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "INDIA IPTV",
+            "logo": "https://assets-playztv.pages.dev/category/india.jpg",
+            "type": "m3u",
+            "api": "https://iptv-org.github.io/iptv/languages/hin.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Dangal",
+            "logo": "https://assets-playztv.pages.dev/category/dangal.jpg",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/dangalp.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Mx Player",
+            "logo": "https://assets-playztv.pages.dev/category/mxp2.jpg",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/mxp.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "SONY IN",
+            "logo": "https://i.postimg.cc/tgv1zMt7/Picsart-26-01-27-01-50-58-041.jpg",
+            "type": "m3u",
+            "api": "https://pzsl.pzcdn.workers.dev/?get-pl|user-agent=mozila"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "SONY IN 2",
+            "logo": "https://i.postimg.cc/tgv1zMt7/Picsart-26-01-27-01-50-58-041.jpg",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "SONY BD",
+            "logo": "https://i.postimg.cc/tgv1zMt7/Picsart-26-01-27-01-50-58-041.jpg",
+            "type": "m3u",
+            "api": "xxx|user-agent=Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "SONY 2",
+            "logo": "https://i.postimg.cc/tgv1zMt7/Picsart-26-01-27-01-50-58-041.jpg",
+            "type": "m3u",
+            "api": "https://sl.link-etvv.workers.dev/?get-pl|user-agent=mozila"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "Sun Direct",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjV7Ka0IjFqnGdqcGzTPYb00f3Rwj84KHdHRkO4gCNyg&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/alpha4528/m3u/refs/heads/main/suntv.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "TATA PLAY",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuhRwmTZqYHcUIvh2-vzWisPnnk_20NHFWHIaED1Mb7w&s=10",
+            "type": "m3u",
+            "api": "http://103.161.153.165:8000/playlist.m3u8"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "Airtel IND",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf7pkggfHJKj2R8O6ttuHxgv-vQVL03xUeAg&usqp=CAU",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/artl.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "JIO IND",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSohZW0W9TJymIUxUO7wDwLLWzxdugPz5FiRw&s",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/jtv.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "JIOTV+ IND",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5KeAyYdOyxaCWDPbiUsJW7Oy4v_7uFqf06rIwGxaWc6nQuNVqZ2Q_Qej&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/joiptv/Jo/refs/heads/main/Zoh.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "Jio Cinema IND",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCAFb6S5HfwpVM8kkSxvrvgGF4L9CFZCfWow&s",
+            "type": "m3u",
+            "api": "https://alex4528.site/playlist/jcinema.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "JioHotstar",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuz9ekmjh3vEpEc3lYL4nh6Gj7y2CQTswVG-ZCHnIS1foScuwPzuyxic&s=10",
+            "type": "m3u",
+            "api": "https://alex4528.site/playlist/jstar.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "JIOTV ALL",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5KeAyYdOyxaCWDPbiUsJW7Oy4v_7uFqf06rIwGxaWc6nQuNVqZ2Q_Qej&s=10",
+            "type": "custom",
+            "api": "channels/SklPVFYgQUxMMTc4NTY2MTQyNTkyMA.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Zee5 IN",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS0OT2NFe9Jb4ofg_DrXx42EKLgyGnSGwoLg&usqp=CAU",
+            "type": "m3u",
+            "api": "https://alex4528.site/playlist/z5.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "ZEE5 LIVE",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS0OT2NFe9Jb4ofg_DrXx42EKLgyGnSGwoLg&usqp=CAU",
+            "type": "m3u",
+            "api": "https://gist.githubusercontent.com/ArcReactorCode/2c28e1e14e6cbb8a0e50bf2065d6d1b5/raw/zee5.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "Jio BD",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgKddrFLYJQ8GGqeVWMS6go-qiQp2fslo4yn77CDJVww&s=10",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/jiobd.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Free Sports",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MOZHkRSUMGL7be2j_RyQ0w_bnSZrKLZep_aRPqlpdg&s=10",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/Free-Sports.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "Play Tv",
+            "logo": "https://i.postimg.cc/Xvt90Gjc/Picsart_26_02_03_10_46_07_704.jpg",
+            "type": "m3u",
+            "api": "https://jiotv-playlist.pages.dev/freetvindia.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "Ayna 2",
+            "logo": "https://assets-playztv.pages.dev/category/ayna.png",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Combined_Live_TV.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "Movies",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtsH4VM61MdLHFd096OCTVMcq7rL5qDUZB3En8seXaDlT6ssSqLsjKV19ngGVpPJLqGdjqspCNwfmwzi_NMli82XQ7MkBJAlWceYO_LiLp_M59U803cmuaYm4aCI2v22yW2wwBwYnzf2gtITuQAkIuhuggfexEAkc2Uq6N61IuUYeeHbaoDfVurMBAVSo/s1600/1000410014.jpg",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/mv.m3uxxx"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "World",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieid951B1CM9zRn2fug33YFGUOmPteJN_FQuXbZhingcWpb5zHonWN0Zze7Y1VN9jgmQdgUHgIl532BvliyJa53O8uzVIGYENW_FYcay_ENSrQWEsRodP-1i8ZpAii0lmJEaZkZIJC4nvWz1vIk1vKBuaadnaQ6TERvDT6U9ADXPuxZNeNNstl_8FByNE/s1600/1000412020.png",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/wc5.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "World 2.0",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVvgqfSOg6Cog1A_5Br4D_DqRTi4OHsZeCITVdR4U4fy1hU2GB1OakeNIoopVR0I2JlPOKwl8lrZCyDHlSZTtVyLl7odK8m-oA6oEQ1khUJHQ_YdsdyGy1kxjGIQIVMbuejQT7s10NKDDNoaxPPVpC8a3euHtiQuoDEqNsCH5xMZvoV82LN4TUjW196bI/s1600/1000412030.jpg",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Bachelor Point S5",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhqW8Ou56hR84aAP1Pk2VjGxHWymp_Ih2G6E8XYprDZWL2Lx120iAXnTq5eNCnqDhenOgs0z-etGGc9-Byx6r9sEE2Qb6Sil7ETGelkj2unv03iPLOekdyoouXv4LAef-YA9Za8ya0uskd3I_ur_XXWqRjyWKepmxQHcSDYsyrxoS-ffQQaCvJgBKoRx4/s1600/1000426814.jpg",
+            "type": "custom",
+            "api": "channels/QmFjaGVsb3IgUG9pbnQgUzUxNzY4OTE0NDg0NzMy.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "OneTime Tv",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSfYgjQLfgH1ueK2oZSlYdzVi_aGHY_K50YLkSvpXIBRZccMEkEWQqJC2T_Qm4VRwT8VX3oRAEhVqLcK1spa0peoyD8RItUneEpO_hlyLZv461Y2ku17a7s2QDJXJtqi2WxMIjUG3Q85tH4bYyON3yvCJgLN-MzF-II2lywwzOKoBM8WYkhQZy8I1XB6E/s1600/1000428006.jpg",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/iptv-playlist/refs/heads/main/bdnww.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "ZONG TV",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJsUu4WDubtBUmme93nxnuFHNr-rO1nKQ34Hi0HVkLBSTiaZU5Gq2jYYqX69M50FPTvsiKuwK2B9mYvJKZeFQpJuPgyZSszn2H8QfpZBB7HC6gb-VQcSf6aDL15yDkKxIAqRb47IedVIqYgXtoH_C0uGkIU520em6lFtzffSJ7lvBO6x6qVGD6GdZAuH4/s1600/1000428062.jpg",
+            "type": "m3u",
+            "api": "https://playztv-ol-pl.deadxploit.workers.dev/?get-pl&id=zong-tvv.m3u|user-agent=mozila"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "Mix Tv",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgx8yKsYZGXWeRInq8-mCRqx7ryfIrh-JNTmLmBspgZxb_295bOhMvKBo4A9_gi-NN1wtmjn6C0Fs0b0KjL3T3wzElUwQa4D1eNOG_Tyjk8tRhk4a93iN2rDmgydaUZphqzKZXcH7e9TADujPJ_qSxrLjYuUYbbZpr-OkEy2FvZGnoSkCMXtrE5JwGpgk/s1600/1000428072.jpg",
+            "type": "m3u",
+            "api": "https://prime-tb-playlist.netlify.app/mix.tv.m3u8"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "IZZI Go",
+            "logo": "https://i.postimg.cc/LX6ZDGKT/Picsart-26-01-31-00-54-07-978.jpg",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/Izzio.go.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "YouTube",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmAwNFAgGOaGoe0aU5R0CjTNaCaSd2qmEgx4NQaY3cgQ&s=10",
+            "type": "m3u",
+            "api": "https://yt2m3u-autogen.pages.dev/YT-playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "JIOTV+",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5KeAyYdOyxaCWDPbiUsJW7Oy4v_7uFqf06rIwGxaWc6nQuNVqZ2Q_Qej&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/jtv.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "JIO CINEMA IN",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc3qZ1WgzPyFRX4cWIBJF0MSjWW3gZcLFycg&usqp=CAU",
+            "type": "m3u",
+            "api": "https://alex4528.site/playlist/jcinema.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "EK TV",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRMrqNLs0_yq39gO-5OrZzW4916hEYfeRUXjtjmpD1rw&s=10",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/Ekek.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "BDxTV",
+            "logo": "https://i.postimg.cc/Rh1CjmYh/Picsart-26-02-16-01-33-39-140.jpg",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/full_channels.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "EXTRA MiX",
+            "logo": "https://i.postimg.cc/3xDrfH2B/Picsart-26-02-16-14-27-31-245.jpg",
+            "type": "m3u",
+            "api": "https://exteramix.cdn-ssk.workers.dev/"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "DIRECT TV",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqixoa8j4v2tcOBeZOY-x8_e_jGImeQd9BDu-RKl3IQ&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/quervo/my-playlists/d23aba019704cbefcea3dbf49d1e1244c78b7234/DIRECTV.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": " Anime Tv",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEYscAeJ3Km7HrbtKGVO_MwgBOxRSc9DvmPpr5lTneA&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/delmitv/lista-IPTV/refs/heads/main/lista.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "Pirates TV",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSII0eZscpNmCF6bLalyjknZNbGpWb8DMfHuA&s",
+            "type": "m3u",
+            "api": "https://piratestv.cdn-ssk.workers.dev/"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "2.0 Opplex ",
+            "logo": "gg",
+            "type": "m3u",
+            "api": "https://playlists-by-playztv.pages.dev/2.0.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "Hexa World",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJRyEisJNdiQEKzYGf3p8ZZtsMj_1YCYfx9ZhUp3ogQ&s=10?https://sostreampztv.pages.dev/MACX_20260217_214019xx.m3u",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/wc-ch10.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "Hexa World",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJRyEisJNdiQEKzYGf3p8ZZtsMj_1YCYfx9ZhUp3ogQ&s=10?https://sostreampztv.pages.dev/MACX_20260217_214019xx.m3u",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world-1.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "FusionTv",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMzlutHxGemwVhmC-Nk6RInEKgZaZ-9o9UEWBuzc6D8A&s=10",
+            "type": "m3u",
+            "api": "https://m3u-tvb2.pages.dev/portal-playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Jio TV+ BD 2",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVvg995SN55aY_K2JMLqZnIR5SYOSXFxVyHPmjgDXLA&s=10",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/jiobd.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "mix tv bk",
+            "logo": "vk",
+            "type": "m3u",
+            "api": "https://sonamul4545.vercel.app/siyam3535.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "KIDS ZONE",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclIXZfMTEBAn3dc8nZbYZW05DuYXk7JpF7b6OEl1_Ag&s=10",
+            "type": "m3u",
+            "api": "https://pastebin.com/raw/typGY2Ym"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "TATATV",
+            "logo": "https://i.postimg.cc/DZX5dZwG/Picsart-26-03-04-17-39-03-206.jpg",
+            "type": "m3u",
+            "api": "http://103.229.254.25:7001/playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "IVANZ TV+",
+            "logo": "https://i.postimg.cc/LXRyfDhf/Picsart-26-03-10-19-02-01-041.jpg",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/playz+.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Latest Movies",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8qjE7GyuOAO68wad2wiFMMHOv3_HotAV1A6bPb-iabrH9a5hEkm2VGzsPnyU1a0O6okEC5GTeww7pG_09bWZD9fDXeozjwXKMNZNN99Zzr5XPtZbo2IPOL3upxIps-J74VrBizm7oC6T9XBPSA0DNsGJq2MHNiJB4NauhL2zb0Z48KTUVcF4w-KEQ2YAW/s1600/1000442892.jpg",
+            "type": "custom",
+            "api": "channels/TGF0ZXN0IE1vdmllczE3NzM4NTk2NDY2OTA.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "KIDS 24/7",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ltLyV8b32RxwLIpqgw2_z7aCcj8eJhsuoRcpdeF9iA&s=10",
+            "type": "m3u",
+            "api": "https://host.cloudplay.me/app/cat/kids247.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "JIOTV+ IND S2",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5KeAyYdOyxaCWDPbiUsJW7Oy4v_7uFqf06rIwGxaWc6nQuNVqZ2Q_Qej&s=10",
+            "type": "m3u",
+            "api": "https://zioplus.saqlainhaider8198.workers.dev/skstar.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "SPAIN",
+            "logo": "https://static.vecteezy.com/system/resources/previews/059/283/769/non_2x/circular-spain-flag-icon-png.png",
+            "type": "m3u",
+            "api": "https://ip-tv.app/m3u/Spain_322.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "SPAIN 2",
+            "logo": "https://static.vecteezy.com/system/resources/previews/059/283/769/non_2x/circular-spain-flag-icon-png.png",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_spain.m3u8"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "NEPALI",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf4zYtSH4FDiOhBxqe-b34BCQsQJmix7-_FDwo3ax3_A&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/sunilprregmi/hera-hai/refs/heads/main/ott_gs.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "MaxTV",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA3GKzkheV_a_YZLpnsCrqzzNhl2ukIdHD-Wow_VENpA&s=10",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/mx.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "WorldLink",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYTVhhlkf3BXyn2uljbNya2GnPM8Qlnyex_UrQyUonA&s=10",
+            "type": "m3u",
+            "api": "https://codeberg.org/royjaalexa/tees/raw/branch/main/ratv.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "WorldTVGO",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnryA0oLTz-2_tMQR80x58mtvij8kwT2AxJ0fqseyYmw&s=10",
+            "type": "m3u",
+            "api": "https://codeberg.org/royjaalexa/tees/raw/branch/main/wod_go.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "DishHome",
+            "logo": "https://i.postimg.cc/PfYwzwh2/Picsart-26-02-27-01-32-34-193.jpg",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/dmngo.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "sony in bk",
+            "logo": "xx",
+            "type": "m3u",
+            "api": "https:\\\\/\\\\/m3u-86e.pages.dev\\\\/sony.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "DITTO TV",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSC55NRqXQA6AgbMSBIzgSftQxwWHYTwPP02klZyZh6w&s=10",
+            "type": "m3u",
+            "api": "https://freelivtv.xyz/dittotv/dittotv.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "FANCODE IN",
+            "logo": "https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "FANCODE BD",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpmc6r0tS_bJ1MhJmNTKv1nvU2YKLzzIXsw&s",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "SonyLiv",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWoPHfgOHaZYT222AjgtqJB2cVypMRfUdyj3TxY9oPdw&s=10SonyLiv",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Pocket TV IN",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRset_viiT47GejUdcBN7zDn0hVq-TjvAXAKRwi8N2TWQ&s=10",
+            "type": "m3u",
+            "api": "https://tiny.cc/Pocket-TV"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "OneTime Tv",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSfYgjQLfgH1ueK2oZSlYdzVi_aGHY_K50YLkSvpXIBRZccMEkEWQqJC2T_Qm4VRwT8VX3oRAEhVqLcK1spa0peoyD8RItUneEpO_hlyLZv461Y2ku17a7s2QDJXJtqi2WxMIjUG3Q85tH4bYyON3yvCJgLN-MzF-II2lywwzOKoBM8WYkhQZy8I1XB6E/s1600/1000428006.jpg",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/1t.m3u8"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Pocket TV",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRset_viiT47GejUdcBN7zDn0hVq-TjvAXAKRwi8N2TWQ&s=10",
+            "type": "m3u",
+            "api": "https://spoo.me/Pocket-m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "IPL 4k IN",
+            "logo": "https://tattistar.vercel.app/jhs.m3u",
+            "type": "m3u",
+            "api": "https://tattistar.vercel.app/jhs.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "BAS BDIX",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8Ku5ECdZ6G59hVVeKouc3U5fhnogFRpmXqcd94Vpnw&s=10",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/BOSS-BDIX.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "ICC TV",
+            "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/doctor-8trange/nexphi0/refs/heads/main/data/icc.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "name": "Tapmad Live",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThztxuZ7fSKWHCAo0joPbMAWyvThLFn9LwWtgbqBNNb5kCddqhFHpBTuFV&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "name": "Akash Go 2",
+            "logo": "https://assets-playztv.pages.dev/category/akashg.jpg",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/eishakilei-bd08/soha/refs/heads/main/t.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "Tangotv",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRMqzB3p0eRYXLb8qvahY_x_O35AtddvnVF6-qBzu_YA&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/in_tango.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "ULTRA VISION",
+            "logo": "https://i.postimg.cc/L8MJBWQX/Picsart-26-03-17-22-56-10-845.jpg",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/XOTT_16032026_2107fk.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "SPORT ZONE",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoputVRy78Z66IhXPu7bYcMTTXkHVAqyiTwRv6swwlA&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/all-sports.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "FIFA PLUS",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhokREPmu7NevdecCRJejEY1AOZZalcL-OOfxBTAw7dA&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/srhady/fifaplus/refs/heads/main/fifa_live.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "CricHD",
+            "logo": "https://assets-playztv.pages.dev/sports-category/crichd.jpg",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "FANCODE ",
+            "logo": "https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q",
+            "type": "custom",
+            "api": "channels/ZmMxNzc4NjU2NTczMjk3.txt"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "AKASHGO BD",
+            "logo": "https://assets-playztv.pages.dev/category/akashg.jpg",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/akash_live.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "ayna bk url",
+            "logo": "https://aynaa.playztv.workers.dev/pl|user-agent=myapp",
+            "type": "m3u",
+            "api": "https://ay2.playztv.workers.dev/?key=plz_lock_2026"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "Zenie TV bk original",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAGmmOlekt9OZ3sO7SNf-3e4BbibsVGlGoEjSGbuuxij7BXm_AUJj5_9eeXQSzL0l9x-AXsYQKPtI5Qm2oSvVTWA_DMP_cbG3cHkHcrWphXMltY0XZmTagohUvDOYQHgYmKjpUvDYlLQSvBKmodXV2IxcA8Rm_Uut6RAD_9ZaaQKFwW8ehbQQ4QL-Pl5o/s1600/1000427155.jpg",
+            "type": "m3u",
+            "api": "https://playztv-ol-pl.deadxploit.workers.dev/?get-pl&id=zenie-tv|user-agent=mozila"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "Cignal Tv",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg5wvU7jIe4QOoA3TIIqi92JIOCKQw5E9MCvV5Z6tYAAhnmVZgjhQj3l0&s=10",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/Cg.m3u8"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "ASIA TV",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HnNDoPIMtctA_dY22R_c58uMmGrK8hft4IFV9__cYYFSjdU1zebv9IHxedbN5hgMTvypMOCZvOO6m53Rwan_Cug6XZ3sZg1fgWpKaSpplUwvS7C94BR7B6e8BE50bfw_46hrV_pZ9mJ8NyJ8LYHAS0JXnT8j1GIQdZ-EtrbpjX6I6DYVVrFtKv64cLw/s1600/1000409128.jpg",
+            "type": "m3u",
+            "api": "https://m3u-tvb2.pages.dev/asia-2.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "SF TV",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSePGfjYDmNVLvnrA2rdu4L65s3WuI6AIMKepNcNF1VSA&s=10",
+            "type": "m3u",
+            "api": "https://m3u-tvb2.pages.dev/sf-playlist.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "WILLOW LIVE",
+            "logo": "https://mms.businesswire.com/media/20240530429365/en/2145074/5/logo_transparent_cb_%281%29.jpg?download=1",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "TCL GB",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Pht45WmErT7MPs5gV4aSvL-Dguh6oVOJKHnzghLUyA&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/sunilprregmi/hera-hai/3d5b20bb176b9985b0f55f87d47f6d7b54037142/livetv_tcl_gb.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "VIZIO TV",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8hYBS_3HotqO-d8qPifnkoYzJaWiMqVC_HSwbJ07TVQ&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/lucaswyte/iptv/ae8de55d61b66f29e0f2b0ea05fd0e926c0c4042/vizio.m3u8"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "BDIX 2",
+            "logo": "https://play-lh.googleusercontent.com/ZhYHS7gmXM3RZNv6Gz48wKlKhC7GyXiyrIPZjl1DkbVn70pqsQgoowujEz1KGHUopA",
+            "type": "m3u",
+            "api": "v"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "World TV 3.0",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuZ5r_fXGIiD6AK_JyyNh4mmGUiVlj_KAgDRALWT7zqSLP5ECTYWKvDLB9esc_TUaYGca8sTV9q6xz2aU9HQQIVxv-AiLP9SgL2nPCXacQHdw5sj9TWYHMcA-F3y44eg1S1KMwcR8XLVB9CmkWuiVHCgLu2bnIoSfYGiiQeYqytlOHbwOCtFcbKZu7NfV9/s1600/1000446300.jpg",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/world3.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "Bangladeshi",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLHadezgXahsoVDya0qDQXw81vBZjEgKwQSnyc_m_YQ&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bd-test.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "Jio TV+ BD 3",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVvg995SN55aY_K2JMLqZnIR5SYOSXFxVyHPmjgDXLA&s=10",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/jiobd3.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "JIO IND S3",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVvg995SN55aY_K2JMLqZnIR5SYOSXFxVyHPmjgDXLA&s=10",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/jtv.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "toffee 3",
+            "logo": "v",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_OTT_Navigator.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "AYNA+",
+            "logo": "https://assets-playztv.pages.dev/category/ayna.png",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/ayna+.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "World 3",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuZ5r_fXGIiD6AK_JyyNh4mmGUiVlj_KAgDRALWT7zqSLP5ECTYWKvDLB9esc_TUaYGca8sTV9q6xz2aU9HQQIVxv-AiLP9SgL2nPCXacQHdw5sj9TWYHMcA-F3y44eg1S1KMwcR8XLVB9CmkWuiVHCgLu2bnIoSfYGiiQeYqytlOHbwOCtFcbKZu7NfV9/s1600/1000446300.jpg",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/amin8453/playlist/main/main.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "World flexbk",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieid951B1CM9zRn2fug33YFGUOmPteJN_FQuXbZhingcWpb5zHonWN0Zze7Y1VN9jgmQdgUHgIl532BvliyJa53O8uzVIGYENW_FYcay_ENSrQWEsRodP-1i8ZpAii0lmJEaZkZIJC4nvWz1vIk1vKBuaadnaQ6TERvDT6U9ADXPuxZNeNNstl_8FByNE/s1600/1000412020.png",
+            "type": "m3u",
+            "api": "https://m3u-tvb.pages.dev/filexupx1.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "ASIA TV",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HnNDoPIMtctA_dY22R_c58uMmGrK8hft4IFV9__cYYFSjdU1zebv9IHxedbN5hgMTvypMOCZvOO6m53Rwan_Cug6XZ3sZg1fgWpKaSpplUwvS7C94BR7B6e8BE50bfw_46hrV_pZ9mJ8NyJ8LYHAS0JXnT8j1GIQdZ-EtrbpjX6I6DYVVrFtKv64cLw/s1600/1000409128.jpg",
+            "type": "m3u",
+            "api": "https://m3u-tvb2.pages.dev/Mac-ASIA.m3u"
+        }
+    },
+    {
+        "cat": {
+            "visible": true,
+            "hasHeader": false,
+            "name": "Prime Video Live",
+            "logo": "https://assets-playztv.pages.dev/category/pvideo.jpg",
+            "type": "m3u",
+            "api": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u"
+        }
+    }
+]

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:55:33 AM 04-08-2026",
-    "Live": "00",
-    "Upcoming": "31",
+    "Last update time": "10:00:54 AM 04-08-2026",
+    "Live": "01",
+    "Upcoming": "30",
     "Finish": "29",
     "events": [
         {
@@ -20,7 +20,7 @@
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
                 "eventName": "Twenty20 International Women",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/08/04 04:30:00 +0000",
                 "endTime": "2026/08/04 08:30:00 +0000"
             },
@@ -43,7 +43,7 @@
                 },
                 {
                     "title": "FANCODE - IN",
-                    "link": "https://livecf.fancode.com/4247430_english_hls_95c58d450c16763_1ta-di_h264/index.m3u8",
+                    "link": "https://livecf.fancode.com/4247429_english_hls_46b6a5959242798_1ta-di_h264/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

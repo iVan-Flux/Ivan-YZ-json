@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:35:33 AM 06-08-2026",
+    "Last update time": "02:40:49 AM 06-08-2026",
     "sports": [
         {
             "cat": {
@@ -7529,13 +7529,13 @@
         {
             "cat": {
                 "visible": true,
-                "hasHeader": true,
-                "hasVpnDetection": false,
+                "hasHeader": false,
+                "hasVpnDetection": true,
                 "xorKey": "",
                 "name": "vvv",
-                "logo": "http://103.175.242.10:8080/tsports1/index.m3u8",
+                "logo": "vv",
                 "type": "m3u",
-                "api": "http://103.175.242.10:8080/tsports1/index.m3u8"
+                "api": "http://xfireflix.my.id/sf/play.php?id=112"
             }
         }
     ]

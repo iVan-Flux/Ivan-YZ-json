@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:25:30 PM 05-08-2026",
-    "Live": "03",
-    "Upcoming": "28",
+    "Last update time": "03:31:15 PM 05-08-2026",
+    "Live": "04",
+    "Upcoming": "27",
     "Finish": "28",
     "events": [
         {
@@ -141,7 +141,7 @@
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/189195/image",
                 "eventName": "ICC CWC League 2",
                 "isHot": "0",
-                "Status": "Upcoming",
+                "Status": "Live",
                 "startTime": "2026/08/05 10:00:00 +0000",
                 "endTime": "2026/08/05 14:00:00 +0000"
             },

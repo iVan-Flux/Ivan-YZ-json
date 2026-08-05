@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:15:48 AM 06-08-2026",
+    "Last update time": "02:20:46 AM 06-08-2026",
     "sports": [
         {
             "cat": {
@@ -386,6 +386,13 @@
                                 },
                                 {
                                     "name": "T Sports S2 - HD",
+                                    "link": "http://103.175.242.10:8080/tsports1/index.m3u8",
+                                    "scheme": 0,
+                                    "api": "",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "ttttt",
                                     "link": "http://103.175.242.10:8080/tsports1/index.m3u8",
                                     "scheme": 0,
                                     "api": "",
@@ -7529,6 +7536,18 @@
                 "logo": "f",
                 "type": "m3u",
                 "api": "https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/combine_playlist.m3u"
+            }
+        },
+        {
+            "cat": {
+                "visible": true,
+                "hasHeader": true,
+                "hasVpnDetection": false,
+                "xorKey": "",
+                "name": "vvv",
+                "logo": "http://103.175.242.10:8080/tsports1/index.m3u8",
+                "type": "m3u",
+                "api": "http://103.175.242.10:8080/tsports1/index.m3u8"
             }
         }
     ]

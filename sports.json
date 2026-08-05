@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:05:34 AM 06-08-2026",
+    "Last update time": "02:10:41 AM 06-08-2026",
     "sports": [
         {
             "cat": {
@@ -103,6 +103,13 @@
                                 {
                                     "name": "PK SPORTS ",
                                     "link": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
+                                    "scheme": 0,
+                                    "api": "",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "ev",
+                                    "link": "http://193.47.62.192/hls/ummmA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
@@ -7517,9 +7524,9 @@
                 "visible": true,
                 "hasHeader": true,
                 "hasVpnDetection": false,
-                "xorKey": "Nx123OTT0923J129",
-                "name": "test 4 bx",
-                "logo": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Sports-s7.m3u",
+                "xorKey": "",
+                "name": "cami",
+                "logo": "http://localhost:8000/xor enc-dec/text.txt",
                 "type": "m3u",
                 "api": "http://localhost:8000/xor enc-dec/text.txt"
             }

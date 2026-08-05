@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:35:44 PM 05-08-2026",
+    "Last update time": "10:40:48 PM 05-08-2026",
     "sports": [
         {
             "cat": {
@@ -1728,6 +1728,22 @@
                                         "api": "http://localhost:8000/hls/sp.json",
                                         "type": "sp",
                                         "link_key": "sony_ten_sports_1_hd_playbacks_url",
+                                        "default_string": "N8x7Y%m+6n",
+                                        "request_type": "get",
+                                        "request_body_type": "text",
+                                        "ip_api": "https://api.ipify.org/"
+                                    }
+                                },
+                                {
+                                    "name": "xbbb",
+                                    "link": "",
+                                    "scheme": 0,
+                                    "api": "",
+                                    "tokenApi": {
+                                        "url": "",
+                                        "api": "https://example.com/",
+                                        "type": "embed",
+                                        "link_key": "playback_url",
                                         "default_string": "N8x7Y%m+6n",
                                         "request_type": "get",
                                         "request_body_type": "text",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:40:43 AM 06-08-2026",
+    "Last update time": "12:45:41 AM 06-08-2026",
     "sports": [
         {
             "cat": {
@@ -7510,6 +7510,30 @@
                 "logo": "https://assets-playztv.pages.dev/sports-category/crichd.jpg",
                 "type": "m3u",
                 "api": "https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u"
+            }
+        },
+        {
+            "cat": {
+                "visible": true,
+                "hasHeader": false,
+                "hasVpnDetection": true,
+                "xorKey": "",
+                "name": "test",
+                "logo": "v",
+                "type": "m3u",
+                "api": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Sports-s7.m3u"
+            }
+        },
+        {
+            "cat": {
+                "visible": true,
+                "hasHeader": true,
+                "hasVpnDetection": false,
+                "xorKey": "",
+                "name": "tset hd 2",
+                "logo": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Sports-s7.m3u",
+                "type": "m3u",
+                "api": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Sports-s7.m3u"
             }
         }
     ]

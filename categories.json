@@ -568,6 +568,16 @@
     },
     {
         "cat": {
+            "visible": false,
+            "hasHeader": false,
+            "name": "TATA PLAY",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_qYe3Y4S5bXXVlPtXQnqtAkLw1-no57QHhPyMgWE0SQmxujzHxZKiDs&s=10",
+            "type": "m3u",
+            "api": "https://hotstarlive.delta-cloud.workers.dev/?token=240bb9-374e2e-3c13f0-4a7xz5"
+        }
+    },
+    {
+        "cat": {
             "visible": true,
             "hasHeader": false,
             "name": "JIO IND",
@@ -1116,7 +1126,8 @@
     {
         "cat": {
             "visible": true,
-            "name": "Tapmad Live",
+            "hasHeader": false,
+            "name": "Tapmad Sports",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThztxuZ7fSKWHCAo0joPbMAWyvThLFn9LwWtgbqBNNb5kCddqhFHpBTuFV&s=10",
             "type": "m3u",
             "api": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
@@ -1385,7 +1396,7 @@
         "cat": {
             "visible": true,
             "hasHeader": false,
-            "name": "Prime Video Live",
+            "name": "Prime Sports",
             "logo": "https://assets-playztv.pages.dev/category/pvideo.jpg",
             "type": "m3u",
             "api": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u"
@@ -1399,16 +1410,6 @@
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWoPHfgOHaZYT222AjgtqJB2cVypMRfUdyj3TxY9oPdw&s=10SonyLiv",
             "type": "m3u",
             "api": "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"
-        }
-    },
-    {
-        "cat": {
-            "visible": true,
-            "hasHeader": false,
-            "name": "TATA PLAY",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_qYe3Y4S5bXXVlPtXQnqtAkLw1-no57QHhPyMgWE0SQmxujzHxZKiDs&s=10",
-            "type": "m3u",
-            "api": "https://hotstarlive.delta-cloud.workers.dev/?token=240bb9-374e2e-3c13f0-4a7xz5"
         }
     }
 ]

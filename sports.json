@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:35:34 PM 05-08-2026",
+    "Last update time": "03:40:43 PM 05-08-2026",
     "sports": [
         {
             "cat": {
@@ -118,6 +118,22 @@
                             "is_playlist": false,
                             "stream_links": [
                                 {
+                                    "name": "HD",
+                                    "link": "v",
+                                    "scheme": 0,
+                                    "api": "",
+                                    "tokenApi": {
+                                        "url": "v",
+                                        "api": "https://pl-repid.deadxploit.workers.dev?ch=a sports",
+                                        "type": "sp",
+                                        "link_key": "playback_url",
+                                        "default_string": "N8x7Y%m+6n",
+                                        "request_type": "get",
+                                        "request_body_type": "text",
+                                        "ip_api": "https://api.ipify.org/"
+                                    }
+                                },
+                                {
                                     "name": "PZ TV  - HD",
                                     "link": "https://playztv-apps.pages.dev/asports/index.m3u8",
                                     "scheme": 0,
@@ -134,13 +150,6 @@
                                 {
                                     "name": "A SPORTS - SD",
                                     "link": "https://stream2.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8?uuid=null",
-                                    "scheme": 0,
-                                    "api": "",
-                                    "tokenApi": ""
-                                },
-                                {
-                                    "name": "Link 3",
-                                    "link": "http://175.107.244.52:4456/play/a04p/index.m3u8",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""

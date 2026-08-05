@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:45:39 PM 05-08-2026",
+    "Last update time": "04:47:43 PM 05-08-2026",
     "sports": [
         {
             "cat": {
@@ -352,7 +352,16 @@
                                     "link": "https://pl-repid.deadxploit.workers.dev?ch=sports 2",
                                     "scheme": 0,
                                     "api": "",
-                                    "tokenApi": ""
+                                    "tokenApi": {
+                                        "url": "https://pl-repid.deadxploit.workers.dev?ch=sports 2",
+                                        "api": "https://pl-repid.deadxploit.workers.dev?ch=sports 2",
+                                        "type": "sp",
+                                        "link_key": "playback_url",
+                                        "default_string": "N8x7Y%m+6n",
+                                        "request_type": "get",
+                                        "request_body_type": "text",
+                                        "ip_api": "https://api.ipify.org/"
+                                    }
                                 },
                                 {
                                     "name": "T Sports FHD bdix",

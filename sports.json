@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:50:50 AM 06-08-2026",
+    "Last update time": "12:54:50 AM 06-08-2026",
     "sports": [
         {
             "cat": {
@@ -7533,7 +7533,19 @@
                 "name": "tset hd 2",
                 "logo": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Sports-s7.m3u",
                 "type": "m3u",
-                "api": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Sports-s7.m3u"
+                "api": "http://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Sports-s7.m3u"
+            }
+        },
+        {
+            "cat": {
+                "visible": true,
+                "hasHeader": false,
+                "hasVpnDetection": false,
+                "xorKey": "Nx123OTT0923J129",
+                "name": "test 4 bx",
+                "logo": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Sports-s7.m3u",
+                "type": "m3u",
+                "api": "http://localhost:8000/xor enc-dec/text.txt"
             }
         }
     ]

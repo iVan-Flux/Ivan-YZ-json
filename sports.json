@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:15:49 PM 06-08-2026",
+    "Last update time": "08:20:48 PM 06-08-2026",
     "sports": [
         {
             "cat": {
@@ -5408,15 +5408,15 @@
                                     "tokenApi": ""
                                 },
                                 {
-                                    "name": "FHD",
-                                    "link": "https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=iISQ5ZLeYYlA14Yb8BxcGQ&e=2075748409&scheme=https",
+                                    "name": "HD",
+                                    "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/1174236.m3u8",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
                                 },
                                 {
-                                    "name": "HD",
-                                    "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/1174236.m3u8",
+                                    "name": "FHD",
+                                    "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
@@ -5444,6 +5444,13 @@
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
+                                },
+                                {
+                                    "name": "FHD",
+                                    "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8",
+                                    "scheme": 0,
+                                    "api": "",
+                                    "tokenApi": ""
                                 }
                             ]
                         }
@@ -5468,6 +5475,13 @@
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""
+                                },
+                                {
+                                    "name": "FHD 2",
+                                    "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports3.m3u8",
+                                    "scheme": 0,
+                                    "api": "",
+                                    "tokenApi": ""
                                 }
                             ]
                         }
@@ -5480,7 +5494,7 @@
                             "is_playlist": false,
                             "stream_links": [
                                 {
-                                    "name": "FHD ",
+                                    "name": "AQ",
                                     "link": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
                                     "scheme": 0,
                                     "api": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50",
@@ -5489,6 +5503,13 @@
                                 {
                                     "name": "HD",
                                     "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/1174239.m3u8",
+                                    "scheme": 0,
+                                    "api": "",
+                                    "tokenApi": ""
+                                },
+                                {
+                                    "name": "FHD",
+                                    "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports4.m3u8",
                                     "scheme": 0,
                                     "api": "",
                                     "tokenApi": ""

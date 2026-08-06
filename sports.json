@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_Flux",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:55:36 PM 06-08-2026",
+    "Last update time": "03:00:55 PM 06-08-2026",
     "sports": [
         {
             "cat": {
@@ -7536,6 +7536,18 @@
                 "logo": "https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/NS_player.json",
                 "type": "m3u",
                 "api": "https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/NS_player.json"
+            }
+        },
+        {
+            "cat": {
+                "visible": true,
+                "hasHeader": false,
+                "hasVpnDetection": false,
+                "xorKey": "Nx123OTT0923J129",
+                "name": "yu",
+                "logo": "y",
+                "type": "m3u",
+                "api": "http://localhost:8000/xor%20enc-dec/text.txt"
             }
         }
     ]

@@ -3,10 +3,10 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:20:48 PM 06-08-2026",
+    "Last update time": "08:25:31 PM 06-08-2026",
     "Live": "01",
-    "Upcoming": "57",
-    "Finish": "31",
+    "Upcoming": "58",
+    "Finish": "32",
     "events": [
         {
             "id": 0,
@@ -313,6 +313,33 @@
                 "Status": "Upcoming",
                 "startTime": "2026/08/06 18:00:00 +0000",
                 "endTime": "2026/08/06 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://playztv.pages.dev/sss/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bristol City",
+                "teamB": "Walsall",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/26/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 18:45:00 +0000",
+                "endTime": "2026/08/06 21:05:00 +0000"
             },
             "channels_data": [
                 {
@@ -2018,6 +2045,33 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "title": "ATP & WTA Tour",
+            "image": "https://media.istockphoto.com/id/2195054103/vector/tennis-rackets-with-tennis-ball-in-circle-composition-in-retro-style-sports-equipment-on.jpg?s=612x612&w=0&k=20&c=3TasXyTJWVkVGeT0ZLV_cHxV2i2_oWeGaSh5vUVt5q8=",
+            "cat": "Tennis",
+            "eventInfo": {
+                "teamA": "ATP",
+                "teamB": "WTA",
+                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy_Z0B0ltxE-A1aMbA96XkDqkchNTjGoOCkruasbfTHg&s=10",
+                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCVLKHmKMDyPjas3DIH7Nzgd2okiwIleLKTDICo_WEmw&s=10",
+                "eventName": "ATP & WTA Tour",
+                "isHot": "0",
+                "Status": "Finished",
+                "startTime": "2026/08/06 16:30:00 +0000",
+                "endTime": "2026/08/06 01:41:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
                     "tokenApi": ""
                 }
             ]
